@@ -1,30 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/F6K1U5XVumvZMoad3S1HFFmDnok=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5381774/f080a5.jpg" group-title="Live Now",Bologna vs Inter - Serie A (22:45 WIB * 17-10-2026) - BG
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTIzNDQ2Mjl9.0nPfksO_Dfa_To1XSVKTMpB8RTKkQNySwJmH1kZWVxE
-https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTIzNDQ2Mjl9.0nPfksO_Dfa_To1XSVKTMpB8RTKkQNySwJmH1kZWVxE
-
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/OGh2hhSN8JUCcbAk013AfKeaJRo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383315/0f2ae1.jpg" group-title="Live Now",Fenerbahce vs Alanyaspor - Trendyol Super Lig (22:55 WIB * 17-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=17875&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkyMzQ0NjI5fQ.zNQmRWs4PS2Rh5hpBoU5yvt38gszARZ47sNcI-_e_GY
-https://vidkon.biz.id/post.mpd?id=17875&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkyMzQ0NjI5fQ.zNQmRWs4PS2Rh5hpBoU5yvt38gszARZ47sNcI-_e_GY
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/iPpcHLEl_eeogJPHRPBetBx__0s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383376/37df77.jpg" group-title="Live Now",Fenerbahce Medicana vs Ziraat Bankkart - Turkish Men's Volleyball League (22:55 WIB * 17-10-2026) - BG
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22603&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjAzIiwiZXhwIjoxNzkyMzQ0NjI5fQ.IAMFt2pelUZtpJ4-bp0gHhY4NmyvJX1i7RixoR8dVD0
-https://vidkon.biz.id/post.mpd?id=22603&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjAzIiwiZXhwIjoxNzkyMzQ0NjI5fQ.IAMFt2pelUZtpJ4-bp0gHhY4NmyvJX1i7RixoR8dVD0
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=17875&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkyMzQ2NDMzfQ.EMLYRndFc1ZjOQzDQEz45I-n-3bi0CBdfX8Sacrhk2Q
+https://vidkon.biz.id/post.mpd?id=17875&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkyMzQ2NDMzfQ.EMLYRndFc1ZjOQzDQEz45I-n-3bi0CBdfX8Sacrhk2Q
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/R9eRoOCVdbXIVYjwFZSAM6ONzsA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5379682/b679ef.jpg" group-title="Live Now",Newcastle vs Aston Villa - Premier League (23:10 WIB * 17-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -32,8 +14,8 @@ https://vidkon.biz.id/post.mpd?id=22603&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22022&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMDIyIiwiZXhwIjoxNzkyMzQ0NjI5fQ.UNpFzvuIkAGS25H9PzmzkWt1ieWreT9JrpPHvMVwCbk
-https://vidkon.biz.id/post.mpd?id=22022&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMDIyIiwiZXhwIjoxNzkyMzQ0NjI5fQ.UNpFzvuIkAGS25H9PzmzkWt1ieWreT9JrpPHvMVwCbk
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22022&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMDIyIiwiZXhwIjoxNzkyMzQ2NDMzfQ.-hYMFmvkh1G8U-gabHf5C8nQZrnJ1WP2-uJ7hS1cOVg
+https://vidkon.biz.id/post.mpd?id=22022&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMDIyIiwiZXhwIjoxNzkyMzQ2NDMzfQ.-hYMFmvkh1G8U-gabHf5C8nQZrnJ1WP2-uJ7hS1cOVg
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/WDHcQGSHYSXs6nf7yV7_x0g_gyc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5380741/a99aae.jpg" group-title="Live Now",Real Betis vs Barcelona - LaLiga (23:30 WIB * 17-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -41,18 +23,23 @@ https://vidkon.biz.id/post.mpd?id=22022&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6299&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYyOTkiLCJleHAiOjE3OTIzNDQ2Mjl9.AIMKwnecIbVq-SY0Dgzv71ni8Q9mNQmg8KqIm_6bjl0
-https://vidkon.biz.id/post.mpd?id=6299&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYyOTkiLCJleHAiOjE3OTIzNDQ2Mjl9.AIMKwnecIbVq-SY0Dgzv71ni8Q9mNQmg8KqIm_6bjl0
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6299&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYyOTkiLCJleHAiOjE3OTIzNDY0MzN9.P2C1cIXrg2veIjFg9r_4tG_Zi46g32VkRUj9q-PzvGY
+https://vidkon.biz.id/post.mpd?id=6299&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYyOTkiLCJleHAiOjE3OTIzNDY0MzN9.P2C1cIXrg2veIjFg9r_4tG_Zi46g32VkRUj9q-PzvGY
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/zFgRG4L_698kBCDuB-4mobOqc-U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383333/09de55.jpg" group-title="Upcoming",Telstar vs Feyenoord - Eredivisie (00:55 WIB * 18-10-2026) - BG
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/zFgRG4L_698kBCDuB-4mobOqc-U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383333/09de55.jpg" group-title="Live Now",Telstar vs Feyenoord - Eredivisie (00:55 WIB * 18-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6685&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY2ODUiLCJleHAiOjE3OTIzNDY0MzN9.k_y-pr5WeZn3uK-ZasU0OgGUnlpDkV_-xZlcb5Hwyxo
+https://vidkon.biz.id/post.mpd?id=6685&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY2ODUiLCJleHAiOjE3OTIzNDY0MzN9.k_y-pr5WeZn3uK-ZasU0OgGUnlpDkV_-xZlcb5Hwyxo
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/eWWTysTGtibstQbLXVeJMKvMx-Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383974/39f9af.png" group-title="Upcoming",Vero Volley Milano vs Igor Gorgonzola Novara - Italian Women's Volleyball Serie A1 (01:30 WIB * 18-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/NT8dYCuJ11aXWN403l6M4bNzW0A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5381775/d461ab.jpg" group-title="Upcoming",Roma vs Genoa - Serie A (01:30 WIB * 18-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/eWWTysTGtibstQbLXVeJMKvMx-Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383974/39f9af.png" group-title="Upcoming",Vero Volley Milano vs Igor Gorgonzola Novara - Italian Women's Volleyball Serie A1 (01:30 WIB * 18-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -108,7 +95,7 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/yg8cheg5fpF_bWuRmlCi8WO9at8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383982/176a24.jpg" group-title="Upcoming",Doubles Final (Stadium Court) - ATP 1000: Rolex Shanghai Masters 2026 (13:00 WIB * 18-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/p7GMy1EyWFDqVIcmkYRMbOtCQzs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383982/751ed4.jpg" group-title="Upcoming",Lucas Miedler/Neil Oberleitner vs Francisco Cabral/James Tracy - Doubles Final | ATP Masters 1000: Shanghai Masters 2026 (13:00 WIB * 18-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -132,7 +119,7 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hApNN5QwATMwpyH4UWln5w1Z6aA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383977/4796d3.jpg" group-title="Upcoming",Singles Final - ATP 1000: Rolex Shanghai Masters 2026 (15:30 WIB * 18-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/bdKdNXiokKODhnK0FH-dFopg_80=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383977/454d77.jpg" group-title="Upcoming",Alejandro Davidovich Fokina vs Rafael Jodar - Final | ATP Masters 1000: Shanghai Masters 2026 (15:30 WIB * 18-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
