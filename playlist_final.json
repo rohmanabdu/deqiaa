@@ -5,8 +5,8 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18190&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTkwIiwiZXhwIjoxNzkyMjk0OTY4fQ.SxDaCEJnkTzO3NaOHC7gwGzUeDP016NbBKPN9jtQGLc
-https://vidkon.biz.id/post.mpd?id=18190&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTkwIiwiZXhwIjoxNzkyMjk0OTY4fQ.SxDaCEJnkTzO3NaOHC7gwGzUeDP016NbBKPN9jtQGLc
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18190&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTkwIiwiZXhwIjoxNzkyMjk1NTk2fQ.iezyGxoKNLsWTBgrturdFCD3alccM-VI4-Au9-1N8Ow
+https://vidkon.biz.id/post.mpd?id=18190&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTkwIiwiZXhwIjoxNzkyMjk1NTk2fQ.iezyGxoKNLsWTBgrturdFCD3alccM-VI4-Au9-1N8Ow
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/aJBJnUQCDG5FKOcolv6MP6SgUHQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5380753/e0ec02.png" group-title="Upcoming",Auckland FC vs Melbourne City - Isuzu UTE A-League Men (10:55 WIB * 17-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -272,7 +272,7 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/awal.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/awal.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/J4eTmFq8Fal7xwOq83Xie78c3wQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5379860/58f958.jpg" group-title="Upcoming",FC Lorient vs AS Monaco - Ligue 1 (22:15 WIB * 18-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/J4eTmFq8Fal7xwOq83Xie78c3wQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5379860/58f958.jpg" group-title="Upcoming",FC Lorient vs AS Monaco - Ligue 1 (22:10 WIB * 18-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/awal.mp4
 
