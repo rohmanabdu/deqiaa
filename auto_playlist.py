@@ -1,84 +1,49 @@
-# -*- coding: utf-8 -*-
-# Auto Event - BandelTV Playlist Updater
-# Source: https://bandeltv.xyz/2026/vid/New.php
-import requests
-import json
-import re
+# auto_playlist.py - VERSI PINTER (upcoming vs live)
+import requests, json
 
-SOURCE_URL = "https://bandeltv.xyz/2026/vid/New.php"
-# GANTI DISINI VIDEO BARU KAMU
-NEW_UPCOMING_VIDEO = "https://raw.githubusercontent.com/rohmanabdu/cloudd/main/awal.mp4" 
-OLD_VIDEO_KEYWORD = "waitng_event_gemini.mp4"
-OUTPUT_FILE = "playlist_final.m3u"
-OUTPUT_JSON = "playlist_final.json"
+SOURCE = "https://bandeltv.xyz/2026/vid/New.php"
+VIDEO_TUNGGU_CUSTOM = "https://raw.githubusercontent.com/rohmanabdu/cloudd/main/awal.mp4"
+VIDEO_TUNGGU_LAMA = "waitng_event_gemini.mp4"
 
-def get_playlist():
-    print(f"[+] Ambil playlist dari: {SOURCE_URL}")
-    r = requests.get(SOURCE_URL, timeout=15, headers={
-        "User-Agent": "Mozilla/5.0",
-        "Referer": "https://bandeltv.xyz/"
+def get_source():
+    r = requests.get(SOURCE, timeout=15, headers={
+        "User-Agent":"Mozilla/5.0", "Referer":"https://bandeltv.xyz/"
     })
-    r.raise_for_status()
     return r.text
 
-def process_content(text):
-    # Cek apakah JSON atau M3U
-    # Kalau ada OLD_VIDEO, ganti semua
-    if OLD_VIDEO_KEYWORD in text:
-        print(f"[!] Ditemukan upcoming video lama, ganti ke {NEW_UPCOMING_VIDEO}")
-        text = text.replace(
-            "https://bandeltv.xyz/film/waitng_event_gemini.mp4", 
-            NEW_UPCOMING_VIDEO
-        )
-        text = text.replace(
-            "/film/waitng_event_gemini.mp4", 
-            NEW_UPCOMING_VIDEO
-        )
-        text = text.replace(OLD_VIDEO_KEYWORD, NEW_UPCOMING_VIDEO)
+def process():
+    text = get_source()
     
-    # Kalau JSON, proses lebih rapi
-    try:
-        data = json.loads(text)
-        # ubah di dalam json juga
-        json_str = json.dumps(data).replace(OLD_VIDEO_KEYWORD, NEW_UPCOMING_VIDEO)
-        json_str = json_str.replace("https://bandeltv.xyz/film/waitng_event_gemini.mp4", NEW_UPCOMING_VIDEO)
-        data = json.loads(json_str)
-        print(f"[+] {len(data) if isinstance(data, list) else 1} siaran ditemukan (JSON)")
-        return json.dumps(data, indent=2), data
-    except:
-        # anggap M3U
-        upcoming_count = text.count(NEW_UPCOMING_VIDEO)
-        print(f"[+] Playlist M3U terdeteksi, {upcoming_count} upcoming diganti")
-        return text, None
-
-def save_files(m3u_content, json_content):
-    # Simpan versi M3U untuk player
-    if not m3u_content.strip().startswith("#EXTM3U"):
-        # kalau source JSON, kita convert ke M3U
-        if json_content:
-            m3u = "#EXTM3U\n"
-            for item in json_content if isinstance(json_content, list) else [json_content]:
-                title = item.get('title') or item.get('name') or item.get('channel') or "Upcoming Event"
-                logo = item.get('logo') or item.get('poster') or ""
-                url = item.get('url') or item.get('file') or item.get('src') or NEW_UPCOMING_VIDEO
-                if OLD_VIDEO_KEYWORD in url:
-                    url = NEW_UPCOMING_VIDEO
-                m3u += f'#EXTINF:-1 tvg-logo="{logo}",{title}\n{url}\n'
-            m3u_content = m3u
-
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write(m3u_content)
-    print(f"[✓] Disimpan: {OUTPUT_FILE}")
-
-    if json_content is None:
-        # simpan raw juga sebagai json info
-        with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
-            f.write(m3u_content)
+    # CEK STATUS DARI LINK TUJUAN
+    is_upcoming = VIDEO_TUNGGU_LAMA in text or "waitng_event" in text
+    
+    if is_upcoming:
+        print("[STATUS] BELUM MULAI - pakai video tunggu custom")
+        final_text = text.replace(
+            f"https://bandeltv.xyz/film/{VIDEO_TUNGGU_LAMA}", VIDEO_TUNGGU_CUSTOM
+        ).replace(VIDEO_TUNGGU_LAMA, VIDEO_TUNGGU_CUSTOM)
+        # pastikan juga yang https://bandeltv.xyz/film/waitng_event_gemini.mp4
+        final_text = final_text.replace(
+            "https://bandeltv.xyz/film/waitng_event_gemini.mp4", VIDEO_TUNGGU_CUSTOM
+        )
     else:
-        with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
-            json.dump(json_content, f, indent=2)
+        print("[STATUS] SUDAH MULAI - pakai link siaran asli dari New.php")
+        final_text = text # JANGAN DI GANTI, pakai link live asli dari tujuan
+
+    # Simpan 2 versi
+    with open("playlist_final.json", "w", encoding="utf-8") as f:
+        # kalau source JSON, kita simpan apa adanya (sudah diganti jika upcoming)
+        try:
+            data = json.loads(final_text)
+            json.dump(data, f, indent=2, ensure_ascii=False)
+        except:
+            # kalau M3U, bungkus jadi JSON info
+            json.dump({"status": "upcoming" if is_upcoming else "live", "raw": final_text}, f, indent=2)
+
+    with open("playlist_final.m3u", "w", encoding="utf-8") as f:
+        f.write(final_text if final_text.strip().startswith("#EXTM3U") else final_text)
+
+    print(f"[✓] Selesai. Status: {'UPCOMING' if is_upcoming else 'LIVE'}")
 
 if __name__ == "__main__":
-    raw = get_playlist()
-    final_m3u, final_json = process_content(raw)
-    save_files(final_m3u, final_json)
+    process()
