@@ -5,8 +5,8 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20216&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwMjE2IiwiZXhwIjoxNzkyMzYyNjI3fQ.f-oP5PUDLbeSXofmLLzhSGvxQ6IHJBEtrqPm72_Q7b0
-https://vidkon.biz.id/post.mpd?id=20216&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwMjE2IiwiZXhwIjoxNzkyMzYyNjI3fQ.f-oP5PUDLbeSXofmLLzhSGvxQ6IHJBEtrqPm72_Q7b0
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20216&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwMjE2IiwiZXhwIjoxNzkyMzY0NDM1fQ._YkS4Ki-tHr0MwgjGhnec-Y0bbadi2sUXy2d8rHqEQU
+https://vidkon.biz.id/post.mpd?id=20216&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwMjE2IiwiZXhwIjoxNzkyMzY0NDM1fQ._YkS4Ki-tHr0MwgjGhnec-Y0bbadi2sUXy2d8rHqEQU
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ZoSkovADrMhEZTY8CeC0XCLrJcs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5381763/d661df.png" group-title="Upcoming",Mandel Nallo vs Nate Landwehr - Lightweight Bout | UFC Fight Night (07:00 WIB * 18-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
