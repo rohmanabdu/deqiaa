@@ -5,8 +5,8 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18249&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MjQ5IiwiZXhwIjoxNzkyMzExNTY5fQ.Vi2VhEv6T3W5o1QJLx-eSyj3KPvPxePV6B5-EIhuv7E
-https://vidkon.biz.id/post.mpd?id=18249&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MjQ5IiwiZXhwIjoxNzkyMzExNTY5fQ.Vi2VhEv6T3W5o1QJLx-eSyj3KPvPxePV6B5-EIhuv7E
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18249&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MjQ5IiwiZXhwIjoxNzkyMzEyNjgxfQ._TqcLV1EbWAq52DMNYmSLJDM9YCxxpSKh2StKaZvIM4
+https://vidkon.biz.id/post.mpd?id=18249&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MjQ5IiwiZXhwIjoxNzkyMzEyNjgxfQ._TqcLV1EbWAq52DMNYmSLJDM9YCxxpSKh2StKaZvIM4
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/TYFR9fm9oXfHxdJhO8cnsNL5Vug=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383798/c75923.jpg" group-title="Live Now",Putra: STKIP vs UM - Semifinal - Liga Voli Mahasiswa (14:27 WIB * 17-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -14,8 +14,8 @@ https://vidkon.biz.id/post.mpd?id=18249&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=206&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNiIsImV4cCI6MTc5MjMxMTU2OX0.SezSDh-yio_4WmDN9S8-IAO9agDeeB25EXLxqZ-Pd8M
-https://vidkon.biz.id/post.mpd?id=206&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNiIsImV4cCI6MTc5MjMxMTU2OX0.SezSDh-yio_4WmDN9S8-IAO9agDeeB25EXLxqZ-Pd8M
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=206&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNiIsImV4cCI6MTc5MjMxMjY4MX0.QRec85kJe1-TwNrwiyiOZxc3GJSg8cQXjQzbfFKYQ8I
+https://vidkon.biz.id/post.mpd?id=206&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNiIsImV4cCI6MTc5MjMxMjY4MX0.QRec85kJe1-TwNrwiyiOZxc3GJSg8cQXjQzbfFKYQ8I
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/_LQ-18WLudendWox1gexbS5pU-g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5379866/6c2134.jpg" group-title="Live Now",Garudayaksa FC vs Arema FC - BRI Super League (14:57 WIB * 17-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -23,24 +23,44 @@ https://vidkon.biz.id/post.mpd?id=206&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOi
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22207&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA3IiwiZXhwIjoxNzkyMzExNTY5fQ.Hb-_msUzjOITXtTfr5WB0IkegfIxtx30RIZBJVNRzew
-https://vidkon.biz.id/post.mpd?id=22207&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA3IiwiZXhwIjoxNzkyMzExNTY5fQ.Hb-_msUzjOITXtTfr5WB0IkegfIxtx30RIZBJVNRzew
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22207&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA3IiwiZXhwIjoxNzkyMzEyNjgxfQ.rMMKR6zYux2g0HPKBA636m8PSBSEhkrG-MztBd7E2FE
+https://vidkon.biz.id/post.mpd?id=22207&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA3IiwiZXhwIjoxNzkyMzEyNjgxfQ.rMMKR6zYux2g0HPKBA636m8PSBSEhkrG-MztBd7E2FE
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/22xMHTcW4gSO9U9LmIExymGzQYo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5380397/ca362d.jpg" group-title="Upcoming",Semen Padang FC vs PSMS Medan - Pegadaian Championship (15:22 WIB * 17-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/awal.mp4
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/22xMHTcW4gSO9U9LmIExymGzQYo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5380397/ca362d.jpg" group-title="Live Now",Semen Padang FC vs PSMS Medan - Pegadaian Championship (15:22 WIB * 17-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22434&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNDM0IiwiZXhwIjoxNzkyMzEyNjgxfQ.MQSt1ctA8jUCz8B7BEQsrkEGz-CN31Edev3QevGOHrU
+https://vidkon.biz.id/post.mpd?id=22434&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNDM0IiwiZXhwIjoxNzkyMzEyNjgxfQ.MQSt1ctA8jUCz8B7BEQsrkEGz-CN31Edev3QevGOHrU
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/fujBso-BxmToJ9nfwPyyaubSu9c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5380221/bdd1b7.jpg" group-title="Upcoming",RANS Nusantara FC vs PERSELA Lamongan - Pegadaian Championship (15:22 WIB * 17-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/awal.mp4
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/fujBso-BxmToJ9nfwPyyaubSu9c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5380221/bdd1b7.jpg" group-title="Live Now",RANS Nusantara FC vs PERSELA Lamongan - Pegadaian Championship (15:22 WIB * 17-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22262&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjYyIiwiZXhwIjoxNzkyMzEyNjgxfQ.5W0Pjx8PmrFUqVEqxCPxSgUGlfPzzdxuNDk0zjAqwNE
+https://vidkon.biz.id/post.mpd?id=22262&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjYyIiwiZXhwIjoxNzkyMzEyNjgxfQ.5W0Pjx8PmrFUqVEqxCPxSgUGlfPzzdxuNDk0zjAqwNE
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/4lN5rt-zOFjnDF0OoiizzQsYTQM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5380220/c31015.jpg" group-title="Upcoming",PSBS Biak vs PERSIPURA Jayapura - Pegadaian Championship (15:22 WIB * 17-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/awal.mp4
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/4lN5rt-zOFjnDF0OoiizzQsYTQM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5380220/c31015.jpg" group-title="Live Now",PSBS Biak vs PERSIPURA Jayapura - Pegadaian Championship (15:22 WIB * 17-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22261&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjYxIiwiZXhwIjoxNzkyMzEyNjgxfQ.tVdLPShnaZQUu9B6qR29zP7LQr2MqIjMZ5v_ZY3r_00
+https://vidkon.biz.id/post.mpd?id=22261&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjYxIiwiZXhwIjoxNzkyMzEyNjgxfQ.tVdLPShnaZQUu9B6qR29zP7LQr2MqIjMZ5v_ZY3r_00
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/AuHJYG-Z89U4ZJCpSkJ997aV23w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383355/e8377f.png" group-title="Upcoming",Alexander Zverev vs Alejandro Davidovich Fokina - Semifinal | ATP 1000: Rolex Shanghai Masters 2026 (15:30 WIB * 17-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/awal.mp4
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/AuHJYG-Z89U4ZJCpSkJ997aV23w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383355/e8377f.png" group-title="Live Now",Alexander Zverev vs Alejandro Davidovich Fokina - Semifinal | ATP 1000: Rolex Shanghai Masters 2026 (15:30 WIB * 17-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20888&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg4IiwiZXhwIjoxNzkyMzEyNjgxfQ.-8K2NiSVCd2vwvKNEtIOWkObNZj62KTF804kdzR0OQI
+https://vidkon.biz.id/post.mpd?id=20888&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg4IiwiZXhwIjoxNzkyMzEyNjgxfQ.-8K2NiSVCd2vwvKNEtIOWkObNZj62KTF804kdzR0OQI
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ul8fXpIoHPabFWQevVU9yA0Rkpg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383377/687bde.jpg" group-title="Upcoming",Sonay Kartal vs Jelena Ostapenko - Semifinals | WTA 1000: Dongfeng ? Voyah Wuhan Open 2026 (16:00 WIB * 17-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
