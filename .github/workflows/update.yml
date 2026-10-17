@@ -1,36 +1,36 @@
-name: Auto Update Playlist
+name: Update Playlist Otomatis
 on:
-  schedule:
-    - cron: '*/15 * * * *'
   workflow_dispatch:
-
-permissions:
-  contents: write
 
 jobs:
   update:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: Install
-        run: pip install requests
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
 
-      - name: Run script
+      - name: Pull latest first
+        run: git pull --rebase origin main
+
+      - name: Update playlist
         run: python auto_playlist.py
 
-      - name: Push hasil
+      - name: Commit and Push
         run: |
           git config user.name "deqiatv-bot"
           git config user.email "bot@deqiatv"
           git add playlist_final.m3u playlist_final.json
-          git diff --quiet && git diff --staged --quiet || git commit -m "auto update playlist"
+          git diff --quiet && git diff --staged --quiet || git commit -m "auto update playlist [cron-job.org]"
           git push
