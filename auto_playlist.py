@@ -7,7 +7,7 @@ import re
 
 SOURCE_URL = "https://bandeltv.xyz/2026/vid/New.php"
 # GANTI DISINI VIDEO BARU KAMU
-NEW_UPCOMING_VIDEO = "https://bandeltv.xyz/film/video_baru_kamu.mp4" 
+NEW_UPCOMING_VIDEO = "https://raw.githubusercontent.com/rohmanabdu/cloudd/main/awal.mp4" 
 OLD_VIDEO_KEYWORD = "waitng_event_gemini.mp4"
 OUTPUT_FILE = "playlist_final.m3u"
 OUTPUT_JSON = "playlist_final.json"
