@@ -5,12 +5,17 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20216&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwMjE2IiwiZXhwIjoxNzkyMzY2MjI3fQ.2iTgDtmt-de-fSnOBRog5G0A7eZlvbLj57O7BEArWSI
-https://vidkon.biz.id/post.mpd?id=20216&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwMjE2IiwiZXhwIjoxNzkyMzY2MjI3fQ.2iTgDtmt-de-fSnOBRog5G0A7eZlvbLj57O7BEArWSI
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20216&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwMjE2IiwiZXhwIjoxNzkyMzY4MDM3fQ.zU4lGZfZ_h8IO8KoIdO1K8FyZL1oeTgqGVID6h23O60
+https://vidkon.biz.id/post.mpd?id=20216&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwMjE2IiwiZXhwIjoxNzkyMzY4MDM3fQ.zU4lGZfZ_h8IO8KoIdO1K8FyZL1oeTgqGVID6h23O60
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ZoSkovADrMhEZTY8CeC0XCLrJcs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5381763/d661df.png" group-title="Upcoming",Mandel Nallo vs Nate Landwehr - Lightweight Bout | UFC Fight Night (07:00 WIB * 18-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/ZoSkovADrMhEZTY8CeC0XCLrJcs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5381763/d661df.png" group-title="Live Now",Mandel Nallo vs Nate Landwehr - Lightweight Bout | UFC Fight Night (07:00 WIB * 18-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20216&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwMjE2IiwiZXhwIjoxNzkyMzY4MDM3fQ.zU4lGZfZ_h8IO8KoIdO1K8FyZL1oeTgqGVID6h23O60
+https://vidkon.biz.id/post.mpd?id=20216&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwMjE2IiwiZXhwIjoxNzkyMzY4MDM3fQ.zU4lGZfZ_h8IO8KoIdO1K8FyZL1oeTgqGVID6h23O60
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/BWxTP_yOnNUfm4ecIg_YaRTRczs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5381764/bffdc8.png" group-title="Upcoming",Louis Jourdain vs Timmy Cuamba - Bantamweight Bout | UFC Fight Night (07:45 WIB * 18-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
