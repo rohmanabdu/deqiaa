@@ -1,12 +1,21 @@
 #EXTM3U
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/cd2b2t__Rvd7dc8NdH0zwT6UgxE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/victor-denmark-open-2026-finals-d37dac.jpg" group-title="Live Now",Feng Yan Zhe/Huang Dong Ping (CHN) vs Jiang Zhen Bang/Wei Ya Xin (CHN) - Mixed Doubles Final | VICTOR Denmark Open 2026 (17:00 WIB * 18-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18249&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MjQ5IiwiZXhwIjoxNzkyNDA1NDQ3fQ.hDnlDrNVqJxQcruMkt9npiSQUDSFiCzz0xXEcyviX-0
+https://vidkon.biz.id/post.mpd?id=18249&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MjQ5IiwiZXhwIjoxNzkyNDA1NDQ3fQ.hDnlDrNVqJxQcruMkt9npiSQUDSFiCzz0xXEcyviX-0
+
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/-pfs6pFEz7QSeCO-P3U1dWXq-XE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5380403/d2b76a.jpg" group-title="Live Now",PERSEBAYA Surabaya vs PSS Sleman - BRI Super League (14:54 WIB * 18-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22207&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA3IiwiZXhwIjoxNzkyNDA0MDMzfQ.JIl0hVwJJvbeovtfavOW2JAploFRERVn612y0kn-F1E
-https://vidkon.biz.id/post.mpd?id=22207&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA3IiwiZXhwIjoxNzkyNDA0MDMzfQ.JIl0hVwJJvbeovtfavOW2JAploFRERVn612y0kn-F1E
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22207&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA3IiwiZXhwIjoxNzkyNDA1NDQ3fQ.XCg1bcF5BBbaloocC3Uw5PmMEw9dvjdKEvzuJsL26sE
+https://vidkon.biz.id/post.mpd?id=22207&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA3IiwiZXhwIjoxNzkyNDA1NDQ3fQ.XCg1bcF5BBbaloocC3Uw5PmMEw9dvjdKEvzuJsL26sE
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/u5hfE1PyiyKKtj0xUl3x9QnnHMs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5380402/1fa0bc.jpg" group-title="Live Now",Sumsel United vs PERSIKAD - Pegadaian Championship (15:22 WIB * 18-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -14,8 +23,8 @@ https://vidkon.biz.id/post.mpd?id=22207&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22259&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjU5IiwiZXhwIjoxNzkyNDA0MDMzfQ.222n2X9qaaSmVP3eA5OXkIC_2HT4Fyi4WU96t186Sn8
-https://vidkon.biz.id/post.mpd?id=22259&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjU5IiwiZXhwIjoxNzkyNDA0MDMzfQ.222n2X9qaaSmVP3eA5OXkIC_2HT4Fyi4WU96t186Sn8
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22259&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjU5IiwiZXhwIjoxNzkyNDA1NDQ3fQ.WTBq6UGSTrJlBLpNE0WyNhP6BpKG19W5RpzNlBTk090
+https://vidkon.biz.id/post.mpd?id=22259&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjU5IiwiZXhwIjoxNzkyNDA1NDQ3fQ.WTBq6UGSTrJlBLpNE0WyNhP6BpKG19W5RpzNlBTk090
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/oh1jjHXp6UnZ1e5qYagP-PwobxQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5380733/10cd0c.jpg" group-title="Live Now",Deltras FC vs PERSIS Solo - Pegadaian Championship (15:22 WIB * 18-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -23,8 +32,8 @@ https://vidkon.biz.id/post.mpd?id=22259&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22261&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjYxIiwiZXhwIjoxNzkyNDA0MDMzfQ.X1QTAxRFNzt0vTcSkysUyQouRuPNAsz8ppLKtdDrCtQ
-https://vidkon.biz.id/post.mpd?id=22261&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjYxIiwiZXhwIjoxNzkyNDA0MDMzfQ.X1QTAxRFNzt0vTcSkysUyQouRuPNAsz8ppLKtdDrCtQ
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22261&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjYxIiwiZXhwIjoxNzkyNDA1NDQ3fQ.VkkhqNNC9evOcQMXkrJ01TgLyG-NklYRriuKVql6vCk
+https://vidkon.biz.id/post.mpd?id=22261&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjYxIiwiZXhwIjoxNzkyNDA1NDQ3fQ.VkkhqNNC9evOcQMXkrJ01TgLyG-NklYRriuKVql6vCk
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/N27_GWbgORdemPBNBZ8cO2G0L1o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5380401/578e28.jpg" group-title="Live Now",PSPS Pekanbaru vs PERSIKU Kudus - Pegadaian Championship (15:22 WIB * 18-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -32,8 +41,8 @@ https://vidkon.biz.id/post.mpd?id=22261&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22260&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjYwIiwiZXhwIjoxNzkyNDA0MDMzfQ.ugwWUp3wdhg5T5kkwy7VsSHlYtAJ7znHVHVHfIj_0b8
-https://vidkon.biz.id/post.mpd?id=22260&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjYwIiwiZXhwIjoxNzkyNDA0MDMzfQ.ugwWUp3wdhg5T5kkwy7VsSHlYtAJ7znHVHVHfIj_0b8
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22260&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjYwIiwiZXhwIjoxNzkyNDA1NDQ3fQ.RKmNK1hBlA2q0f3i6z0Ry-u5qeI-jvlWpix2_jo6Odk
+https://vidkon.biz.id/post.mpd?id=22260&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjYwIiwiZXhwIjoxNzkyNDA1NDQ3fQ.RKmNK1hBlA2q0f3i6z0Ry-u5qeI-jvlWpix2_jo6Odk
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/bdKdNXiokKODhnK0FH-dFopg_80=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383977/454d77.jpg" group-title="Live Now",Alejandro Davidovich Fokina vs Rafael Jodar - Final | ATP Masters 1000: Shanghai Masters 2026 (15:30 WIB * 18-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -41,8 +50,8 @@ https://vidkon.biz.id/post.mpd?id=22260&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20888&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg4IiwiZXhwIjoxNzkyNDA0MDMzfQ.3dK9capFlmx3_q_Qyh2zHmHHuZZRFJcAybxUu5e-wBU
-https://vidkon.biz.id/post.mpd?id=20888&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg4IiwiZXhwIjoxNzkyNDA0MDMzfQ.3dK9capFlmx3_q_Qyh2zHmHHuZZRFJcAybxUu5e-wBU
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20888&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg4IiwiZXhwIjoxNzkyNDA1NDQ3fQ.g7CPBH51yI_vxQUOCmvwZt5HiBiqeG7sIPdJK7Z7bt4
+https://vidkon.biz.id/post.mpd?id=20888&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg4IiwiZXhwIjoxNzkyNDA1NDQ3fQ.g7CPBH51yI_vxQUOCmvwZt5HiBiqeG7sIPdJK7Z7bt4
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/lhcGSD5ER8vVc6meTFCiA2wN5f4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383980/e54cbf.jpg" group-title="Live Now",Putri: UIBU vs UNESA - Final - Liga Voli Mahasiswa (16:26 WIB * 18-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -50,21 +59,17 @@ https://vidkon.biz.id/post.mpd?id=20888&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=206&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNiIsImV4cCI6MTc5MjQwNDAzM30.diDKWH83xnvz2YtWOEXvg9PuvmF0wzu9--gSuCP3NBg
-https://vidkon.biz.id/post.mpd?id=206&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNiIsImV4cCI6MTc5MjQwNDAzM30.diDKWH83xnvz2YtWOEXvg9PuvmF0wzu9--gSuCP3NBg
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=206&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNiIsImV4cCI6MTc5MjQwNTQ0N30.4fyosStn5WUvXw-kj5sOmTPgJ1hNgIA8LQ3a-nESr0Q
+https://vidkon.biz.id/post.mpd?id=206&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNiIsImV4cCI6MTc5MjQwNTQ0N30.4fyosStn5WUvXw-kj5sOmTPgJ1hNgIA8LQ3a-nESr0Q
 
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/cd2b2t__Rvd7dc8NdH0zwT6UgxE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/victor-denmark-open-2026-finals-d37dac.jpg" group-title="Live Now",Feng Yan Zhe/Huang Dong Ping (CHN) vs Jiang Zhen Bang/Wei Ya Xin (CHN) - Mixed Doubles Final | VICTOR Denmark Open 2026 (17:00 WIB * 18-10-2026) - BG
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/2-2k6hfcMt75k9uDmpb_UIPhBZU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383378/6fd406.jpg" group-title="Live Now",Udinese vs Lecce - Serie A (17:15 WIB * 18-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18249&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MjQ5IiwiZXhwIjoxNzkyNDA0MDMzfQ.gOqIkN3nHtwPlJpqic4tWOJK1fBc8jwfIQhSA2w3CoA
-https://vidkon.biz.id/post.mpd?id=18249&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MjQ5IiwiZXhwIjoxNzkyNDA0MDMzfQ.gOqIkN3nHtwPlJpqic4tWOJK1fBc8jwfIQhSA2w3CoA
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/2-2k6hfcMt75k9uDmpb_UIPhBZU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383378/6fd406.jpg" group-title="Upcoming",Udinese vs Lecce - Serie A (17:15 WIB * 18-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI0MDU0NDd9.SMiHyKZ42bp7PCtUhS8C4X3cbfbVmehxgo4Z_RIK-g4
+https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI0MDU0NDd9.SMiHyKZ42bp7PCtUhS8C4X3cbfbVmehxgo4Z_RIK-g4
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/KstCBJk3NQ-7R6D7oVPGLNT8Mk0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383444/d0936a.png" group-title="Upcoming",Final - WTA 1000: Dongfeng Voyah Wuhan Open 2026 (17:30 WIB * 18-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
