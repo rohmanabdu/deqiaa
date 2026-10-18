@@ -5,8 +5,8 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18190&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTkwIiwiZXhwIjoxNzkyMzk1MDMwfQ.-qiKAbVgVTqFvUDMbh_PAxrBPtfwKP5zRGVHx-6xndw
-https://vidkon.biz.id/post.mpd?id=18190&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTkwIiwiZXhwIjoxNzkyMzk1MDMwfQ.-qiKAbVgVTqFvUDMbh_PAxrBPtfwKP5zRGVHx-6xndw
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18190&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTkwIiwiZXhwIjoxNzkyMzk2ODMyfQ.5e_tKjuj2Gkbd1_-gApYSAaPbUZpxvNyPeG0ypXRMkw
+https://vidkon.biz.id/post.mpd?id=18190&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTkwIiwiZXhwIjoxNzkyMzk2ODMyfQ.5e_tKjuj2Gkbd1_-gApYSAaPbUZpxvNyPeG0ypXRMkw
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/RcojTFftVMY6MxorzjShgSTWlDU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383978/b0d4f7.jpg" group-title="Live Now",Putri: UIN SATU vs UPI - Third Place - Liga Voli Mahasiswa (12:30 WIB * 18-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -14,35 +14,36 @@ https://vidkon.biz.id/post.mpd?id=18190&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=206&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNiIsImV4cCI6MTc5MjM5NTAzMH0.b80tke9jjyvGyjRHyoXBz0YxaXs2w9dDhrmYS296-Oc
-https://vidkon.biz.id/post.mpd?id=206&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNiIsImV4cCI6MTc5MjM5NTAzMH0.b80tke9jjyvGyjRHyoXBz0YxaXs2w9dDhrmYS296-Oc
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=206&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNiIsImV4cCI6MTc5MjM5NjgzMn0.BqUebrJPUlFapXhuuNwTg41Yi-8puahUIS8Cf9WcMtQ
+https://vidkon.biz.id/post.mpd?id=206&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNiIsImV4cCI6MTc5MjM5NjgzMn0.BqUebrJPUlFapXhuuNwTg41Yi-8puahUIS8Cf9WcMtQ
 
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/p7GMy1EyWFDqVIcmkYRMbOtCQzs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383982/751ed4.jpg" group-title="Live Now",Lucas Miedler/Neil Oberleitner vs Francisco Cabral/James Tracy - Doubles Final | ATP Masters 1000: Shanghai Masters 2026 (13:00 WIB * 18-10-2026) - BG
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/-pfs6pFEz7QSeCO-P3U1dWXq-XE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5380403/d2b76a.jpg" group-title="Live Now",PERSEBAYA Surabaya vs PSS Sleman - BRI Super League (14:54 WIB * 18-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20887&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg3IiwiZXhwIjoxNzkyMzk1MDMwfQ.yA1HagJwxTYg3Hzm0xfYGRA65B60LqE6zy4I7YhBeeE
-https://vidkon.biz.id/post.mpd?id=20887&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg3IiwiZXhwIjoxNzkyMzk1MDMwfQ.yA1HagJwxTYg3Hzm0xfYGRA65B60LqE6zy4I7YhBeeE
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22207&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA3IiwiZXhwIjoxNzkyMzk2ODMyfQ.gMVSAIX_AzdoWcY4v7rcm8jgt7LxwM2oWRx3SxyU4CE
+https://vidkon.biz.id/post.mpd?id=22207&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA3IiwiZXhwIjoxNzkyMzk2ODMyfQ.gMVSAIX_AzdoWcY4v7rcm8jgt7LxwM2oWRx3SxyU4CE
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-pfs6pFEz7QSeCO-P3U1dWXq-XE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5380403/d2b76a.jpg" group-title="Upcoming",PERSEBAYA Surabaya vs PSS Sleman - BRI Super League (14:54 WIB * 18-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Hb7s9ROVp2hlfDu2WMnqoi-pHgU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383979/add0ec.jpg" group-title="Upcoming",Putra: UM vs UNP - Third Place - Liga Voli Mahasiswa (15:00 WIB * 18-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/oh1jjHXp6UnZ1e5qYagP-PwobxQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5380733/10cd0c.jpg" group-title="Upcoming",Deltras FC vs PERSIS Solo - Pegadaian Championship (15:22 WIB * 18-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Hb7s9ROVp2hlfDu2WMnqoi-pHgU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383979/add0ec.jpg" group-title="Live Now",Putra: UM vs UNP - Third Place - Liga Voli Mahasiswa (15:00 WIB * 18-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=206&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNiIsImV4cCI6MTc5MjM5NjgzMn0.BqUebrJPUlFapXhuuNwTg41Yi-8puahUIS8Cf9WcMtQ
+https://vidkon.biz.id/post.mpd?id=206&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNiIsImV4cCI6MTc5MjM5NjgzMn0.BqUebrJPUlFapXhuuNwTg41Yi-8puahUIS8Cf9WcMtQ
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/N27_GWbgORdemPBNBZ8cO2G0L1o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5380401/578e28.jpg" group-title="Upcoming",PSPS Pekanbaru vs PERSIKU Kudus - Pegadaian Championship (15:22 WIB * 18-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/u5hfE1PyiyKKtj0xUl3x9QnnHMs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5380402/1fa0bc.jpg" group-title="Upcoming",Sumsel United vs PERSIKAD - Pegadaian Championship (15:22 WIB * 18-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/oh1jjHXp6UnZ1e5qYagP-PwobxQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5380733/10cd0c.jpg" group-title="Upcoming",Deltras FC vs PERSIS Solo - Pegadaian Championship (15:22 WIB * 18-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -82,11 +83,11 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dmUoEEwLQNQ-exEgQLFjywjcsjI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383981/72f572.jpg" group-title="Upcoming",Putra: STKIP vs UNESA - Final - Liga Voli Mahasiswa (19:00 WIB * 18-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/uVe9mGPdIN2NSK4TtD9PVRdYvk4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383387/60e7fb.jpg" group-title="Upcoming",Zeren Spor vs Fenerbahce Medicana - Turkish Women's Volleyball League (19:00 WIB * 18-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/uVe9mGPdIN2NSK4TtD9PVRdYvk4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383387/60e7fb.jpg" group-title="Upcoming",Zeren Spor vs Fenerbahce Medicana - Turkish Women's Volleyball League (19:00 WIB * 18-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dmUoEEwLQNQ-exEgQLFjywjcsjI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383981/72f572.jpg" group-title="Upcoming",Putra: STKIP vs UNESA - Final - Liga Voli Mahasiswa (19:00 WIB * 18-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -102,15 +103,15 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5gpXUIfxI4MTMdw9-Yb_S-viPyA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5379848/da88d1.jpg" group-title="Upcoming",Bournemouth vs Sunderland - Premier League (20:00 WIB * 18-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nEtTgnqeeZGAy2aWoDzdIYeaGag=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5379683/af9f33.jpg" group-title="Upcoming",Leeds United vs Man Utd - Premier League (20:00 WIB * 18-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/JG51UEGNUhfxWBD08z2qUv9guEs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5379850/b011eb.jpg" group-title="Upcoming",Brighton vs Crystal Palace - Premier League (20:00 WIB * 18-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5gpXUIfxI4MTMdw9-Yb_S-viPyA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5379848/da88d1.jpg" group-title="Upcoming",Bournemouth vs Sunderland - Premier League (20:00 WIB * 18-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -179,6 +180,10 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/tYeel0J1Spj8jyiymGR24fe8MXM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385232/77b233.jpg" group-title="Upcoming",Al-Hilal vs Al-Hazem - ROSHN Saudi League (00:55 WIB * 20-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/kK07T2alVf8DHjcClGbpI7OajU0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385235/2f794f.jpg" group-title="Upcoming",Tottenham Hotspur vs Coventry City - Premier League (02:00 WIB * 20-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
