@@ -5,8 +5,8 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20884&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkyNDkwNDM3fQ.NBLHpkwv8EGWeyzoXuiXLN1SYHsPpY0DEE2vQS-JM1g
-https://vidkon.biz.id/post.mpd?id=20884&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkyNDkwNDM3fQ.NBLHpkwv8EGWeyzoXuiXLN1SYHsPpY0DEE2vQS-JM1g
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20884&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkyNDkyMjI3fQ.ST-hJd_D7axgD4ThNqvkDua_F5aOaGiXjF4NZMKbss0
+https://vidkon.biz.id/post.mpd?id=20884&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkyNDkyMjI3fQ.ST-hJd_D7axgD4ThNqvkDua_F5aOaGiXjF4NZMKbss0
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/DjKQicKPuDqH94owJbWbgS7koss=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385256/c69096.png" group-title="Live Now",Day 1 - Kejurnas Tinju Piala Menko IPK 2026 (16:00 WIB * 19-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -14,8 +14,8 @@ https://vidkon.biz.id/post.mpd?id=20884&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22604&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjA0IiwiZXhwIjoxNzkyNDkwNDM3fQ.SpdOWLmlH18COKAUVbxD127Z20vhrlcMir3duNRhCk0
-https://vidkon.biz.id/post.mpd?id=22604&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjA0IiwiZXhwIjoxNzkyNDkwNDM3fQ.SpdOWLmlH18COKAUVbxD127Z20vhrlcMir3duNRhCk0
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22604&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjA0IiwiZXhwIjoxNzkyNDkyMjI3fQ.Jt4-6kU2QdGfPrytWYXjICn0cbAZqFt1-sh8jkSiEE4
+https://vidkon.biz.id/post.mpd?id=22604&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjA0IiwiZXhwIjoxNzkyNDkyMjI3fQ.Jt4-6kU2QdGfPrytWYXjICn0cbAZqFt1-sh8jkSiEE4
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/YIlxy6Z044IUoLmF8H7j4i9HB1E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385495/8cbb21.jpg" group-title="Live Now",Federico Cina vs Jaume Munar - Round 1 | ATP 250: BNP Paribas Fortis European Open 2026 (17:00 WIB * 19-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -23,18 +23,10 @@ https://vidkon.biz.id/post.mpd?id=22604&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20885&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkyNDkwNDM3fQ.Zovnpn30cY8Ib7cTscZ6PriePu9KfJEn6pD213v9Gk0
-https://vidkon.biz.id/post.mpd?id=20885&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkyNDkwNDM3fQ.Zovnpn30cY8Ib7cTscZ6PriePu9KfJEn6pD213v9Gk0
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/RRoZz__09JJTTki82HF491yAI4E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385492/4fd260.jpg" group-title="Upcoming",Marin Cilic vs Nikoloz Basilashvili - Round 1 | ATP 250: Almaty Open 2026 (17:30 WIB * 19-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20885&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkyNDkyMjI3fQ.2s858hAJLJOJ1tUTeqZyYI1jltLkwHvUqFyJx4QomZc
+https://vidkon.biz.id/post.mpd?id=20885&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkyNDkyMjI3fQ.2s858hAJLJOJ1tUTeqZyYI1jltLkwHvUqFyJx4QomZc
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Oa2kE4m6iYPf6PWncgkH3tZAAM0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385503/1341c8.png" group-title="Upcoming",Alexandra Eala vs Diane Parry - Women's Singles Round of 32 | WTA 500: BNB Ningbo Open 2026 (18:30 WIB * 19-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/G4n7KYwTHMKxyJ0JAASGTgIXmbo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385498/541d65.jpg" group-title="Upcoming",Yannick Hanfmann vs Martin Damm - Round 1 | ATP 250: BNP Paribas Fortis European Open 2026 (19:00 WIB * 19-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -42,15 +34,23 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/aI487ahe-exKkfA4j-GoD5M8t2w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385497/f46d36.jpg" group-title="Upcoming",Andrea Guerrieri vs Alex Michelsen - Round 1 | ATP 250: BNP Paribas Fortis European Open 2026 (21:00 WIB * 19-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/RRoZz__09JJTTki82HF491yAI4E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385492/4fd260.jpg" group-title="Upcoming",Marin Cilic vs Nikoloz Basilashvili - Round 1 | ATP 250: Almaty Open 2026 (21:00 WIB * 19-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/eLk963Nk7PXwLO8faZGqM7U06y8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385493/b65b8d.jpg" group-title="Upcoming",Mikhail Kukushkin vs Stefanos Sakellaridis - Round 1 | ATP 250: Almaty Open 2026 (21:30 WIB * 19-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/G4n7KYwTHMKxyJ0JAASGTgIXmbo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385498/541d65.jpg" group-title="Upcoming",Yannick Hanfmann vs Martin Damm - Round 1 | ATP 250: BNP Paribas Fortis European Open 2026 (21:00 WIB * 19-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/F7bKXLJiaffzGPj58sB27w8-G3I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385501/ee7673.png" group-title="Upcoming",Matteo Arnaldi vs Lorenzo Musetti - Round 1 | ATP 250: Grand Prix Auvergne-Rhone-Alpes Open 2026 (22:00 WIB * 19-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/aI487ahe-exKkfA4j-GoD5M8t2w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385497/f46d36.jpg" group-title="Upcoming",Andrea Guerrieri vs Alex Michelsen - Round 1 | ATP 250: BNP Paribas Fortis European Open 2026 (23:00 WIB * 19-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/eLk963Nk7PXwLO8faZGqM7U06y8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385493/b65b8d.jpg" group-title="Upcoming",Mikhail Kukushkin vs Stefanos Sakellaridis - Round 1 | ATP 250: Almaty Open 2026 (23:00 WIB * 19-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
