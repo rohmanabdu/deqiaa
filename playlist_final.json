@@ -5,17 +5,8 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20884&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkyNTA4NDM2fQ.2Kwy3QZJqOydSzYmRvEr287l9PbUH4HbYUilvpRacZI
-https://vidkon.biz.id/post.mpd?id=20884&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkyNTA4NDM2fQ.2Kwy3QZJqOydSzYmRvEr287l9PbUH4HbYUilvpRacZI
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/duw1G1wS28np5J9ED3Glbp2Hz4I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385500/5d8d26.png" group-title="Live Now",Jaime Faria vs Felix Balshaw - Round 1 | ATP 250: Grand Prix Auvergne-Rhone-Alpes Open 2026 (20:00 WIB * 19-10-2026) - BG
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20886&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkyNTA4NDM2fQ.9qzBreBwfnBQTSZFSrbksFLHuKbY8YpGs8C16eCWb3U
-https://vidkon.biz.id/post.mpd?id=20886&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkyNTA4NDM2fQ.9qzBreBwfnBQTSZFSrbksFLHuKbY8YpGs8C16eCWb3U
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20884&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkyNTEwMjI5fQ.lvudruypJgVDsKkd5SE6sRfQoY4-EpZ6nPsWDrch7vQ
+https://vidkon.biz.id/post.mpd?id=20884&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkyNTEwMjI5fQ.lvudruypJgVDsKkd5SE6sRfQoY4-EpZ6nPsWDrch7vQ
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/u0HNlXzyOJhuBbFxIuUVzLOHg3s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385249/add687.jpg" group-title="Upcoming",Monza vs Cagliari - Serie A (23:15 WIB * 19-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -77,11 +68,11 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ymX7r34ZBYfnQ1wwDCjjMpnT61E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5384000/b47332.jpg" group-title="Upcoming",Man City vs AEK Athens - UEFA Youth League (21:00 WIB * 20-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/_P2jiPV5l0Y985O7bSeGvaugU0c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388019/2a93eb.jpg" group-title="Upcoming",Jacob Fearnley vs Hugo Gaston - Round 1 | ATP 250: BNP Paribas Fortis European Open 2026 (21:00 WIB * 20-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/_P2jiPV5l0Y985O7bSeGvaugU0c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388019/2a93eb.jpg" group-title="Upcoming",Jacob Fearnley vs Hugo Gaston - Round 1 | ATP 250: BNP Paribas Fortis European Open 2026 (21:00 WIB * 20-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ymX7r34ZBYfnQ1wwDCjjMpnT61E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5384000/b47332.jpg" group-title="Upcoming",Man City vs AEK Athens - UEFA Youth League (21:00 WIB * 20-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -105,11 +96,7 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/UIfvPwdxuRuu_Qy_zk__yPaLAbQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385694/dccbe1.jpg" group-title="Upcoming",Napoli vs Bodo/Glimt - UEFA Champions League (01:50 WIB * 21-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/wZrTWuoLHrsrp5ap931LRS5rDgU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385695/da566f.jpg" group-title="Upcoming",VfB Stuttgart vs Atletico Madrid - UEFA Champions League (01:50 WIB * 21-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/SN-sBc6lX1dhaD32SSgDBJFKSCw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385687/ea6559.jpg" group-title="Upcoming",Roma vs Slovan Bratislava - UEFA Champions League (01:50 WIB * 21-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -117,7 +104,11 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/SN-sBc6lX1dhaD32SSgDBJFKSCw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385687/ea6559.jpg" group-title="Upcoming",Roma vs Slovan Bratislava - UEFA Champions League (01:50 WIB * 21-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/UIfvPwdxuRuu_Qy_zk__yPaLAbQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385694/dccbe1.jpg" group-title="Upcoming",Napoli vs Bodo/Glimt - UEFA Champions League (01:50 WIB * 21-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/wZrTWuoLHrsrp5ap931LRS5rDgU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385695/da566f.jpg" group-title="Upcoming",VfB Stuttgart vs Atletico Madrid - UEFA Champions League (01:50 WIB * 21-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
