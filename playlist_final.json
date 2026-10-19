@@ -1,20 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Unz8wvVyUSv77CJy8pHNVJ1160c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385490/427d48.jpg" group-title="Live Now",Miomir Kecmanovic vs James Duckworth - Round 1 | ATP 250: Almaty Open 2026 (13:30 WIB * 19-10-2026) - BG
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/-wCZPdbfaZxqHHB8Ar1W5HIOdFw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385491/6cc3fe.jpg" group-title="Live Now",Adrian Mannarino vs Aleksandar Vukic - Round 1 | ATP 250: Almaty Open 2026 (15:00 WIB * 19-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20884&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkyNDgzMjMyfQ.X_I8VAEVylPtWWm3jvP63ZHrw7FPyt1z56cfE6RAZCc
-https://vidkon.biz.id/post.mpd?id=20884&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkyNDgzMjMyfQ.X_I8VAEVylPtWWm3jvP63ZHrw7FPyt1z56cfE6RAZCc
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-wCZPdbfaZxqHHB8Ar1W5HIOdFw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385491/6cc3fe.jpg" group-title="Upcoming",Adrian Mannarino vs Aleksandar Vukic - Round 1 | ATP 250: Almaty Open 2026 (15:30 WIB * 19-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/DjKQicKPuDqH94owJbWbgS7koss=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385256/c69096.png" group-title="Upcoming",Day 1 - Kejurnas Tinju Piala Menko IPK 2026 (16:00 WIB * 19-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20884&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkyNDg1MDI5fQ.RfYd9trBs9m2qECwXuNTi9Ma9-VDKzN2W00lo-l1seA
+https://vidkon.biz.id/post.mpd?id=20884&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkyNDg1MDI5fQ.RfYd9trBs9m2qECwXuNTi9Ma9-VDKzN2W00lo-l1seA
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/YIlxy6Z044IUoLmF8H7j4i9HB1E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385495/8cbb21.jpg" group-title="Upcoming",Federico Cina vs Jaume Munar - Round 1 | ATP 250: BNP Paribas Fortis European Open 2026 (17:00 WIB * 19-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
