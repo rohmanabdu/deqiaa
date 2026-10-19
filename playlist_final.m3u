@@ -5,8 +5,8 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI0NjE2MzF9.JN1lt_Byd-HUV1zVjk5GYJqGAUA0PogSHWahiwOZcI8
-https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI0NjE2MzF9.JN1lt_Byd-HUV1zVjk5GYJqGAUA0PogSHWahiwOZcI8
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI0NjM0Mjh9.xznuR7sJA2qqhlFpEwhZskATFGo3tCDtaY_uemODGJQ
+https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI0NjM0Mjh9.xznuR7sJA2qqhlFpEwhZskATFGo3tCDtaY_uemODGJQ
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/DjKQicKPuDqH94owJbWbgS7koss=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385256/c69096.png" group-title="Upcoming",Day 1 - Kejurnas Tinju Piala Menko IPK 2026 (13:00 WIB * 19-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
