@@ -5,8 +5,8 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22604&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjA0IiwiZXhwIjoxNzkyNDk0MDMzfQ.Azdx48kJ534pXogaC9xQVJsUWVF-p8WPkeIkvf_d8GY
-https://vidkon.biz.id/post.mpd?id=22604&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjA0IiwiZXhwIjoxNzkyNDk0MDMzfQ.Azdx48kJ534pXogaC9xQVJsUWVF-p8WPkeIkvf_d8GY
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22604&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjA0IiwiZXhwIjoxNzkyNDk1ODMwfQ.56zz3fX6UfxFRBhdwGDpegURx1kZwZwMT4C5icQObGo
+https://vidkon.biz.id/post.mpd?id=22604&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjA0IiwiZXhwIjoxNzkyNDk1ODMwfQ.56zz3fX6UfxFRBhdwGDpegURx1kZwZwMT4C5icQObGo
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/YIlxy6Z044IUoLmF8H7j4i9HB1E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385495/8cbb21.jpg" group-title="Live Now",Federico Cina vs Jaume Munar - Round 1 | ATP 250: BNP Paribas Fortis European Open 2026 (17:00 WIB * 19-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -14,8 +14,8 @@ https://vidkon.biz.id/post.mpd?id=22604&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20885&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkyNDk0MDMzfQ.2tUgIPYhrGEfn6Iio2BzMqn-dW15Cay6AKfnyPv4Jgo
-https://vidkon.biz.id/post.mpd?id=20885&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkyNDk0MDMzfQ.2tUgIPYhrGEfn6Iio2BzMqn-dW15Cay6AKfnyPv4Jgo
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20885&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkyNDk1ODMwfQ.oQ0mDGPVMcKqpk-qsMJMtVX95ZCMkGjaRs01aT5EPWY
+https://vidkon.biz.id/post.mpd?id=20885&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkyNDk1ODMwfQ.oQ0mDGPVMcKqpk-qsMJMtVX95ZCMkGjaRs01aT5EPWY
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/RRoZz__09JJTTki82HF491yAI4E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385492/4fd260.jpg" group-title="Live Now",Marin Cilic vs Nikoloz Basilashvili - Round 1 | ATP 250: Almaty Open 2026 (17:43 WIB * 19-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -23,12 +23,17 @@ https://vidkon.biz.id/post.mpd?id=20885&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20884&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkyNDk0MDMzfQ.KcpWH4fUDCvf_1fMHrh50nxz6EsY8S4CzNW0wbpXN8U
-https://vidkon.biz.id/post.mpd?id=20884&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkyNDk0MDMzfQ.KcpWH4fUDCvf_1fMHrh50nxz6EsY8S4CzNW0wbpXN8U
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20884&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkyNDk1ODMwfQ.LCIoJqJMFqnXXF1xO6v8oMwzL5ON9wawu2Bg5xTV2CU
+https://vidkon.biz.id/post.mpd?id=20884&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkyNDk1ODMwfQ.LCIoJqJMFqnXXF1xO6v8oMwzL5ON9wawu2Bg5xTV2CU
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Oa2kE4m6iYPf6PWncgkH3tZAAM0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385503/1341c8.png" group-title="Upcoming",Alexandra Eala vs Diane Parry - Women's Singles Round of 32 | WTA 500: BNB Ningbo Open 2026 (18:30 WIB * 19-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Oa2kE4m6iYPf6PWncgkH3tZAAM0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385503/1341c8.png" group-title="Live Now",Alexandra Eala vs Diane Parry - Women's Singles Round of 32 | WTA 500: BNB Ningbo Open 2026 (18:30 WIB * 19-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI0OTU4MzB9.G7107yNObC3UieLAY1Lchw3IYajjtToVr5VNsC0ys5g
+https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI0OTU4MzB9.G7107yNObC3UieLAY1Lchw3IYajjtToVr5VNsC0ys5g
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/duw1G1wS28np5J9ED3Glbp2Hz4I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385500/5d8d26.png" group-title="Upcoming",Jaime Faria vs Felix Balshaw - Round 1 | ATP 250: Grand Prix Auvergne-Rhone-Alpes Open 2026 (20:00 WIB * 19-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
