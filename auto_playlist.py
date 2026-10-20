@@ -25,7 +25,7 @@ final = raw.replace(
 with open("playlist_final.json", "w", encoding="utf-8") as f:
     f.write(final)
 
-with open("playlist_final.m3u", "w", encoding="utf-8") as f:
+with open("finall", "w", encoding="utf-8") as f:
     f.write(final)
 
 print("[✓] playlist_final.json disimpan TANPA UBAH STRUKTUR")
