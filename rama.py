@@ -1,7 +1,7 @@
 import requests, re, os
 
 SOURCE = "https://raw.githubusercontent.com/rohmanabdu/deqiaa/refs/heads/main/finall"
-OUTPUT = "hasil"
+OUTPUT = "hasill"
 CATEGORY = "LIVE EVENT"
 
 r = requests.get(SOURCE, headers={"User-Agent": "Mozilla/5.0"}, timeout=30)
