@@ -1,4 +1,4 @@
-name: Update Playlist Otomatis
+name: Update Pl Eve
 on:
   workflow_dispatch:
 
@@ -25,12 +25,12 @@ jobs:
         run: git pull --rebase origin main
 
       - name: Update playlist
-        run: python auto_playlist.py
+        run: python auto_pll.py
 
       - name: Commit and Push
         run: |
           git config user.name "deqiatv-bot"
           git config user.email "bot@deqiatv"
           git add finall finall.json
-          git diff --quiet && git diff --staged --quiet || git commit -m "auto update playlist [cron-job.org]"
+          git diff --quiet && git diff --staged --quiet || git commit -m "auto update pl eve [cron-job.org]"
           git push
