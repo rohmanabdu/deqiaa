@@ -22,7 +22,7 @@ final = raw.replace(
 ).replace(VIDEO_LAMA, VIDEO_CUSTOM)
 
 # Simpan persis sama
-with open("playlist_final.json", "w", encoding="utf-8") as f:
+with open("finall.json", "w", encoding="utf-8") as f:
     f.write(final)
 
 with open("finall", "w", encoding="utf-8") as f:
