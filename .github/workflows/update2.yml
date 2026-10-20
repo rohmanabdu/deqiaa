@@ -10,6 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
+          token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
 
       - uses: actions/setup-python@v5
@@ -21,16 +22,14 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Pull latest first
-        run: git pull --rebase origin main
-
       - name: Update playlist
         run: python auto_pll2.py
 
       - name: Commit and Push
         run: |
-          git config user.name "deqiatv-bot"
-          git config user.email "bot@deqiatv"
-          git add finall finall.json
-          git diff --quiet && git diff --staged --quiet || git commit -m "auto update pl eve [cron-job.org]"
-          git push
+          git config user.name "deqiatv-bott"
+          git config user.email "deqiatv-bott@users.noreply.github.com"
+          git add -A
+          git diff --staged --quiet || git commit -m "auto update pl eve 2 [cron-job.org]"
+          git pull --rebase origin main
+          git push origin main
