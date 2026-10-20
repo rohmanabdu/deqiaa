@@ -5,16 +5,26 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI1NjI0MzB9.wZbWwe44ztpTlmGhf84xkt2lqQ7Vc3XFziB2RhoS35Q
-https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI1NjI0MzB9.wZbWwe44ztpTlmGhf84xkt2lqQ7Vc3XFziB2RhoS35Q
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI1NjYwMzN9.ZB4AXeNfqJTFaxgHKvdEA8XZpoYbJ78NpzbHg9IqP6g
+https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI1NjYwMzN9.ZB4AXeNfqJTFaxgHKvdEA8XZpoYbJ78NpzbHg9IqP6g
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ExJWh7kASdEr30Uc4SwtYql7oic=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388027/cf3123.jpg" group-title="Upcoming",Terence Atmane vs Rinky Hijikata - Round 1 | ATP 250: Almaty Open 2026 (13:30 WIB * 20-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/ExJWh7kASdEr30Uc4SwtYql7oic=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388027/cf3123.jpg" group-title="Live Now",Terence Atmane vs Rinky Hijikata - Round 1 | ATP 250: Almaty Open 2026 (13:30 WIB * 20-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20884&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkyNTY2MDMzfQ.w8sat2J9ukZKLPMdtNCkuKwhqcFaxs-jpyW9axhb1Yk
+https://vidkon.biz.id/post.mpd?id=20884&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkyNTY2MDMzfQ.w8sat2J9ukZKLPMdtNCkuKwhqcFaxs-jpyW9axhb1Yk
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/aL8mSbbg9JFo-YcWKPorYFB3Poo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388063/59aa27.png" group-title="Upcoming",Day 2 - Kejurnas Tinju Piala Menko IPK 2026 (14:00 WIB * 20-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/aL8mSbbg9JFo-YcWKPorYFB3Poo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388063/59aa27.png" group-title="Live Now",Day 2 - Kejurnas Tinju Piala Menko IPK 2026 (14:00 WIB * 20-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22613&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjEzIiwiZXhwIjoxNzkyNTY2MDMzfQ.Xg8xWst0yY6aFWpSG0QEP_rCAd0UwoD1fBwLAqCyHDE
+https://vidkon.biz.id/post.mpd?id=22613&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjEzIiwiZXhwIjoxNzkyNTY2MDMzfQ.Xg8xWst0yY6aFWpSG0QEP_rCAd0UwoD1fBwLAqCyHDE
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/YJ0Z_SwxmgHE4gjmwn59a15PkjU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385684/b05282.jpg" group-title="Upcoming",Isenmulang Kalteng FC vs Java United FC - BRI Super League (14:57 WIB * 20-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
