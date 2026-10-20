@@ -31,6 +31,6 @@ jobs:
         run: |
           git config user.name "deqiatv-bot"
           git config user.email "bot@deqiatv"
-          git add playlist_final.m3u playlist_final.json
+          git add finall finall.json
           git diff --quiet && git diff --staged --quiet || git commit -m "auto update playlist [cron-job.org]"
           git push
