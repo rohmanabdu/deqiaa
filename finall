@@ -1,30 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/CZ9Iyl2pvKobzrPepfVshf6w5L0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388023/78793d.png" group-title="Live Now",Sabah FK vs Dortmund - UEFA Champions League (23:12 WIB * 20-10-2026) - BG
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22236&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjM2IiwiZXhwIjoxNzkyNjA4MzI1fQ.nTm0ayFEyYOKxGHzYuTnfT5GNvGwvoA7R0kIS_KPcNg
-https://vidkon.biz.id/post.mpd?id=22236&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjM2IiwiZXhwIjoxNzkyNjA4MzI1fQ.nTm0ayFEyYOKxGHzYuTnfT5GNvGwvoA7R0kIS_KPcNg
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/spUCRUARSnx7VP5wjybN0BynWWw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385692/c2bbc8.jpg" group-title="Live Now",Fenerbahce vs Slavia Praha - UEFA Champions League (23:40 WIB * 20-10-2026) - BG
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6317&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYzMTciLCJleHAiOjE3OTI2MDgzMjV9.YVfla-L2q83JvUamlwk1ao0pK6f2TU3Xeo7xaUECfZg
-https://vidkon.biz.id/post.mpd?id=6317&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYzMTciLCJleHAiOjE3OTI2MDgzMjV9.YVfla-L2q83JvUamlwk1ao0pK6f2TU3Xeo7xaUECfZg
-
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/3H2tzmtjozbc_iOkAtmL2saStOk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388021/21ae76.jpg" group-title="Live Now",Nishesh Basavareddy vs Raphael Collignon - Round 1 | ATP 250: BNP Paribas Fortis European Open 2026 (00:44 WIB * 21-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20885&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkyNjA4MzI1fQ.rFr9diQ3qdY7lwB-TnfG6NPIwk8rTTSXStiGaC93ntk
-https://vidkon.biz.id/post.mpd?id=20885&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkyNjA4MzI1fQ.rFr9diQ3qdY7lwB-TnfG6NPIwk8rTTSXStiGaC93ntk
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20885&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkyNjA5MjMyfQ.5JtKpyUMSsAucJnevxNdQgXqFqv4uZ9PooqQzzsXD7U
+https://vidkon.biz.id/post.mpd?id=20885&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkyNjA5MjMyfQ.5JtKpyUMSsAucJnevxNdQgXqFqv4uZ9PooqQzzsXD7U
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/BJWprBu1Uc2CWr_XGxN3AHEALYY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385234/a6b054.jpg" group-title="Live Now",Al-Nassr vs NEOM SC - ROSHN Saudi League (00:55 WIB * 21-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -32,8 +14,8 @@ https://vidkon.biz.id/post.mpd?id=20885&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=17139&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTM5IiwiZXhwIjoxNzkyNjA4MzI1fQ.vhAfTw1HBG8dAviC9TK9eCuJkW4lTWs6HJ-W2LxGKms
-https://vidkon.biz.id/post.mpd?id=17139&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTM5IiwiZXhwIjoxNzkyNjA4MzI1fQ.vhAfTw1HBG8dAviC9TK9eCuJkW4lTWs6HJ-W2LxGKms
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=17139&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTM5IiwiZXhwIjoxNzkyNjA5MjMyfQ.s0jW5dGXeZImcDpVx-yjMy9OP3w9nCqcVYNrM7PZIz8
+https://vidkon.biz.id/post.mpd?id=17139&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTM5IiwiZXhwIjoxNzkyNjA5MjMyfQ.s0jW5dGXeZImcDpVx-yjMy9OP3w9nCqcVYNrM7PZIz8
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/hl9qfaBo36hWbqKrngs47Ig9ydo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388033/615bcc.png" group-title="Live Now",Matteo Berrettini vs Kyrian Jacquet - Round 1 | ATP 250: Grand Prix Auvergne-Rhone-Alpes Open 2026 (01:00 WIB * 21-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -41,8 +23,8 @@ https://vidkon.biz.id/post.mpd?id=17139&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20886&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkyNjA4MzI1fQ.E7bQIuUK6nU3Lx4el221wMlsyTwvdvqQxKwbHIM6O1o
-https://vidkon.biz.id/post.mpd?id=20886&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkyNjA4MzI1fQ.E7bQIuUK6nU3Lx4el221wMlsyTwvdvqQxKwbHIM6O1o
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20886&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkyNjA5MjMyfQ.GKzCusDDiYNuv6aSK3kr6KrjkSRpzMx2l8Kin32GWvU
+https://vidkon.biz.id/post.mpd?id=20886&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkyNjA5MjMyfQ.GKzCusDDiYNuv6aSK3kr6KrjkSRpzMx2l8Kin32GWvU
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/KKFiftKicp03CaMv1it4LFcVTGc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388024/93c172.png" group-title="Live Now",Liverpool vs Villarreal - UEFA Champions League (01:45 WIB * 21-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -50,32 +32,62 @@ https://vidkon.biz.id/post.mpd?id=20886&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22236&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjM2IiwiZXhwIjoxNzkyNjA4MzI1fQ.nTm0ayFEyYOKxGHzYuTnfT5GNvGwvoA7R0kIS_KPcNg
-https://vidkon.biz.id/post.mpd?id=22236&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjM2IiwiZXhwIjoxNzkyNjA4MzI1fQ.nTm0ayFEyYOKxGHzYuTnfT5GNvGwvoA7R0kIS_KPcNg
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22236&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjM2IiwiZXhwIjoxNzkyNjA5MjMyfQ.gGMHNfzQWKxWvvzkS447lYFVl3Zqtsy2fLL6MlOJDfY
+https://vidkon.biz.id/post.mpd?id=22236&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjM2IiwiZXhwIjoxNzkyNjA5MjMyfQ.gGMHNfzQWKxWvvzkS447lYFVl3Zqtsy2fLL6MlOJDfY
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xlGWjNVj-C_8zIt56-WkYsMDwfo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385686/1918c4.jpg" group-title="Upcoming",Porto vs PSV - UEFA Champions League (01:50 WIB * 21-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/SN-sBc6lX1dhaD32SSgDBJFKSCw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385687/ea6559.jpg" group-title="Live Now",Roma vs Slovan Bratislava - UEFA Champions League (01:50 WIB * 21-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22237&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjM3IiwiZXhwIjoxNzkyNjA5MjMyfQ.fb6xzALAVgqahUZEOfG-TBq5fpBV5vA305y8Woz13Io
+https://vidkon.biz.id/post.mpd?id=22237&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjM3IiwiZXhwIjoxNzkyNjA5MjMyfQ.fb6xzALAVgqahUZEOfG-TBq5fpBV5vA305y8Woz13Io
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/UIfvPwdxuRuu_Qy_zk__yPaLAbQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385694/dccbe1.jpg" group-title="Upcoming",Napoli vs Bodo/Glimt - UEFA Champions League (01:50 WIB * 21-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/UIfvPwdxuRuu_Qy_zk__yPaLAbQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385694/dccbe1.jpg" group-title="Live Now",Napoli vs Bodo/Glimt - UEFA Champions League (01:50 WIB * 21-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22563&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTYzIiwiZXhwIjoxNzkyNjA5MjMyfQ.tEXBvvv3rcErS_VFNrUmxFxNGo8QKBtDRVpPjh0kPSI
+https://vidkon.biz.id/post.mpd?id=22563&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTYzIiwiZXhwIjoxNzkyNjA5MjMyfQ.tEXBvvv3rcErS_VFNrUmxFxNGo8QKBtDRVpPjh0kPSI
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/wZrTWuoLHrsrp5ap931LRS5rDgU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385695/da566f.jpg" group-title="Upcoming",VfB Stuttgart vs Atletico Madrid - UEFA Champions League (01:50 WIB * 21-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/wZrTWuoLHrsrp5ap931LRS5rDgU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385695/da566f.jpg" group-title="Live Now",VfB Stuttgart vs Atletico Madrid - UEFA Champions League (01:50 WIB * 21-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22564&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTY0IiwiZXhwIjoxNzkyNjA5MjMyfQ.jW7L5M_-VtXn1byp9ErlW5OU1kp6ZoGjR3gkcFoja5E
+https://vidkon.biz.id/post.mpd?id=22564&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTY0IiwiZXhwIjoxNzkyNjA5MjMyfQ.jW7L5M_-VtXn1byp9ErlW5OU1kp6ZoGjR3gkcFoja5E
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/SN-sBc6lX1dhaD32SSgDBJFKSCw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385687/ea6559.jpg" group-title="Upcoming",Roma vs Slovan Bratislava - UEFA Champions League (01:50 WIB * 21-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/xlGWjNVj-C_8zIt56-WkYsMDwfo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385686/1918c4.jpg" group-title="Live Now",Porto vs PSV - UEFA Champions League (01:50 WIB * 21-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22562&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTYyIiwiZXhwIjoxNzkyNjA5MjMyfQ.48Ve03VdbVEsoaJRPUnkdfkLHjqihVpVo4ZHKQzn7V8
+https://vidkon.biz.id/post.mpd?id=22562&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTYyIiwiZXhwIjoxNzkyNjA5MjMyfQ.48Ve03VdbVEsoaJRPUnkdfkLHjqihVpVo4ZHKQzn7V8
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/VgElJv7dV0q278nqmzkM8VqCB-o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385693/6d365b.jpg" group-title="Upcoming",Man City vs AEK Athens - UEFA Champions League (01:55 WIB * 21-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/VgElJv7dV0q278nqmzkM8VqCB-o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385693/6d365b.jpg" group-title="Live Now",Man City vs AEK Athens - UEFA Champions League (01:55 WIB * 21-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=17875&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkyNjA5MjMyfQ.5FqigrW6IalPTgegFGZu02dCEUHAY-XSTFLVlxJfHZY
+https://vidkon.biz.id/post.mpd?id=17875&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkyNjA5MjMyfQ.5FqigrW6IalPTgegFGZu02dCEUHAY-XSTFLVlxJfHZY
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/fq6vRdjIeCwPgfztuTDW4wzpffQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385689/442819.jpg" group-title="Upcoming",Paris Saint-Germain vs Barcelona - UEFA Champions League (01:55 WIB * 21-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/fq6vRdjIeCwPgfztuTDW4wzpffQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385689/442819.jpg" group-title="Live Now",Paris Saint-Germain vs Barcelona - UEFA Champions League (01:55 WIB * 21-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6299&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYyOTkiLCJleHAiOjE3OTI2MDkyMzJ9.YYBB5SWlav2tZ_mHdaMtMG9Zd9G5aFgRE2XsEWSrZMU
+https://vidkon.biz.id/post.mpd?id=6299&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYyOTkiLCJleHAiOjE3OTI2MDkyMzJ9.YYBB5SWlav2tZ_mHdaMtMG9Zd9G5aFgRE2XsEWSrZMU
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/8oHsm7u39OxRAGtdFJG0e7RRgYk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388034/350a7f.png" group-title="Upcoming",Hamad Medjedovic vs Brandon Nakashima - Round 1 | ATP 250: Grand Prix Auvergne-Rhone-Alpes Open 2026 (03:00 WIB * 21-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
