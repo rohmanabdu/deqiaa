@@ -5,8 +5,8 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI1NjA2MjV9.FBOzub6uUTrfNZA2Mv5Hu9T_xy4WYTbgMSbz8P-dDsQ
-https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI1NjA2MjV9.FBOzub6uUTrfNZA2Mv5Hu9T_xy4WYTbgMSbz8P-dDsQ
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI1NjI0MzB9.wZbWwe44ztpTlmGhf84xkt2lqQ7Vc3XFziB2RhoS35Q
+https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI1NjI0MzB9.wZbWwe44ztpTlmGhf84xkt2lqQ7Vc3XFziB2RhoS35Q
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ExJWh7kASdEr30Uc4SwtYql7oic=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388027/cf3123.jpg" group-title="Upcoming",Terence Atmane vs Rinky Hijikata - Round 1 | ATP 250: Almaty Open 2026 (13:30 WIB * 20-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -28,7 +28,7 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/h9jtlU3Busxx2NMwuh_NBfUkDkc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388104/fa05e1.jpg" group-title="Upcoming",Amri Syahnawi/Nita Violina Marwah (INA) vs Jimmy Wong/Cheng Su Yin (MAS) - Mixed Doubles Round of 32 | YONEX French Open 2026 (15:10 WIB * 20-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/wz51IMT_mf19_HY_CdWvenhmN84=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388104/62d633.jpg" group-title="Upcoming",Amri Syahnawi/Nita Violina Marwah (INA) vs Jimmy Wong/Cheng Su Yin (MAS) - Mixed Doubles Round of 32 | YONEX French Open 2026 (15:10 WIB * 20-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -52,7 +52,7 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/L-b5utrXffXUjLi9YMOTULkTSyI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388107/7ceca0.jpg" group-title="Upcoming",Rachel Allessya Rose/Febi Setianingrum (INA) vs Lui Lok Lok/Tsang Hiu Yan (HKG) - Women's Doubles Round of 32 | YONEX French Open 2026 (18:00 WIB * 20-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/H3kj7SR2pAKgFdW5nHlznecM-NI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388107/c1f9b2.jpg" group-title="Upcoming",Rachel Allessya Rose/Febi Setianingrum (INA) vs Lui Lok Lok/Tsang Hiu Yan (HKG) - Women's Doubles Round of 32 | YONEX French Open 2026 (18:00 WIB * 20-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -76,15 +76,15 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/kVluqG42rJ6bn4bpuNgDZLqCvqY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388099/860197.jpg" group-title="Upcoming",Febriana Dwipuji Kusuma/Meilysa Trias Puspitasari (INA) vs Amallia Cahaya Pratiwi/Siti Fadia Silva Ramadhanti (INA) - Women's Doubles Round of 32 | YONEX French Open 2026 (19:00 WIB * 20-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pz3SqCQqFaFDrzcL0r7LfJQ5TdI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388099/2847e6.jpg" group-title="Upcoming",Febriana Dwipuji Kusuma/Meilysa Trias Puspitasari (INA) vs Amallia Cahaya Pratiwi/Siti Fadia Silva Ramadhanti (INA) - Women's Doubles Round of 32 | YONEX French Open 2026 (19:00 WIB * 20-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/kOzAoukK0XRJ-OZb4LDMyFeBfAo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388101/c1a12c.jpg" group-title="Upcoming",Jonatan Christie (INA) vs Moh. Zaki Ubaidillah (INA) - Men's Singles Round of 32 | YONEX French Open 2026 (21:00 WIB * 20-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/AKgxdfxFNi_OPNnBsRCE8OEdvvE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388101/1ecab3.jpg" group-title="Upcoming",Jonatan Christie (INA) vs Moh. Zaki Ubaidillah (INA) - Men's Singles Round of 32 | YONEX French Open 2026 (21:00 WIB * 20-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/AT7svx1KYWLqSpSxJR2kKwVn3Vs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388092/b8d16a.jpg" group-title="Upcoming",Fang-Chih Lee/Fang-Jen Lee (TPE) vs Leo Rolly Carnando/Daniel Marthin (INA) - Men's Doubles Round of 32 | YONEX French Open 2026 (21:00 WIB * 20-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/m3GPM7SME40aqtg63CPAgQGixAc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388092/42805b.jpg" group-title="Upcoming",Fang-Chih Lee/Fang-Jen Lee (TPE) vs Leo Rolly Carnando/Daniel Marthin (INA) - Men's Doubles Round of 32 | YONEX French Open 2026 (21:00 WIB * 20-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -108,7 +108,7 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/3PhdqIhp25oY6QgA3My50OIfF2U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388094/081cdd.jpg" group-title="Upcoming",Ali Faathir Rayhan/Devin Artha Wahyudi (INA) vs Kang Min Hyuk/Lee Jongmin (KOR) - Men's Doubles Round of 32 | YONEX French Open 2026 (23:00 WIB * 20-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dHLz8afWps1b5bEEJbg68sDE6M4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388094/657d56.jpg" group-title="Upcoming",Ali Faathir Rayhan/Devin Artha Wahyudi (INA) vs Kang Min Hyuk/Lee Jongmin (KOR) - Men's Doubles Round of 32 | YONEX French Open 2026 (23:00 WIB * 20-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
