@@ -1,9 +1,6 @@
 name: Update Playlist
-
 on:
-
-  workflow_dispatch:       # bisa di-run manual
-  push:
+  workflow_dispatch:
 
 jobs:
   build:
