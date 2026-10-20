@@ -1,0 +1,36 @@
+name: Update Pl Eve 2
+on:
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Pull latest first
+        run: git pull --rebase origin main
+
+      - name: Update playlist
+        run: python auto_pll2.py
+
+      - name: Commit and Push
+        run: |
+          git config user.name "deqiatv-bot"
+          git config user.email "bot@deqiatv"
+          git add finall finall.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "auto update pl eve [cron-job.org]"
+          git push
