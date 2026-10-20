@@ -1,12 +1,21 @@
 #EXTM3U
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/H3kj7SR2pAKgFdW5nHlznecM-NI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388107/c1f9b2.jpg" group-title="Live Now",Rachel Allessya Rose/Febi Setianingrum (INA) vs Lui Lok Lok/Tsang Hiu Yan (HKG) - Women's Doubles Round of 32 | YONEX French Open 2026 (17:20 WIB * 20-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=5388107&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6NTM4ODEwNywiZXhwIjoxNzkyNTc4NjI4fQ.FTqBMNcX1yZ1MO7cvxxtDfrpdYvgReNH62tIqlQZxSk
+https://vidkon.biz.id/post.mpd?id=5388107&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6NTM4ODEwNywiZXhwIjoxNzkyNTc4NjI4fQ.FTqBMNcX1yZ1MO7cvxxtDfrpdYvgReNH62tIqlQZxSk
+
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/YJ0Z_SwxmgHE4gjmwn59a15PkjU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385684/b05282.jpg" group-title="Live Now",Isenmulang Kalteng FC vs Java United FC - BRI Super League (14:57 WIB * 20-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=205&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNSIsImV4cCI6MTc5MjU3NjgzNn0.eULCQp2RWnh03GQSHZS6DdziBMykHQsKDYU0znrG3hs
-https://vidkon.biz.id/post.mpd?id=205&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNSIsImV4cCI6MTc5MjU3NjgzNn0.eULCQp2RWnh03GQSHZS6DdziBMykHQsKDYU0znrG3hs
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=205&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNSIsImV4cCI6MTc5MjU3ODYyOH0.Z5PVBN9hxhuuY9d4nviArfe0y6OSIuMMJhmrvnj4dmM
+https://vidkon.biz.id/post.mpd?id=205&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNSIsImV4cCI6MTc5MjU3ODYyOH0.Z5PVBN9hxhuuY9d4nviArfe0y6OSIuMMJhmrvnj4dmM
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/JLAUXqi-11fiKR6dn8CXycZX98s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388078/d2af5b.jpg" group-title="Live Now",Kunlavut Vitidsarn (THA) vs Toma Junior Popov (FRA) - Men's Singles Round of 32 | YONEX French Open 2026 (15:00 WIB * 20-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -14,26 +23,17 @@ https://vidkon.biz.id/post.mpd?id=205&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOi
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18249&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNDksImV4cCI6MTc5MjU3NjgzNn0.GCmKyLuA15B3qcj1n8ZkHAGP4TPbJfqc1rhPvuTpUtk
-https://vidkon.biz.id/post.mpd?id=18249&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNDksImV4cCI6MTc5MjU3NjgzNn0.GCmKyLuA15B3qcj1n8ZkHAGP4TPbJfqc1rhPvuTpUtk
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18249&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNDksImV4cCI6MTc5MjU3ODYyOH0.4TcgqOUSSwGWr19hOUyWqTH1vTvXjEmbdTvLVjM3mks
+https://vidkon.biz.id/post.mpd?id=18249&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNDksImV4cCI6MTc5MjU3ODYyOH0.4TcgqOUSSwGWr19hOUyWqTH1vTvXjEmbdTvLVjM3mks
 
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/-R8mdE8WrGEBF4h41yqkNM-fNMo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388088/c87a0d.jpg" group-title="Live Now",Kirsty Gilmour (SCO) vs Mia Blichfedt (DEN) - Women's Singles Round of 32 | YONEX French Open 2026 (15:00 WIB * 20-10-2026) - BG
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/S3suNtueN6Zbge_RYdMcavcaW34=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388089/0a4afc.jpg" group-title="Live Now",Koki Watanabe (JPN) vs Leong Jun Hao (MAS) - Men's Singles Round of 32 | YONEX French Open 2026 (15:00 WIB * 20-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18250&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNTAsImV4cCI6MTc5MjU3NjgzNn0.a6d_4UZ32ssmntNRC8fSEMGzMnWqqgWYiYERfMcK-BY
-https://vidkon.biz.id/post.mpd?id=18250&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNTAsImV4cCI6MTc5MjU3NjgzNn0.a6d_4UZ32ssmntNRC8fSEMGzMnWqqgWYiYERfMcK-BY
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/rlS2AmNg-5Z7L8saHOxg0SgOCR8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388105/0ff617.jpg" group-title="Live Now",Nhat Nguyen (IRL) vs Jia Heng Teh (SGP) - Men's Singles Round of 32 | YONEX French Open 2026 (15:10 WIB * 20-10-2026) - BG
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18252&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNTIsImV4cCI6MTc5MjU3NjgzNn0.PdvRVOfqjNtnCnWUSCbxy5-7iTpbqmJXZ-XjJDVl5d4
-https://vidkon.biz.id/post.mpd?id=18252&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNTIsImV4cCI6MTc5MjU3NjgzNn0.PdvRVOfqjNtnCnWUSCbxy5-7iTpbqmJXZ-XjJDVl5d4
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18250&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNTAsImV4cCI6MTc5MjU3ODYyOH0.-IllKbwxah-qlGxzpbSE6ayrWCRWvoDWgchRCSqkN-o
+https://vidkon.biz.id/post.mpd?id=18250&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNTAsImV4cCI6MTc5MjU3ODYyOH0.-IllKbwxah-qlGxzpbSE6ayrWCRWvoDWgchRCSqkN-o
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/F4JaB4duPXJ0XT7bIsho6Uus51Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388097/e1a820.jpg" group-title="Live Now",Yuki Fukushima/Mayu Matsumoto (JPN) vs Nanako Hara/Riko Kiyose (JPN) - Women's Doubles Round of 32 | YONEX French Open 2026 (15:10 WIB * 20-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -41,8 +41,8 @@ https://vidkon.biz.id/post.mpd?id=18252&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18253&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNTMsImV4cCI6MTc5MjU3NjgzNn0.M0qY0xAScuJ_ldKiXr1U4XeiCYu4tdndxAJqYDdBO0s
-https://vidkon.biz.id/post.mpd?id=18253&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNTMsImV4cCI6MTc5MjU3NjgzNn0.M0qY0xAScuJ_ldKiXr1U4XeiCYu4tdndxAJqYDdBO0s
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18253&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNTMsImV4cCI6MTc5MjU3ODYyOH0.RoVnV6z7Rw3TCQ8rSSviYZaOGNXrHiUDXeiVtgZ8H1U
+https://vidkon.biz.id/post.mpd?id=18253&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNTMsImV4cCI6MTc5MjU3ODYyOH0.RoVnV6z7Rw3TCQ8rSSviYZaOGNXrHiUDXeiVtgZ8H1U
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/nSBX8_ts5h9419lat7P6SGysa3I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388026/85d94e.png" group-title="Live Now",Day 2 - WTA 500: BNB Ningbo Open 2026 (12:00 WIB * 20-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -50,8 +50,8 @@ https://vidkon.biz.id/post.mpd?id=18253&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI1NzY4MzZ9.8AXYXjTfSAb5pkxvWkKEjD6pVgo0sNcUpkKgwBic9Go
-https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI1NzY4MzZ9.8AXYXjTfSAb5pkxvWkKEjD6pVgo0sNcUpkKgwBic9Go
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI1Nzg2Mjh9.m4GyIqAwUsjuy8OODanmezNRco4rT8QmemLpZz2gpi8
+https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI1Nzg2Mjh9.m4GyIqAwUsjuy8OODanmezNRco4rT8QmemLpZz2gpi8
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/aL8mSbbg9JFo-YcWKPorYFB3Poo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388063/59aa27.png" group-title="Live Now",Day 2 - Kejurnas Tinju Piala Menko IPK 2026 (14:00 WIB * 20-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -59,8 +59,8 @@ https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22613&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjEzIiwiZXhwIjoxNzkyNTc2ODM2fQ.14Z8s25o-VadDQ2IXBDGF00zprKJBL68Sx1N2oFndLw
-https://vidkon.biz.id/post.mpd?id=22613&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjEzIiwiZXhwIjoxNzkyNTc2ODM2fQ.14Z8s25o-VadDQ2IXBDGF00zprKJBL68Sx1N2oFndLw
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22613&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjEzIiwiZXhwIjoxNzkyNTc4NjI4fQ.QJKRkdsOa_xm33brwgt50PzAZ2kpQuAosF_4rnB4GSA
+https://vidkon.biz.id/post.mpd?id=22613&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjEzIiwiZXhwIjoxNzkyNTc4NjI4fQ.QJKRkdsOa_xm33brwgt50PzAZ2kpQuAosF_4rnB4GSA
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/DIARGKC63_-GxKEPj9AZ4v8QVQ8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388028/977bca.jpg" group-title="Live Now",Stefanos Tsitsipas vs Aleksandar Kovacevic - Round 1 | ATP 250: Almaty Open 2026 (15:11 WIB * 20-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -68,8 +68,8 @@ https://vidkon.biz.id/post.mpd?id=22613&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20884&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkyNTc2ODM2fQ.Tpee9h0UC6NNEFLdc9j43qEhUPGs5at819con1OUrIY
-https://vidkon.biz.id/post.mpd?id=20884&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkyNTc2ODM2fQ.Tpee9h0UC6NNEFLdc9j43qEhUPGs5at819con1OUrIY
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20884&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkyNTc4NjI4fQ.EPgv91Br-kzHeSUoAWFx4J6esCf6acuQWcgklPSBSKQ
+https://vidkon.biz.id/post.mpd?id=20884&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkyNTc4NjI4fQ.EPgv91Br-kzHeSUoAWFx4J6esCf6acuQWcgklPSBSKQ
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/mDnUhPwctCNKGpoJ4WRtWoPRzjc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388017/2399a3.jpg" group-title="Live Now",Tallon Griekspoor vs Max Schoenhaus - Round 1 | ATP 250: BNP Paribas Fortis European Open 2026 (16:30 WIB * 20-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -77,16 +77,17 @@ https://vidkon.biz.id/post.mpd?id=20884&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20885&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkyNTc2ODM2fQ.rKmYH4uoUtTBpW1_4qjiCw6WvLNF0HlfgV0vWPx8h5g
-https://vidkon.biz.id/post.mpd?id=20885&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkyNTc2ODM2fQ.rKmYH4uoUtTBpW1_4qjiCw6WvLNF0HlfgV0vWPx8h5g
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20885&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkyNTc4NjI4fQ.xKVUjbcdx8TzcKkzlQZtozNXUheuwnmSxCa0tzuifvM
+https://vidkon.biz.id/post.mpd?id=20885&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkyNTc4NjI4fQ.xKVUjbcdx8TzcKkzlQZtozNXUheuwnmSxCa0tzuifvM
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/H3kj7SR2pAKgFdW5nHlznecM-NI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388107/c1f9b2.jpg" group-title="Upcoming",Rachel Allessya Rose/Febi Setianingrum (INA) vs Lui Lok Lok/Tsang Hiu Yan (HKG) - Women's Doubles Round of 32 | YONEX French Open 2026 (17:10 WIB * 20-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/iB50eEpA37TCruNHt2WhzOtiNmU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388029/fa87ae.jpg" group-title="Upcoming",Fabian Maroszan vs Timofey Skatov - Round 1 | ATP 250: Almaty Open 2026 (17:30 WIB * 20-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/iB50eEpA37TCruNHt2WhzOtiNmU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388029/fa87ae.jpg" group-title="Live Now",Fabian Maroszan vs Timofey Skatov - Round 1 | ATP 250: Almaty Open 2026 (17:30 WIB * 20-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20884&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkyNTc4NjI4fQ.EPgv91Br-kzHeSUoAWFx4J6esCf6acuQWcgklPSBSKQ
+https://vidkon.biz.id/post.mpd?id=20884&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkyNTc4NjI4fQ.EPgv91Br-kzHeSUoAWFx4J6esCf6acuQWcgklPSBSKQ
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dTKiWuWAg4mkEjv2hEBu5ktgy5Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388018/e78b36.jpg" group-title="Upcoming",Botic van de Zandschulp vs Clement Chidekh - Round 1 | ATP 250: BNP Paribas Fortis European Open 2026 (18:30 WIB * 20-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
