@@ -5,8 +5,8 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI2NDcwMzB9.Hwbas9Ra_g-EExFVjq7kIYsUMqYejJurOD7vzesR4GU
-https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI2NDcwMzB9.Hwbas9Ra_g-EExFVjq7kIYsUMqYejJurOD7vzesR4GU
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI2NDg4MzJ9.3dKpaFDHlaW2CXsfVUZMFrHf4XaYU8r3cnfj7g1RASE
+https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI2NDg4MzJ9.3dKpaFDHlaW2CXsfVUZMFrHf4XaYU8r3cnfj7g1RASE
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Ahf4RZsaqLhFzK_1U80krZA6lDw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388284/67d4ef.jpg" group-title="Upcoming",James Duckworth vs Luciano Darderi - Round 2 | ATP 250: Almaty Open 2026 (13:30 WIB * 21-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -120,11 +120,15 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Its7cSCBG-zgvzyg--6tflYfsF4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388377/b41652.jpg" group-title="Upcoming",Gauthier Onclin vs Jan-Lennard Struff - Round 2 | ATP 250: BNP Paribas Fortis European Open 2026 (01:00 WIB * 22-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/oWPIIItlWUzWHJdb-aJSx_MAI_4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5387868/59eb15.jpg" group-title="Upcoming",Levante vs Athletic Club - LaLiga (01:00 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Its7cSCBG-zgvzyg--6tflYfsF4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388377/b41652.jpg" group-title="Upcoming",Gauthier Onclin vs Jan-Lennard Struff - Round 2 | ATP 250: BNP Paribas Fortis European Open 2026 (01:00 WIB * 22-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Mdv3UeMYfpHP7ZmuUAIU_XOPAgc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5387861/b02bc6.jpg" group-title="Upcoming",Club Brugge vs RC Lens - UEFA Champions League (01:50 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -133,10 +137,6 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/uzvH4OoHY21qggAHbDvmUgGGpP8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5387863/b5e076.jpg" group-title="Upcoming",Real Betis vs Feyenoord - UEFA Champions League (01:50 WIB * 22-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Mdv3UeMYfpHP7ZmuUAIU_XOPAgc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5387861/b02bc6.jpg" group-title="Upcoming",Club Brugge vs RC Lens - UEFA Champions League (01:50 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -152,11 +152,11 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/upJu1plsC0yFHXAMoE0drv2M1GQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388379/cf8988.png" group-title="Upcoming",Benjamin Bonzi vs Tommy Paul - Round 2 | ATP 250: Grand Prix Auvergne-Rhone-Alpes Open 2026 (02:00 WIB * 22-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hnEc3-85Oqs_ohfvj49X8SybBbs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388261/4aa46c.png" group-title="Upcoming",Bayern vs Arsenal - UEFA Champions League (02:00 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hnEc3-85Oqs_ohfvj49X8SybBbs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388261/4aa46c.png" group-title="Upcoming",Bayern vs Arsenal - UEFA Champions League (02:00 WIB * 22-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/upJu1plsC0yFHXAMoE0drv2M1GQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388379/cf8988.png" group-title="Upcoming",Benjamin Bonzi vs Tommy Paul - Round 2 | ATP 250: Grand Prix Auvergne-Rhone-Alpes Open 2026 (02:00 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -188,15 +188,7 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/y-BGwsC1rzn95_aQ_H7W5LjQGRo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5387999/0ef5e0.jpg" group-title="Upcoming",Dinamo Zagreb vs NEC Nijmegen - UEFA Europa League (23:35 WIB * 22-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1iz43E-FjvWp0fVVPlGRWqou2Ks=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388396/85db43.jpg" group-title="Upcoming",Crvena Zvezda vs Copenhagen - UEFA Conference League (23:35 WIB * 22-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nrcWPtEku6cGcLzf96TUaROkSY8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388393/6c5627.jpg" group-title="Upcoming",Nordsjaelland vs CSKA Sofia - UEFA Conference League (23:35 WIB * 22-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/y6jHY52Ym24csOiTONgo219pjRo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388390/dd9471.jpg" group-title="Upcoming",Iberia Tbilisi vs Mjallby - UEFA Conference League (23:35 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -204,15 +196,7 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/VtRFLYzrk1tJTfczdIHojeSlYNA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388007/858270.jpg" group-title="Upcoming",OFI Crete vs Leverkusen - UEFA Europa League (23:35 WIB * 22-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/y6jHY52Ym24csOiTONgo219pjRo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388390/dd9471.jpg" group-title="Upcoming",Iberia Tbilisi vs Mjallby - UEFA Conference League (23:35 WIB * 22-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dyRcSlhZVUyyHZv8WW8qsgTKw4s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388387/e0b60a.jpg" group-title="Upcoming",Inter Escaldes vs Universitatea Craiova - UEFA Conference League (23:35 WIB * 22-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1iz43E-FjvWp0fVVPlGRWqou2Ks=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388396/85db43.jpg" group-title="Upcoming",Crvena Zvezda vs Copenhagen - UEFA Conference League (23:35 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -220,11 +204,19 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0ZHf8PO7I0mldvFlqGMscVD12k0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388005/0897f9.jpg" group-title="Upcoming",Lech Poznan vs Sunderland - UEFA Europa League (23:35 WIB * 22-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nrcWPtEku6cGcLzf96TUaROkSY8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388393/6c5627.jpg" group-title="Upcoming",Nordsjaelland vs CSKA Sofia - UEFA Conference League (23:35 WIB * 22-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dyRcSlhZVUyyHZv8WW8qsgTKw4s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388387/e0b60a.jpg" group-title="Upcoming",Inter Escaldes vs Universitatea Craiova - UEFA Conference League (23:35 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hN29JdjOqd67wCx-Zc8Ea3uCKJ0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388011/f2e384.jpg" group-title="Upcoming",Union Saint-Gilloise vs Hapoel Beer-Sheva - UEFA Europa League (23:35 WIB * 22-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0ZHf8PO7I0mldvFlqGMscVD12k0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388005/0897f9.jpg" group-title="Upcoming",Lech Poznan vs Sunderland - UEFA Europa League (23:35 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -244,15 +236,23 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/y-BGwsC1rzn95_aQ_H7W5LjQGRo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5387999/0ef5e0.jpg" group-title="Upcoming",Dinamo Zagreb vs NEC Nijmegen - UEFA Europa League (23:35 WIB * 22-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/VtRFLYzrk1tJTfczdIHojeSlYNA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388007/858270.jpg" group-title="Upcoming",OFI Crete vs Leverkusen - UEFA Europa League (23:35 WIB * 22-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/VCKs1h17cFgYJBTOStWV0SxQzNo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388331/bb9e47.jpg" group-title="Upcoming",Jablonec vs Brighton - UEFA Conference League (23:40 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/4v7q0BkK9Xg_AP_CGYRRTsyGZJY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388405/6199ee.jpg" group-title="Upcoming",Pafos vs Riga - UEFA Conference League (23:45 WIB * 22-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/7AlZzJdG6UV1660vdHNI_CAwWw0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390670/e7b19b.jpg" group-title="Upcoming",Juventus vs Stade Rennais FC - UEFA Europa League (23:45 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/7AlZzJdG6UV1660vdHNI_CAwWw0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390670/e7b19b.jpg" group-title="Upcoming",Juventus vs Stade Rennais FC - UEFA Europa League (23:45 WIB * 22-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/4v7q0BkK9Xg_AP_CGYRRTsyGZJY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388405/6199ee.jpg" group-title="Upcoming",Pafos vs Riga - UEFA Conference League (23:45 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -264,35 +264,23 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/4iDGI4j3fRC7mrdeNQ6--piAE4o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388012/7dfe3e.jpg" group-title="Upcoming",Viktoria Plzen vs Levski Sofia - UEFA Europa League (01:50 WIB * 23-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/eZp8Tk7aQwtSVeNDVjBe-fYcThs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388394/8a6423.jpg" group-title="Upcoming",Midtjylland vs Sint-Truidense - UEFA Conference League (01:50 WIB * 23-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/slureRyxJfPQ7oaYfqJQQZ9sdjw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388397/38bbab.jpg" group-title="Upcoming",AS Monaco vs SC Freiburg - UEFA Conference League (01:50 WIB * 23-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/wUfeiGszYwSUSfr78ggPfD_hijE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388000/24628e.jpg" group-title="Upcoming",Celje vs RB Salzburg - UEFA Europa League (01:50 WIB * 23-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/bpeYdA2BUwfGTCiWZ4nB2G93fTM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388400/3fc6cf.jpg" group-title="Upcoming",Thun vs Hajduk Split - UEFA Conference League (01:50 WIB * 23-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/4iDGI4j3fRC7mrdeNQ6--piAE4o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388012/7dfe3e.jpg" group-title="Upcoming",Viktoria Plzen vs Levski Sofia - UEFA Europa League (01:50 WIB * 23-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/f8m7igxlukN4LAsFz9eE2cSGj1M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388002/a0844b.jpg" group-title="Upcoming",Hoffenheim vs Olympique Lyonnais - UEFA Europa League (01:50 WIB * 23-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Oh1lfjwbnuG0cAeF5lK2nu7KpOI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388403/63c737.jpg" group-title="Upcoming",Borac vs KuPS - UEFA Conference League (01:50 WIB * 23-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/eYkPm2ab9o8qLScyMW3YsWAdlKo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388010/b472c3.jpg" group-title="Upcoming",Omonoia vs Benfica - UEFA Europa League (01:50 WIB * 23-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pU9WqfDlKY2Kq3d8p5JjLCDB0-w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388004/9b4138.jpg" group-title="Upcoming",Jagiellonia Bialystok vs Anderlecht - UEFA Europa League (01:50 WIB * 23-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/f8m7igxlukN4LAsFz9eE2cSGj1M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388002/a0844b.jpg" group-title="Upcoming",Hoffenheim vs Olympique Lyonnais - UEFA Europa League (01:50 WIB * 23-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -304,11 +292,23 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gy_bFF5nGVFMWbfBESq_d9p1W_4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388409/582500.jpg" group-title="Upcoming",Aarhus vs Egnatia - UEFA Conference League (01:50 WIB * 23-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/eZp8Tk7aQwtSVeNDVjBe-fYcThs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388394/8a6423.jpg" group-title="Upcoming",Midtjylland vs Sint-Truidense - UEFA Conference League (01:50 WIB * 23-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/eYkPm2ab9o8qLScyMW3YsWAdlKo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388010/b472c3.jpg" group-title="Upcoming",Omonoia vs Benfica - UEFA Europa League (01:50 WIB * 23-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/slureRyxJfPQ7oaYfqJQQZ9sdjw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388397/38bbab.jpg" group-title="Upcoming",AS Monaco vs SC Freiburg - UEFA Conference League (01:50 WIB * 23-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/bpeYdA2BUwfGTCiWZ4nB2G93fTM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388400/3fc6cf.jpg" group-title="Upcoming",Thun vs Hajduk Split - UEFA Conference League (01:50 WIB * 23-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Oh1lfjwbnuG0cAeF5lK2nu7KpOI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388403/63c737.jpg" group-title="Upcoming",Borac vs KuPS - UEFA Conference League (01:50 WIB * 23-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gy_bFF5nGVFMWbfBESq_d9p1W_4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388409/582500.jpg" group-title="Upcoming",Aarhus vs Egnatia - UEFA Conference League (01:50 WIB * 23-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -320,7 +320,7 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/J4IlwmJajLivuvhsd9E3R9g7Zxw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388406/d33e1e.jpg" group-title="Upcoming",Lincoln Red Imps vs Twente - UEFA Conference League (02:00 WIB * 23-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/2RAUWArdJ755Qm7Z37TgQGViY-k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390669/6cdab9.jpg" group-title="Upcoming",Bournemouth vs Milan - UEFA Europa League (02:00 WIB * 23-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -328,7 +328,7 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/2RAUWArdJ755Qm7Z37TgQGViY-k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390669/6cdab9.jpg" group-title="Upcoming",Bournemouth vs Milan - UEFA Europa League (02:00 WIB * 23-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/J4IlwmJajLivuvhsd9E3R9g7Zxw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388406/d33e1e.jpg" group-title="Upcoming",Lincoln Red Imps vs Twente - UEFA Conference League (02:00 WIB * 23-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -384,6 +384,10 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9-mPzQ-iUW6KUZNTTjWCIq4wrhE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390708/bc815a.jpg" group-title="Upcoming",Torino vs Monza - Serie A (01:45 WIB * 24-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/NkzW3Fh11T2u_aqaBeHVdI57kfU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390692/15242c.jpg" group-title="Upcoming",Alaves vs Malaga - LaLiga (02:00 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
@@ -392,23 +396,47 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/j_U-mx_LgAfanlkv_2rHQqG49gk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/22259/pegadaian-championship-2026-2027-6b8276.jpg" group-title="Upcoming",PERSIKAD vs PSPS Pekanbaru - Pegadaian Championship (15:30 WIB * 24-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/RJ0AGOae1teV06WTcdF7cq0MCDc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390707/408ba8.png" group-title="Upcoming",Kejurnas Pacuan Kuda Pordasi ke 60 seri 2 2026 (08:30 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/j_U-mx_LgAfanlkv_2rHQqG49gk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/22259/pegadaian-championship-2026-2027-6b8276.jpg" group-title="Upcoming",Adhyaksa FC Bekasi vs Sumsel United - Pegadaian Championship (19:00 WIB * 24-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/BPA4bPzi6OoE0GcMqhBsVQCAl5o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390704/f69c26.png" group-title="Upcoming",Round 3 - BMW Ladies Championship 2026 (09:00 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/kXLyjEbe9FWhN-Iatkz9zt8_Kcw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/22258/pegadaian-championship-2026-2027-bdddd7.jpg" group-title="Upcoming",PERSIKU Kudus vs Semen Padang FC - Pegadaian Championship (19:00 WIB * 24-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/c-qv4GFckb5IKk7XFNx8R0H4tq0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390717/65f7ca.jpg" group-title="Upcoming",Isenmulang Kalteng FC vs PSIM Jogja - BRI Super League (15:00 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/emx19MQxb-vrHOnf9lfBEjWGmNM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/22434/pegadaian-championship-151b42.jpg" group-title="Upcoming",PERSIS Solo vs RANS Nusantara FC - Pegadaian Championship (19:00 WIB * 24-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0dQYFzg3Kyl0gKAeMGjvt6b8CpI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390696/0ab0ed.jpg" group-title="Upcoming",PERSIKAD vs PSPS Pekanbaru - Pegadaian Championship (15:30 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/C_cN3ApmHXDJ-Eje-wASBgBK454=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/22260/pegadaian-championship-2026-2027-e39708.jpg" group-title="Upcoming",Kendal Tornado FC vs Deltras FC - Pegadaian Championship (19:00 WIB * 24-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/v6qz3mQz17i9rtFj6p0ZddUDb74=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390706/641cc7.jpg" group-title="Upcoming",PERSIJAP Jepara vs Java United FC - BRI Super League (18:30 WIB * 24-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/q93zPdmDvEqG_G9Vk4VfEA9NaBo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390710/f7e566.jpg" group-title="Upcoming",Aston Villa vs Man City - Premier League (18:30 WIB * 24-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/7Ai09eQ5WG3umaUusVCYkUz2HKM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390697/33e2bb.jpg" group-title="Upcoming",Adhyaksa FC Bekasi vs Sumsel United - Pegadaian Championship (19:00 WIB * 24-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/XS2PuvaS7ZroI9lIvdCtshnWlBU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390703/da297f.jpg" group-title="Upcoming",Kendal Tornado FC vs Deltras FC - Pegadaian Championship (19:00 WIB * 24-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ZVtP0wElN6w5sEPMjPhX1jbQUWY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390699/de3b08.jpg" group-title="Upcoming",PERSIKU Kudus vs Semen Padang FC - Pegadaian Championship (19:00 WIB * 24-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/N6IRYsXNqlODgAoD4TahA6NKE4c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390701/d7c224.jpg" group-title="Upcoming",PERSIS Solo vs RANS Nusantara FC - Pegadaian Championship (19:00 WIB * 24-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0VpkxkZ-ONa3DSsyTKn0ps2nXwc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390711/1c6ad4.jpg" group-title="Upcoming",Chelsea vs Tottenham Hotspur - Premier League (23:30 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
