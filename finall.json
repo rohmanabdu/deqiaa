@@ -5,8 +5,8 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI2NDUyMzF9.I8yPuAXpZ2QAqI5lN35bOiiPVPLE0G_hPbch4zo1cX0
-https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI2NDUyMzF9.I8yPuAXpZ2QAqI5lN35bOiiPVPLE0G_hPbch4zo1cX0
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI2NDYxMjJ9.RZU-mMks4L0j4EhaD2cA4ST9KNjhe1OWNg1uNp1YwqI
+https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI2NDYxMjJ9.RZU-mMks4L0j4EhaD2cA4ST9KNjhe1OWNg1uNp1YwqI
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Ahf4RZsaqLhFzK_1U80krZA6lDw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388284/67d4ef.jpg" group-title="Upcoming",James Duckworth vs Luciano Darderi - Round 2 | ATP 250: Almaty Open 2026 (13:30 WIB * 21-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -76,7 +76,7 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Z-EQCfVhNJMX-XlfNwqFEaPPC7o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388354/74e3d6.jpg" group-title="Upcoming",Devika Sihag (IND) vs Putri Kusuma Wardani (INA) - Women's Singles Round of 32 | YONEX French Open 2026 (20:00 WIB * 21-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/d47yzV837fuzJg4aFrBz1GlQiWk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388354/df6e75.jpg" group-title="Upcoming",Devika Sihag (IND) vs Putri Kusuma Wardani (INA) - Women's Singles Round of 32 | YONEX French Open 2026 (20:00 WIB * 21-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -104,7 +104,7 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/D-ba0QNBmyE-jJ-EXMLAg47MI4I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388369/6695f4.jpg" group-title="Upcoming",Rahmat Hidayat/Yereemia Erich Yoche Yacob Rambitan (INA) vs Sabar Karyaman Gutama/Moh Reza Pahlevi Isfahani (INA) - Men's Doubles Round of 32 | YONEX French Open 2026 (23:00 WIB * 21-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/mDWAMyB93Hi2sr9c5sCbNk9qg7I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388369/038639.jpg" group-title="Upcoming",Rahmat Hidayat/Yereemia Erich Yoche Yacob Rambitan (INA) vs Sabar Karyaman Gutama/Moh Reza Pahlevi Isfahani (INA) - Men's Doubles Round of 32 | YONEX French Open 2026 (23:00 WIB * 21-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -376,7 +376,7 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/k-XDZv0GC0thY6AoQKHNSJewh9s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg" group-title="Upcoming",Round 2 - Butterfield Bermuda Championship 2026 (00:00 WIB * 24-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/j2UuGrYX5QmmXxCFFn-EHxjlM64=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390693/dc956a.png" group-title="Upcoming",Round 2 - Butterfield Bermuda Championship 2026 (00:00 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
