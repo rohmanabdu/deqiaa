@@ -1,46 +1,68 @@
 #EXTM3U
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/dHG1g_JXulZzEQkkOT9C12-J_v0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388321/674ad0.jpg" group-title="LIVE EVENT",Fajar Alfian/Muhammad Shohibul Fikri (INA) vs Chiu Hsiang Chieh/Wang Chi-Lin (TPE) - Men's Doubles Round of 32 | YONEX French Open 2026 (15:00 WIB * 21-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18249&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNDksImV4cCI6MTc5MjY1NjY2Mn0.6UuAsdzXJOMdJWGLhkUxJGg0N3Gz8OvzHae9s9inG-M
+https://vidkon.biz.id/post.mpd?id=18249&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNDksImV4cCI6MTc5MjY1NjY2Mn0.6UuAsdzXJOMdJWGLhkUxJGg0N3Gz8OvzHae9s9inG-M
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/ck78d9qdpc9MCFexX1W1sglmnfw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388337/923f71.jpg" group-title="LIVE EVENT",Feng Yan Zhe/Huang Dong Ping (CHN) vs Kim Jae Hyeon/Jang Ha Jeong (KOR) - Mixed Doubles Round of 32 | YONEX French Open 2026 (15:00 WIB * 21-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18250&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNTAsImV4cCI6MTc5MjY1NjY2Mn0.vWjarQI_jexHxY9RLVtgnBLtETErh7FWN8HInSRBsY8
+https://vidkon.biz.id/post.mpd?id=18250&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNTAsImV4cCI6MTc5MjY1NjY2Mn0.vWjarQI_jexHxY9RLVtgnBLtETErh7FWN8HInSRBsY8
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/yoSRmlNeAvV-BP2zcPP_ER7-1Cs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388349/5933a5.jpg" group-title="LIVE EVENT",An Se Young (KOR) vs Amalie Schulz (DEN) - Women's Singles Round of 32 | YONEX French Open 2026 (15:10 WIB * 21-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18252&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNTIsImV4cCI6MTc5MjY1NjY2Mn0.jL8GRm9TI_j1c95GGQtin0cO-awXmeqZ9TU4Uh8XYLI
+https://vidkon.biz.id/post.mpd?id=18252&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNTIsImV4cCI6MTc5MjY1NjY2Mn0.jL8GRm9TI_j1c95GGQtin0cO-awXmeqZ9TU4Uh8XYLI
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/xgzTW9dyjyChySVh19W6-yY9Tvg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388361/129f7b.jpg" group-title="LIVE EVENT",Liu Kuang Heng/Hsu Yin-Hui (TPE) vs Dechapol Puavaranukroh/Supissara Paewsampran (THA) - Mixed Doubles Round of 32 | YONEX French Open 2026 (15:10 WIB * 21-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18253&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNTMsImV4cCI6MTc5MjY1NjY2Mn0.i59QgxgUfNQ_XNdLX9dxSDhPqRjxSz8vwLihHr7NUcc
+https://vidkon.biz.id/post.mpd?id=18253&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNTMsImV4cCI6MTc5MjY1NjY2Mn0.i59QgxgUfNQ_XNdLX9dxSDhPqRjxSz8vwLihHr7NUcc
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/JtVdULEdW1MTPIfBRt5k4AFKnMc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388262/ece6ab.png" group-title="LIVE EVENT",Day 3 - WTA 500: BNB Ningbo Open 2026 (12:00 WIB * 21-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI2NTUzNjV9.I1ImowJBfwUfTQ1oCeiOIZ_aeU3ud9-hYcg2c9YndVU
-https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI2NTUzNjV9.I1ImowJBfwUfTQ1oCeiOIZ_aeU3ud9-hYcg2c9YndVU
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI2NTY2NjJ9.vNyzjNMz52szLskynDFLQPKjuoXP_16LsQomgDeD_0Y
+https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI2NTY2NjJ9.vNyzjNMz52szLskynDFLQPKjuoXP_16LsQomgDeD_0Y
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Ahf4RZsaqLhFzK_1U80krZA6lDw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388284/67d4ef.jpg" group-title="LIVE EVENT",James Duckworth vs Luciano Darderi - Round 2 | ATP 250: Almaty Open 2026 (13:30 WIB * 21-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20884&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkyNjU1MzY1fQ.NRE8a74Qs2149YKoiyLiltfONmOyMtvJC5F--keCk3M
-https://vidkon.biz.id/post.mpd?id=20884&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkyNjU1MzY1fQ.NRE8a74Qs2149YKoiyLiltfONmOyMtvJC5F--keCk3M
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20884&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkyNjU2NjYyfQ.AVMsKDpIn953rrFhaQSOBGJa27TcG0Aq7CtYFcuhoy8
+https://vidkon.biz.id/post.mpd?id=20884&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkyNjU2NjYyfQ.AVMsKDpIn953rrFhaQSOBGJa27TcG0Aq7CtYFcuhoy8
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/7aDYHzmFKrAAY_umZsoEcUvPV3g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390675/7c7a32.png" group-title="LIVE EVENT",Day 3 - Kejurnas Tinju Piala Menko IPK 2026 (14:15 WIB * 21-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22619&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjE5IiwiZXhwIjoxNzkyNjU1MzY1fQ.WFPqs-2E9Tiv7FUsbtm-eLmBzhP7wQ0RYPQSV8z61_M
-https://vidkon.biz.id/post.mpd?id=22619&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjE5IiwiZXhwIjoxNzkyNjU1MzY1fQ.WFPqs-2E9Tiv7FUsbtm-eLmBzhP7wQ0RYPQSV8z61_M
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/qFcqxuCawmMCIqsEhu4ZJMb3Fps=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385690/9f17e0.jpg" group-title="LIVE EVENT",Bali United FC vs Garudayaksa FC - BRI Super League (14:58 WIB * 21-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dHG1g_JXulZzEQkkOT9C12-J_v0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388321/674ad0.jpg" group-title="LIVE EVENT",Fajar Alfian/Muhammad Shohibul Fikri (INA) vs Chiu Hsiang Chieh/Wang Chi-Lin (TPE) - Men's Doubles Round of 32 | YONEX French Open 2026 (15:00 WIB * 21-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/i4Z8wHjmoGzXlgbM6pPUagplN2w=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-french-open-2026-round-of-32-court-1-2f38e2.jpg" group-title="LIVE EVENT",Fajar Alfian/Muhammad Shohibul Fikri (INA) vs Chiu Hsiang Chieh/Wang Chi-Lin (TPE) - Men's Doubles Round of 32 | YONEX French Open 2026 (15:00 WIB * 21-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/u8uC07Fvo7a1Uv9sb5rTvWSdHwE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-french-open-2026-round-of-32-court-2-161283.jpg" group-title="LIVE EVENT",Feng Yan Zhe/Huang Dong Ping (CHN) vs Kim Jae Hyeon/Jang Ha Jeong (KOR) - Mixed Doubles Round of 32 | YONEX French Open 2026 (15:00 WIB * 21-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/shqY9vvpj2nZl1cVJwRg28VfCgg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-french-open-2026-round-of-32-court-3-908868.jpg" group-title="LIVE EVENT",An Se Young (KOR) vs Amalie Schulz (DEN) - Women's Singles Round of 32 | YONEX French Open 2026 (15:10 WIB * 21-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/bDXMqCtR5I6Y0pelUQkD5liMIBw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-french-open-2026-round-of-32-court-4-1e7bb1.jpg" group-title="LIVE EVENT",Liu Kuang Heng/Hsu Yin-Hui (TPE) vs Dechapol Puavaranukroh/Supissara Paewsampran (THA) - Mixed Doubles Round of 32 | YONEX French Open 2026 (15:10 WIB * 21-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22619&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjE5IiwiZXhwIjoxNzkyNjU2NjYyfQ.qYNbxqJW5wVh-AxNV2ofuS8_dOMLR9jb75OpdNMYHow
+https://vidkon.biz.id/post.mpd?id=22619&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjE5IiwiZXhwIjoxNzkyNjU2NjYyfQ.qYNbxqJW5wVh-AxNV2ofuS8_dOMLR9jb75OpdNMYHow
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/qFcqxuCawmMCIqsEhu4ZJMb3Fps=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385690/9f17e0.jpg" group-title="LIVE EVENT",Bali United FC vs Garudayaksa FC - BRI Super League (14:58 WIB * 21-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22207&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA3IiwiZXhwIjoxNzkyNjU2NjYyfQ.XZjbFKrXXta0uYm8nXV7EimEU5x_n3rXUfKFO4TDszQ
+https://vidkon.biz.id/post.mpd?id=22207&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA3IiwiZXhwIjoxNzkyNjU2NjYyfQ.XZjbFKrXXta0uYm8nXV7EimEU5x_n3rXUfKFO4TDszQ
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Y4QMw1wg7-JyWdjnSXxN99KhaY4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388285/6c1ae6.jpg" group-title="LIVE EVENT",Zangar Nurlanuly vs Tomas Machac - Round 1 | ATP 250: Almaty Open 2026 (15:30 WIB * 21-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
