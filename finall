@@ -5,8 +5,8 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18190&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTkwIiwiZXhwIjoxNzkyNzI2MjI5fQ.nQuI3ObtCpEIfldYMc91kkJBqsIJ7dqviubkKSnAVKg
-https://vidkon.biz.id/post.mpd?id=18190&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTkwIiwiZXhwIjoxNzkyNzI2MjI5fQ.nQuI3ObtCpEIfldYMc91kkJBqsIJ7dqviubkKSnAVKg
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18190&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTkwIiwiZXhwIjoxNzkyNzI3MTIzfQ.6hihZYZtBqdTDS713eV10IvNeGg5PGqjMzyan-Ly3-I
+https://vidkon.biz.id/post.mpd?id=18190&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTkwIiwiZXhwIjoxNzkyNzI3MTIzfQ.6hihZYZtBqdTDS713eV10IvNeGg5PGqjMzyan-Ly3-I
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Kc9Va6gE89i3aJVAEgqh2WIvTgk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5387998/b496d6.png" group-title="Live Now",Round of 16 - WTA 250: Kinoshita Group Japan Open 2026 (09:20 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -14,8 +14,8 @@ https://vidkon.biz.id/post.mpd?id=18190&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20564&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNTY0IiwiZXhwIjoxNzkyNzI2MjI5fQ.OxJXn45DkRKail9ceHa_ZIzAYtuHiGFnmK7ShoAQLkw
-https://vidkon.biz.id/post.mpd?id=20564&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNTY0IiwiZXhwIjoxNzkyNzI2MjI5fQ.OxJXn45DkRKail9ceHa_ZIzAYtuHiGFnmK7ShoAQLkw
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20564&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNTY0IiwiZXhwIjoxNzkyNzI3MTIzfQ.78pyhIcMRQtFuAmczWqmw62qhLjL2i59AwVTLkp6VAY
+https://vidkon.biz.id/post.mpd?id=20564&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNTY0IiwiZXhwIjoxNzkyNzI3MTIzfQ.78pyhIcMRQtFuAmczWqmw62qhLjL2i59AwVTLkp6VAY
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/yiPmWWqKBkTvPXKG4yCiYWicUnk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391013/5e5bb0.png" group-title="Upcoming",Iva Jovic vs Jasmine Paolini - Round of 16 | WTA 500: BNB Ningbo Open 2026 (12:00 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
