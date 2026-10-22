@@ -5,8 +5,8 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22207&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA3IiwiZXhwIjoxNzkyNzYyMjI5fQ.LCYzs35lcZO1MAZ4JwMXG_6ntpVOFWng5aRlHgE9ymI
-https://vidkon.biz.id/post.mpd?id=22207&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA3IiwiZXhwIjoxNzkyNzYyMjI5fQ.LCYzs35lcZO1MAZ4JwMXG_6ntpVOFWng5aRlHgE9ymI
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22207&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA3IiwiZXhwIjoxNzkyNzYyNTI3fQ.QYIzEq8TbZN_PbmoW-r17dtRw-t7alBAgxIGej6z6cs
+https://vidkon.biz.id/post.mpd?id=22207&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA3IiwiZXhwIjoxNzkyNzYyNTI3fQ.QYIzEq8TbZN_PbmoW-r17dtRw-t7alBAgxIGej6z6cs
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/tKGCKspf00L7wJDE-goT5vOxD0I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391022/018d07.jpg" group-title="Live Now",Thom Gicquel/Delphine Delrue (FRA) vs Wu Hsuan-Yi/Yang Chu Yun (TPE) - Mixed Doubles Round of 16 | YONEX French Open 2026 (17:00 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -14,8 +14,8 @@ https://vidkon.biz.id/post.mpd?id=22207&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18249&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNDksImV4cCI6MTc5Mjc2MjIyOX0.TmER55D3LJ9zY_ysoA2jW2jcCY-1VdNxUSokacGhRzY
-https://vidkon.biz.id/post.mpd?id=18249&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNDksImV4cCI6MTc5Mjc2MjIyOX0.TmER55D3LJ9zY_ysoA2jW2jcCY-1VdNxUSokacGhRzY
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18249&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNDksImV4cCI6MTc5Mjc2MjUyN30.qFHfLdAdmUpmjyDHBS9iQW3fJMw60Qj7Pgefg8PduXs
+https://vidkon.biz.id/post.mpd?id=18249&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNDksImV4cCI6MTc5Mjc2MjUyN30.qFHfLdAdmUpmjyDHBS9iQW3fJMw60Qj7Pgefg8PduXs
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/DvNGGWW7O311eYmjNglr_KW3q0o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391033/da5368.jpg" group-title="Live Now",Riko Gunji (JPN) vs Pusarla V. Sindhu (IND) - Women's Singles Round of 16 | YONEX French Open 2026 (17:00 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -23,8 +23,8 @@ https://vidkon.biz.id/post.mpd?id=18249&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18250&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNTAsImV4cCI6MTc5Mjc2MjIyOX0.7S9BWpX4aVOiz-UfLLYAEDN3Aspz28B4NNnvUkWDQxo
-https://vidkon.biz.id/post.mpd?id=18250&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNTAsImV4cCI6MTc5Mjc2MjIyOX0.7S9BWpX4aVOiz-UfLLYAEDN3Aspz28B4NNnvUkWDQxo
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18250&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNTAsImV4cCI6MTc5Mjc2MjUyN30.rooGOaMB0debLUdQ_ixaOWsA_R0VJ_Ioma0orLlp1kE
+https://vidkon.biz.id/post.mpd?id=18250&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNTAsImV4cCI6MTc5Mjc2MjUyN30.rooGOaMB0debLUdQ_ixaOWsA_R0VJ_Ioma0orLlp1kE
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/6SwL4_fUu08wkZLozu9ID1eSDi4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391045/48e6e3.jpg" group-title="Live Now",Feng Yan Zhe/Huang Dong Ping (CHN) vs Ruben Garcia/Lucia Rodriguez (ESP) - Mixed Doubles Round of 16 | YONEX French Open 2026 (17:10 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -32,17 +32,17 @@ https://vidkon.biz.id/post.mpd?id=18250&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18252&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNTIsImV4cCI6MTc5Mjc2MjIyOX0.l7Bw9r_HZFFumQR91tP2oqNS81tFyjDH9ra7rAmw_vQ
-https://vidkon.biz.id/post.mpd?id=18252&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNTIsImV4cCI6MTc5Mjc2MjIyOX0.l7Bw9r_HZFFumQR91tP2oqNS81tFyjDH9ra7rAmw_vQ
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18252&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNTIsImV4cCI6MTc5Mjc2MjUyN30.61a6xEEYPSejFrI0tm8SkjrRD-tO4gk_DKovVKCAEEA
+https://vidkon.biz.id/post.mpd?id=18252&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNTIsImV4cCI6MTc5Mjc2MjUyN30.61a6xEEYPSejFrI0tm8SkjrRD-tO4gk_DKovVKCAEEA
 
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/r9iSz6UJZsd4dQDfZwaXo4ZHTDY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391055/ddca28.png" group-title="Live Now",Ye Hong Wei/Nicole Gonzales Chan (TPE) vs Amri Syahnawi/Nita Violina Marwah (INA) - Mixed Doubles Round of 16 | YONEX French Open 2026 (17:10 WIB * 22-10-2026) - BG
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/mVOSm8daYVkZk0r26XOXEFD54yk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391056/11352d.jpg" group-title="Live Now",Chou Tien Chen (TPE) vs Chi Yu Jen (TPE) - Men's Singles Round of 16 | YONEX French Open 2026 (17:10 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18253&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNTMsImV4cCI6MTc5Mjc2MjIyOX0.4puRCubHzs56hWXdluobsU7NGX2792hY1daOJTw48yY
-https://vidkon.biz.id/post.mpd?id=18253&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNTMsImV4cCI6MTc5Mjc2MjIyOX0.4puRCubHzs56hWXdluobsU7NGX2792hY1daOJTw48yY
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18253&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNTMsImV4cCI6MTc5Mjc2MjUyN30.b-9Xdke4m1SA7iY7OArtnHf2kAQdNWAFhUnr8vaDzoI
+https://vidkon.biz.id/post.mpd?id=18253&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNTMsImV4cCI6MTc5Mjc2MjUyN30.b-9Xdke4m1SA7iY7OArtnHf2kAQdNWAFhUnr8vaDzoI
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/NjYVC5mGy7J6sAYZOVPDlxPC-b8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391009/dea821.png" group-title="Live Now",Valentin Vacherot vs Luca Van Assche - Round 2 | ATP 250: Grand Prix Auvergne-Rhone-Alpes Open 2026 (19:00 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -50,8 +50,8 @@ https://vidkon.biz.id/post.mpd?id=18253&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20886&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkyNzYyMjI5fQ.e1um4kU55AEUR5pfPUUrcNIpMlXZJBPUGh8YD0NQsck
-https://vidkon.biz.id/post.mpd?id=20886&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkyNzYyMjI5fQ.e1um4kU55AEUR5pfPUUrcNIpMlXZJBPUGh8YD0NQsck
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20886&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkyNzYyNTI3fQ.mQgJ_ERIiCJMwQfGdP4bflgD5Vv69His84VDA2UwVR8
+https://vidkon.biz.id/post.mpd?id=20886&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkyNzYyNTI3fQ.mQgJ_ERIiCJMwQfGdP4bflgD5Vv69His84VDA2UwVR8
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/gA4vabPQ_FmdUyXKpmunfagvnpA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391004/ff9d1c.jpg" group-title="Live Now",Daniil Medvedev vs Sho Shimabukuro - Round 2 | ATP 250: Almaty Open 2026 (19:30 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -59,8 +59,8 @@ https://vidkon.biz.id/post.mpd?id=20886&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20884&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkyNzYyMjI5fQ.hbjj1GI6vEXZPX5SVqwIXQ-bNiLUQ--l188yCxgfgi0
-https://vidkon.biz.id/post.mpd?id=20884&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkyNzYyMjI5fQ.hbjj1GI6vEXZPX5SVqwIXQ-bNiLUQ--l188yCxgfgi0
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20884&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkyNzYyNTI3fQ.6IJPhRMY5wZcBznCa442QJu9uweUuMJT3UDvMuLROLY
+https://vidkon.biz.id/post.mpd?id=20884&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkyNzYyNTI3fQ.6IJPhRMY5wZcBznCa442QJu9uweUuMJT3UDvMuLROLY
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/hCylWJ9Ht89hQ7rm958cpyO-5Mc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391007/5fa37c.jpg" group-title="Live Now",David Goffin vs Alex Michelsen - Round 2 | ATP 250: BNP Paribas Fortis European Open 2026 (20:09 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -68,8 +68,8 @@ https://vidkon.biz.id/post.mpd?id=20884&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20885&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkyNzYyMjI5fQ.fdDjM5_5SN40q-e-ErAi-FplW1jtFXQ-_CKGkb-lazk
-https://vidkon.biz.id/post.mpd?id=20885&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkyNzYyMjI5fQ.fdDjM5_5SN40q-e-ErAi-FplW1jtFXQ-_CKGkb-lazk
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20885&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkyNzYyNTI3fQ.Twn8qGmp2sHBKCDfIS9I_sO7YN6fI_5n-Br_QdAs4Vc
+https://vidkon.biz.id/post.mpd?id=20885&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkyNzYyNTI3fQ.Twn8qGmp2sHBKCDfIS9I_sO7YN6fI_5n-Br_QdAs4Vc
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9MDR6esYpqdRaNCW8qBzBt-VMpw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391010/53154b.png" group-title="Upcoming",Pierre Hugues Herbert vs Taylor Fritz - Round 2 | ATP 250: Grand Prix Auvergne-Rhone-Alpes Open 2026 (21:00 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -83,11 +83,11 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dPsiVb60ra2ylNDN1vWDi-ffAYk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391035/67adca.png" group-title="Upcoming",Chen Bo Yang/Liu Yi (CHN) vs Raymond Indra/Nikolaus Joaquin (INA) - Men's Doubles Round of 16 | YONEX French Open 2026 (22:00 WIB * 22-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/qVYyre3CeTZy8I6PTwy0NZ3dzWQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391047/fd2cb5.png" group-title="Upcoming",Neslihan Arin (TUR) vs Putri Kusuma Wardani (INA) - Women's Singles Round of 16 | YONEX French Open 2026 (22:00 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/qVYyre3CeTZy8I6PTwy0NZ3dzWQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391047/fd2cb5.png" group-title="Upcoming",Neslihan Arin (TUR) vs Putri Kusuma Wardani (INA) - Women's Singles Round of 16 | YONEX French Open 2026 (22:00 WIB * 22-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dPsiVb60ra2ylNDN1vWDi-ffAYk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391035/67adca.png" group-title="Upcoming",Chen Bo Yang/Liu Yi (CHN) vs Raymond Indra/Nikolaus Joaquin (INA) - Men's Doubles Round of 16 | YONEX French Open 2026 (22:00 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -99,11 +99,19 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gr2xMHrq7AlYMPWrQcyyLSePQtw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388402/4246c8.jpg" group-title="Upcoming",Getafe vs Lugano - UEFA Conference League (23:35 WIB * 22-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/DZVzLG6kCRrC6x6u42kIcSwNCoE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388408/88ff28.jpg" group-title="Upcoming",Trabzonspor vs Hearts - UEFA Conference League (23:35 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/DZVzLG6kCRrC6x6u42kIcSwNCoE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388408/88ff28.jpg" group-title="Upcoming",Trabzonspor vs Hearts - UEFA Conference League (23:35 WIB * 22-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/VtRFLYzrk1tJTfczdIHojeSlYNA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388007/858270.jpg" group-title="Upcoming",OFI Crete vs Leverkusen - UEFA Europa League (23:35 WIB * 22-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nrcWPtEku6cGcLzf96TUaROkSY8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388393/6c5627.jpg" group-title="Upcoming",Nordsjaelland vs CSKA Sofia - UEFA Conference League (23:35 WIB * 22-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dt2k65RfNB4o8OIHEiA9ZyI_4Os=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388009/f8142f.jpg" group-title="Upcoming",SK Sturm Graz vs Olympique de Marseille - UEFA Europa League (23:35 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -116,6 +124,10 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/uAaqYrWk4hAoaDi8ypz8D3x2A_E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388003/a1414f.jpg" group-title="Upcoming",Ferencvaros vs Torreense - UEFA Europa League (23:35 WIB * 22-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gr2xMHrq7AlYMPWrQcyyLSePQtw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388402/4246c8.jpg" group-title="Upcoming",Getafe vs Lugano - UEFA Conference League (23:35 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -140,18 +152,6 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/y6jHY52Ym24csOiTONgo219pjRo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388390/dd9471.jpg" group-title="Upcoming",Iberia Tbilisi vs Mjallby - UEFA Conference League (23:35 WIB * 22-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/VtRFLYzrk1tJTfczdIHojeSlYNA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388007/858270.jpg" group-title="Upcoming",OFI Crete vs Leverkusen - UEFA Europa League (23:35 WIB * 22-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nrcWPtEku6cGcLzf96TUaROkSY8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388393/6c5627.jpg" group-title="Upcoming",Nordsjaelland vs CSKA Sofia - UEFA Conference League (23:35 WIB * 22-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dt2k65RfNB4o8OIHEiA9ZyI_4Os=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388009/f8142f.jpg" group-title="Upcoming",SK Sturm Graz vs Olympique de Marseille - UEFA Europa League (23:35 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -183,11 +183,11 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/jbXfXgdCaWzgL8AHJy1tFIcuVws=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388332/889dd1.jpg" group-title="Upcoming",Celtic vs Celta Vigo - UEFA Europa League (01:45 WIB * 23-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/2RAUWArdJ755Qm7Z37TgQGViY-k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390669/6cdab9.jpg" group-title="Upcoming",Bournemouth vs Milan - UEFA Europa League (01:45 WIB * 23-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/2RAUWArdJ755Qm7Z37TgQGViY-k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390669/6cdab9.jpg" group-title="Upcoming",Bournemouth vs Milan - UEFA Europa League (01:45 WIB * 23-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/jbXfXgdCaWzgL8AHJy1tFIcuVws=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388332/889dd1.jpg" group-title="Upcoming",Celtic vs Celta Vigo - UEFA Europa League (01:45 WIB * 23-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -255,11 +255,11 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Ptq_HPoAox_-6UhYbrUFamdVYHw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391028/5e9513.png" group-title="Upcoming",Amallia Cahaya Pratiwi/Siti Fadia Silva Ramadhanti (INA) vs Lin Chih-Chun/Yang Chu Yun (TPE) - Women's Doubles Round of 16 | YONEX French Open 2026 (02:00 WIB * 23-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/GLuZ9F6iaaWBYvTC2HolJBpyU5E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391012/844869.png" group-title="Upcoming",Kyrian Jacquet vs Brandon Nakashima - Round 2 | ATP 250: Grand Prix Auvergne-Rhone-Alpes Open 2026 (02:00 WIB * 23-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/GLuZ9F6iaaWBYvTC2HolJBpyU5E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391012/844869.png" group-title="Upcoming",Kyrian Jacquet vs Brandon Nakashima - Round 2 | ATP 250: Grand Prix Auvergne-Rhone-Alpes Open 2026 (02:00 WIB * 23-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Ptq_HPoAox_-6UhYbrUFamdVYHw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391028/5e9513.png" group-title="Upcoming",Amallia Cahaya Pratiwi/Siti Fadia Silva Ramadhanti (INA) vs Lin Chih-Chun/Yang Chu Yun (TPE) - Women's Doubles Round of 16 | YONEX French Open 2026 (02:00 WIB * 23-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -327,11 +327,11 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9-mPzQ-iUW6KUZNTTjWCIq4wrhE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390708/bc815a.jpg" group-title="Upcoming",Torino vs Monza - Serie A (01:45 WIB * 24-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/CtY7Kh0MjBZzbzhpJS9Toz_bfcg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391091/39dc19.jpg" group-title="Upcoming",Stade Brestois 29 vs OGC Nice - Ligue 1 (01:45 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/CtY7Kh0MjBZzbzhpJS9Toz_bfcg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391091/39dc19.jpg" group-title="Upcoming",Stade Brestois 29 vs OGC Nice - Ligue 1 (01:45 WIB * 24-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9-mPzQ-iUW6KUZNTTjWCIq4wrhE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390708/bc815a.jpg" group-title="Upcoming",Torino vs Monza - Serie A (01:45 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -339,11 +339,11 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/BltkrkiFLggjMZEVih5elq-dwGQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390694/cdc045.jpg" group-title="Upcoming",Bolton vs Middlesbrough - EFL Championship (02:00 WIB * 24-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/NkzW3Fh11T2u_aqaBeHVdI57kfU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390692/15242c.jpg" group-title="Upcoming",Alaves vs Malaga - LaLiga (02:00 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/NkzW3Fh11T2u_aqaBeHVdI57kfU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390692/15242c.jpg" group-title="Upcoming",Alaves vs Malaga - LaLiga (02:00 WIB * 24-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/BltkrkiFLggjMZEVih5elq-dwGQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390694/cdc045.jpg" group-title="Upcoming",Bolton vs Middlesbrough - EFL Championship (02:00 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -407,11 +407,11 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/q93zPdmDvEqG_G9Vk4VfEA9NaBo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390710/f7e566.jpg" group-title="Upcoming",Aston Villa vs Man City - Premier League (18:30 WIB * 24-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/v6qz3mQz17i9rtFj6p0ZddUDb74=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390706/641cc7.jpg" group-title="Upcoming",PERSIJAP Jepara vs Java United FC - BRI Super League (18:30 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/v6qz3mQz17i9rtFj6p0ZddUDb74=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390706/641cc7.jpg" group-title="Upcoming",PERSIJAP Jepara vs Java United FC - BRI Super League (18:30 WIB * 24-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/q93zPdmDvEqG_G9Vk4VfEA9NaBo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390710/f7e566.jpg" group-title="Upcoming",Aston Villa vs Man City - Premier League (18:30 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -440,6 +440,10 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/RxN53UYx29fsXbfCJC7EH-1Bkng=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391097/796ead.jpg" group-title="Upcoming",Cagliari vs Bologna - Serie A (20:00 WIB * 24-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/wNL9d0qisEj4AdjYkcaA-b6Q7V0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390719/aa1288.jpg" group-title="Upcoming",PERSIRAJA Banda Aceh vs PSGC Ciamis - Pegadaian Championship (20:22 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
