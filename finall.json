@@ -1,39 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/47fDd4_NycOe9yxnq_XjYk2O5s8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391027/8afc66.png" group-title="Live Now",Christo Popov/Toma Junior Popov (FRA) vs Leo Rolly Carnando/Daniel Marthin (INA) - Men's Doubles Round of 16 | YONEX French Open 2026 (17:00 WIB * 22-10-2026) - BG
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Ptq_HPoAox_-6UhYbrUFamdVYHw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391028/5e9513.png" group-title="Live Now",Amallia Cahaya Pratiwi/Siti Fadia Silva Ramadhanti (INA) vs Lin Chih-Chun/Yang Chu Yun (TPE) - Women's Doubles Round of 16 | YONEX French Open 2026 (17:00 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18249&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNDksImV4cCI6MTc5Mjc4MjAzNX0._ERfZM58Phb_ZVwtgadXzbaMGheuzYtDAISPVKVoSiw
-https://vidkon.biz.id/post.mpd?id=18249&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNDksImV4cCI6MTc5Mjc4MjAzNX0._ERfZM58Phb_ZVwtgadXzbaMGheuzYtDAISPVKVoSiw
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/m0lzdvkSiR7Pct1mwlKfDaeSzIc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391051/83f8cc.jpg" group-title="Live Now",Chiu Hsiang Chieh/Wang Chi-Lin (TPE) vs Kang Min Hyuk/Lee Jongmin (KOR) - Men's Doubles Round of 16 | YONEX French Open 2026 (17:00 WIB * 22-10-2026) - BG
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18250&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNTAsImV4cCI6MTc5Mjc4MjAzNX0.5fquQwcCyDNS_WNMFCnZNoQsE11uZvgoVrjgewU1uA4
-https://vidkon.biz.id/post.mpd?id=18250&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNTAsImV4cCI6MTc5Mjc4MjAzNX0.5fquQwcCyDNS_WNMFCnZNoQsE11uZvgoVrjgewU1uA4
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/A5j_-0OmG5H3z6x_n2dz3503CUo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391050/02fe27.jpg" group-title="Live Now",Hinata Suzuki/Nao Yamakita (JPN) vs Sumire Nakade/Miyu Takahashi (JPN) - Women's Doubles Round of 16 | YONEX French Open 2026 (17:10 WIB * 22-10-2026) - BG
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18252&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNTIsImV4cCI6MTc5Mjc4MjAzNX0.T6z6_zypv2hbRBM_v-oBukQAddy8yt32srtmBkGmgcc
-https://vidkon.biz.id/post.mpd?id=18252&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNTIsImV4cCI6MTc5Mjc4MjAzNX0.T6z6_zypv2hbRBM_v-oBukQAddy8yt32srtmBkGmgcc
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/7Pd8AfwZiC2SJQNBexKZ3hIUe2E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391061/e97c46.jpg" group-title="Live Now",Ririna Hiramoto/Chiharu Shida (JPN) vs Sayaka Hirota/Ayako Sakuramoto (JPN) - Women's Doubles Round of 16 | YONEX French Open 2026 (17:10 WIB * 22-10-2026) - BG
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18253&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNTMsImV4cCI6MTc5Mjc4MjAzNX0.Jb9BPrqCD05xyc_VAkXzFHXKZyy2vJM4FAHTSX5m6t4
-https://vidkon.biz.id/post.mpd?id=18253&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNTMsImV4cCI6MTc5Mjc4MjAzNX0.Jb9BPrqCD05xyc_VAkXzFHXKZyy2vJM4FAHTSX5m6t4
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18249&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNDksImV4cCI6MTc5Mjc4MzgyOX0.sQiGF2oOZzR2UGJQTafPq0s85XDN-s8iuSZ2ub08rkI
+https://vidkon.biz.id/post.mpd?id=18249&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNDksImV4cCI6MTc5Mjc4MzgyOX0.sQiGF2oOZzR2UGJQTafPq0s85XDN-s8iuSZ2ub08rkI
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/TWSBwrzd86b4Uq-EczY9i1INUgs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388410/266f03.png" group-title="Live Now",Round 1 - Butterfield Bermuda Championship 2026 (00:00 WIB * 23-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -41,8 +14,8 @@ https://vidkon.biz.id/post.mpd?id=18253&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18189&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTg5IiwiZXhwIjoxNzkyNzgyMDM1fQ.oleWULqScIuEv1YHTTye-uSaTDiP9B0vWbXNSWQK6h4
-https://vidkon.biz.id/post.mpd?id=18189&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTg5IiwiZXhwIjoxNzkyNzgyMDM1fQ.oleWULqScIuEv1YHTTye-uSaTDiP9B0vWbXNSWQK6h4
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18189&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTg5IiwiZXhwIjoxNzkyNzgzODI5fQ.zsfvQifJwFBIkDSTEFQ5drxE-iHbp4MgrsloMYFdQpE
+https://vidkon.biz.id/post.mpd?id=18189&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTg5IiwiZXhwIjoxNzkyNzgzODI5fQ.zsfvQifJwFBIkDSTEFQ5drxE-iHbp4MgrsloMYFdQpE
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/GLuZ9F6iaaWBYvTC2HolJBpyU5E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391012/844869.png" group-title="Live Now",Kyrian Jacquet vs Brandon Nakashima - Round 2 | ATP 250: Grand Prix Auvergne-Rhone-Alpes Open 2026 (01:23 WIB * 23-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -50,17 +23,8 @@ https://vidkon.biz.id/post.mpd?id=18189&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20886&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkyNzgyMDM1fQ.B-p2QsKn8uo_PL1ySc26z_z3f5DdmyxhP1_664h2IJc
-https://vidkon.biz.id/post.mpd?id=20886&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkyNzgyMDM1fQ.B-p2QsKn8uo_PL1ySc26z_z3f5DdmyxhP1_664h2IJc
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/2RAUWArdJ755Qm7Z37TgQGViY-k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390669/6cdab9.jpg" group-title="Live Now",Bournemouth vs Milan - UEFA Europa League (01:45 WIB * 23-10-2026) - BG
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22293&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjkzIiwiZXhwIjoxNzkyNzgyMDM1fQ.Yw6wfXFBHIHijFzSEUke2zlXAhVoxSvvqf1p8BemBY8
-https://vidkon.biz.id/post.mpd?id=22293&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjkzIiwiZXhwIjoxNzkyNzgyMDM1fQ.Yw6wfXFBHIHijFzSEUke2zlXAhVoxSvvqf1p8BemBY8
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20886&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkyNzgzODI5fQ.9CSroljcOo2TRqLVNv0tovqdpmrSqal7mKZdHdXkJiE
+https://vidkon.biz.id/post.mpd?id=20886&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkyNzgzODI5fQ.9CSroljcOo2TRqLVNv0tovqdpmrSqal7mKZdHdXkJiE
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/jbXfXgdCaWzgL8AHJy1tFIcuVws=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388332/889dd1.jpg" group-title="Live Now",Celtic vs Celta Vigo - UEFA Europa League (01:45 WIB * 23-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -68,8 +32,8 @@ https://vidkon.biz.id/post.mpd?id=22293&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=17875&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkyNzgyMDM1fQ.U2b4y1DMDSRQKA163rmTESuM6l1cAySKCqWWX440REE
-https://vidkon.biz.id/post.mpd?id=17875&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkyNzgyMDM1fQ.U2b4y1DMDSRQKA163rmTESuM6l1cAySKCqWWX440REE
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=17875&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkyNzgzODI5fQ.stzSNjgTYl1zZSfrZW2rx_tAcPob7UbtHafxtc8Mw5E
+https://vidkon.biz.id/post.mpd?id=17875&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkyNzgzODI5fQ.stzSNjgTYl1zZSfrZW2rx_tAcPob7UbtHafxtc8Mw5E
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/cNxn2mBaOGWsfyntklGlnT1Z8LA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388388/1b6b17.jpg" group-title="Live Now",Ajax vs Atalanta - UEFA Conference League (01:45 WIB * 23-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -77,8 +41,17 @@ https://vidkon.biz.id/post.mpd?id=17875&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22582&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTgyIiwiZXhwIjoxNzkyNzgyMDM1fQ.yMbbl9z55r0iGBsdrGKswJDD89VG_AA38Vq8Tvwy7Vo
-https://vidkon.biz.id/post.mpd?id=22582&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTgyIiwiZXhwIjoxNzkyNzgyMDM1fQ.yMbbl9z55r0iGBsdrGKswJDD89VG_AA38Vq8Tvwy7Vo
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22582&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTgyIiwiZXhwIjoxNzkyNzgzODI5fQ.t3SpZapuG5PT_1_ATk5EJDxQGfOcHPwlvlFJ14BLFoY
+https://vidkon.biz.id/post.mpd?id=22582&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTgyIiwiZXhwIjoxNzkyNzgzODI5fQ.t3SpZapuG5PT_1_ATk5EJDxQGfOcHPwlvlFJ14BLFoY
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/2RAUWArdJ755Qm7Z37TgQGViY-k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390669/6cdab9.jpg" group-title="Live Now",Bournemouth vs Milan - UEFA Europa League (01:45 WIB * 23-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22293&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjkzIiwiZXhwIjoxNzkyNzgzODI5fQ.mO8i71TXF4Y4PbSAc9A49TLnfjmbgzu9UEQoWZB8qSo
+https://vidkon.biz.id/post.mpd?id=22293&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjkzIiwiZXhwIjoxNzkyNzgzODI5fQ.mO8i71TXF4Y4PbSAc9A49TLnfjmbgzu9UEQoWZB8qSo
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/bpeYdA2BUwfGTCiWZ4nB2G93fTM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388400/3fc6cf.jpg" group-title="Live Now",Thun vs Hajduk Split - UEFA Conference League (01:48 WIB * 23-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -86,8 +59,8 @@ https://vidkon.biz.id/post.mpd?id=22582&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22575&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTc1IiwiZXhwIjoxNzkyNzgyMDM1fQ.WHZKXGTWy7Nk-0g1OQVr1B7I2JU0mFQXB6M51hLvYAg
-https://vidkon.biz.id/post.mpd?id=22575&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTc1IiwiZXhwIjoxNzkyNzgyMDM1fQ.WHZKXGTWy7Nk-0g1OQVr1B7I2JU0mFQXB6M51hLvYAg
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22575&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTc1IiwiZXhwIjoxNzkyNzgzODI5fQ.27Ofe3GzhIjBcx0-xw2TQgtw28F6YHFijBOyuFdz9eM
+https://vidkon.biz.id/post.mpd?id=22575&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTc1IiwiZXhwIjoxNzkyNzgzODI5fQ.27Ofe3GzhIjBcx0-xw2TQgtw28F6YHFijBOyuFdz9eM
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/CeHvBguiz1U0qA2WTfYcYuWKzl0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388006/a4d5de.jpg" group-title="Live Now",Lillestrom vs Real Sociedad - UEFA Europa League (01:48 WIB * 23-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -95,8 +68,8 @@ https://vidkon.biz.id/post.mpd?id=22575&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22570&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTcwIiwiZXhwIjoxNzkyNzgyMDM1fQ.H8m26Hj8tgaC0soujP0a39gVh-0tdBssZxHzHz5qpYw
-https://vidkon.biz.id/post.mpd?id=22570&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTcwIiwiZXhwIjoxNzkyNzgyMDM1fQ.H8m26Hj8tgaC0soujP0a39gVh-0tdBssZxHzHz5qpYw
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22570&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTcwIiwiZXhwIjoxNzkyNzgzODI5fQ.eKnybKFOKyEK8r8Hm8z5Ay0CXcUeEaNcvekKutmZfh8
+https://vidkon.biz.id/post.mpd?id=22570&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTcwIiwiZXhwIjoxNzkyNzgzODI5fQ.eKnybKFOKyEK8r8Hm8z5Ay0CXcUeEaNcvekKutmZfh8
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/wUfeiGszYwSUSfr78ggPfD_hijE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388000/24628e.jpg" group-title="Live Now",Celje vs RB Salzburg - UEFA Europa League (01:49 WIB * 23-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -104,8 +77,8 @@ https://vidkon.biz.id/post.mpd?id=22570&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22289&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjg5IiwiZXhwIjoxNzkyNzgyMDM1fQ.4cU_FgyBRDgJTxdoTw2ngT_TUkH_yGe6r_TqBUalTAs
-https://vidkon.biz.id/post.mpd?id=22289&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjg5IiwiZXhwIjoxNzkyNzgyMDM1fQ.4cU_FgyBRDgJTxdoTw2ngT_TUkH_yGe6r_TqBUalTAs
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22289&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjg5IiwiZXhwIjoxNzkyNzgzODI5fQ.-MogDVbZF35UT_7pFS4NqhKRaiC_3CqS504aY-KRkoY
+https://vidkon.biz.id/post.mpd?id=22289&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjg5IiwiZXhwIjoxNzkyNzgzODI5fQ.-MogDVbZF35UT_7pFS4NqhKRaiC_3CqS504aY-KRkoY
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/gy_bFF5nGVFMWbfBESq_d9p1W_4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388409/582500.jpg" group-title="Live Now",Aarhus vs Egnatia - UEFA Conference League (01:50 WIB * 23-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -113,8 +86,8 @@ https://vidkon.biz.id/post.mpd?id=22289&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22578&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTc4IiwiZXhwIjoxNzkyNzgyMDM1fQ.d0HugrvraBE6rE7BKu56emzpC-jrCtfOhwjmINy7Gvs
-https://vidkon.biz.id/post.mpd?id=22578&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTc4IiwiZXhwIjoxNzkyNzgyMDM1fQ.d0HugrvraBE6rE7BKu56emzpC-jrCtfOhwjmINy7Gvs
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22578&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTc4IiwiZXhwIjoxNzkyNzgzODI5fQ.Li2WwkDIxb1aXBT-LGPnNeqIAZ5sTtLx7ItD8fd1dKY
+https://vidkon.biz.id/post.mpd?id=22578&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTc4IiwiZXhwIjoxNzkyNzgzODI5fQ.Li2WwkDIxb1aXBT-LGPnNeqIAZ5sTtLx7ItD8fd1dKY
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/pU9WqfDlKY2Kq3d8p5JjLCDB0-w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388004/9b4138.jpg" group-title="Live Now",Jagiellonia Bialystok vs Anderlecht - UEFA Europa League (01:50 WIB * 23-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -122,8 +95,8 @@ https://vidkon.biz.id/post.mpd?id=22578&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22291&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjkxIiwiZXhwIjoxNzkyNzgyMDM1fQ.aKp3_86fsvqEuoo4FapMTOvzhNRMPkwIbLSUMv6Yfjo
-https://vidkon.biz.id/post.mpd?id=22291&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjkxIiwiZXhwIjoxNzkyNzgyMDM1fQ.aKp3_86fsvqEuoo4FapMTOvzhNRMPkwIbLSUMv6Yfjo
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22291&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjkxIiwiZXhwIjoxNzkyNzgzODI5fQ.sw5ZqxwZS2TDMUVVM_bmdn82Tr3LHhynqaGXWLxFSMQ
+https://vidkon.biz.id/post.mpd?id=22291&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjkxIiwiZXhwIjoxNzkyNzgzODI5fQ.sw5ZqxwZS2TDMUVVM_bmdn82Tr3LHhynqaGXWLxFSMQ
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/eYkPm2ab9o8qLScyMW3YsWAdlKo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388010/b472c3.jpg" group-title="Live Now",Omonoia vs Benfica - UEFA Europa League (01:50 WIB * 23-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -131,8 +104,8 @@ https://vidkon.biz.id/post.mpd?id=22291&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22572&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTcyIiwiZXhwIjoxNzkyNzgyMDM1fQ.LiYiQxsBFYHGHcu6nm5kGcTsXYHpUw_W4BF2WU_ZFl4
-https://vidkon.biz.id/post.mpd?id=22572&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTcyIiwiZXhwIjoxNzkyNzgyMDM1fQ.LiYiQxsBFYHGHcu6nm5kGcTsXYHpUw_W4BF2WU_ZFl4
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22572&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTcyIiwiZXhwIjoxNzkyNzgzODI5fQ.X_PD62z_oOvZ6TuOod7ogdR4waxKPzUwFHJxm3n2ZyY
+https://vidkon.biz.id/post.mpd?id=22572&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTcyIiwiZXhwIjoxNzkyNzgzODI5fQ.X_PD62z_oOvZ6TuOod7ogdR4waxKPzUwFHJxm3n2ZyY
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/4iDGI4j3fRC7mrdeNQ6--piAE4o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388012/7dfe3e.jpg" group-title="Live Now",Viktoria Plzen vs Levski Sofia - UEFA Europa League (01:50 WIB * 23-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -140,8 +113,8 @@ https://vidkon.biz.id/post.mpd?id=22572&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22573&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTczIiwiZXhwIjoxNzkyNzgyMDM1fQ.XUs8D-sdiD8dSeT-8DaApfiulb5v8nwIdaj87AbbDc4
-https://vidkon.biz.id/post.mpd?id=22573&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTczIiwiZXhwIjoxNzkyNzgyMDM1fQ.XUs8D-sdiD8dSeT-8DaApfiulb5v8nwIdaj87AbbDc4
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22573&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTczIiwiZXhwIjoxNzkyNzgzODI5fQ.ih9iq6RnW02Sdetq3BpcawCfrPKyC3OTICGMYH37jD4
+https://vidkon.biz.id/post.mpd?id=22573&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTczIiwiZXhwIjoxNzkyNzgzODI5fQ.ih9iq6RnW02Sdetq3BpcawCfrPKyC3OTICGMYH37jD4
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/agR9XDVcN_RBkwXX5BL_LFDmnm0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388378/63e059.jpg" group-title="Live Now",Olympiacos vs Sparta Praha - UEFA Europa League (01:50 WIB * 23-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -149,8 +122,8 @@ https://vidkon.biz.id/post.mpd?id=22573&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22292&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjkyIiwiZXhwIjoxNzkyNzgyMDM1fQ.Cy4WmHIqzCLdAum5LVEQ2odTwvjerdmvEFM1Bb2c9Uc
-https://vidkon.biz.id/post.mpd?id=22292&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjkyIiwiZXhwIjoxNzkyNzgyMDM1fQ.Cy4WmHIqzCLdAum5LVEQ2odTwvjerdmvEFM1Bb2c9Uc
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22292&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjkyIiwiZXhwIjoxNzkyNzgzODI5fQ.HP7-qofepA2PEJwrTdtcWjre04SoAJvFfio89SlZjkk
+https://vidkon.biz.id/post.mpd?id=22292&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjkyIiwiZXhwIjoxNzkyNzgzODI5fQ.HP7-qofepA2PEJwrTdtcWjre04SoAJvFfio89SlZjkk
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/CKQ_Loxfau6G_Y3tg_92qBwabds=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388391/b43979.jpg" group-title="Live Now",Braga vs Gent - UEFA Conference League (01:50 WIB * 23-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -158,8 +131,8 @@ https://vidkon.biz.id/post.mpd?id=22292&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22581&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTgxIiwiZXhwIjoxNzkyNzgyMDM1fQ.LOCbdxyn0cJLtF-xjl3lc2nJeosLt6LGIxGzfkNNLAA
-https://vidkon.biz.id/post.mpd?id=22581&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTgxIiwiZXhwIjoxNzkyNzgyMDM1fQ.LOCbdxyn0cJLtF-xjl3lc2nJeosLt6LGIxGzfkNNLAA
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22581&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTgxIiwiZXhwIjoxNzkyNzgzODI5fQ.AmhizcoJ_jG-M7WTtfyxA_kpCfJbx1kGjuzK7qVv7bo
+https://vidkon.biz.id/post.mpd?id=22581&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTgxIiwiZXhwIjoxNzkyNzgzODI5fQ.AmhizcoJ_jG-M7WTtfyxA_kpCfJbx1kGjuzK7qVv7bo
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/eZp8Tk7aQwtSVeNDVjBe-fYcThs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388394/8a6423.jpg" group-title="Live Now",Midtjylland vs Sint-Truidense - UEFA Conference League (01:50 WIB * 23-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -167,8 +140,8 @@ https://vidkon.biz.id/post.mpd?id=22581&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22580&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTgwIiwiZXhwIjoxNzkyNzgyMDM1fQ.B8s2Fp68zk1iZUfvyvmyr63PfzjXH4CS-YAR4jmw6pM
-https://vidkon.biz.id/post.mpd?id=22580&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTgwIiwiZXhwIjoxNzkyNzgyMDM1fQ.B8s2Fp68zk1iZUfvyvmyr63PfzjXH4CS-YAR4jmw6pM
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22580&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTgwIiwiZXhwIjoxNzkyNzgzODI5fQ.3GeVKE17qjwXROlmSSRlAGYQaf5Wt6FFtO58b6tjQd0
+https://vidkon.biz.id/post.mpd?id=22580&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTgwIiwiZXhwIjoxNzkyNzgzODI5fQ.3GeVKE17qjwXROlmSSRlAGYQaf5Wt6FFtO58b6tjQd0
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/slureRyxJfPQ7oaYfqJQQZ9sdjw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388397/38bbab.jpg" group-title="Live Now",AS Monaco vs SC Freiburg - UEFA Conference League (01:50 WIB * 23-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -176,8 +149,8 @@ https://vidkon.biz.id/post.mpd?id=22580&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22577&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTc3IiwiZXhwIjoxNzkyNzgyMDM1fQ.qNYnsDZFOsj78urkfJWvHbhle_2Am9XAa1FImfqiVgY
-https://vidkon.biz.id/post.mpd?id=22577&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTc3IiwiZXhwIjoxNzkyNzgyMDM1fQ.qNYnsDZFOsj78urkfJWvHbhle_2Am9XAa1FImfqiVgY
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22577&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTc3IiwiZXhwIjoxNzkyNzgzODI5fQ.l3xOholaxAalgIF_I4pey_baYi-eaXhEhj0io2oNVMA
+https://vidkon.biz.id/post.mpd?id=22577&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTc3IiwiZXhwIjoxNzkyNzgzODI5fQ.l3xOholaxAalgIF_I4pey_baYi-eaXhEhj0io2oNVMA
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Oh1lfjwbnuG0cAeF5lK2nu7KpOI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388403/63c737.jpg" group-title="Live Now",Borac vs KuPS - UEFA Conference League (01:50 WIB * 23-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -185,8 +158,8 @@ https://vidkon.biz.id/post.mpd?id=22577&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22576&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTc2IiwiZXhwIjoxNzkyNzgyMDM1fQ.I58OkjDES5DnisG3OfDVrAN3kligOiZSC9EmTuenVhI
-https://vidkon.biz.id/post.mpd?id=22576&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTc2IiwiZXhwIjoxNzkyNzgyMDM1fQ.I58OkjDES5DnisG3OfDVrAN3kligOiZSC9EmTuenVhI
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22576&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTc2IiwiZXhwIjoxNzkyNzgzODI5fQ.hwXkdRHcU0Iv0J7OJUaOcEINg00EAWMgEQaqgc4gN3Q
+https://vidkon.biz.id/post.mpd?id=22576&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTc2IiwiZXhwIjoxNzkyNzgzODI5fQ.hwXkdRHcU0Iv0J7OJUaOcEINg00EAWMgEQaqgc4gN3Q
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/J4IlwmJajLivuvhsd9E3R9g7Zxw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388406/d33e1e.jpg" group-title="Live Now",Lincoln Red Imps vs Twente - UEFA Conference League (01:50 WIB * 23-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -194,8 +167,8 @@ https://vidkon.biz.id/post.mpd?id=22576&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22579&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTc5IiwiZXhwIjoxNzkyNzgyMDM1fQ.ZUeZGp5Pqx6PWvWxiD_f1zGZ_asg1XlGThRvTdsi73I
-https://vidkon.biz.id/post.mpd?id=22579&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTc5IiwiZXhwIjoxNzkyNzgyMDM1fQ.ZUeZGp5Pqx6PWvWxiD_f1zGZ_asg1XlGThRvTdsi73I
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22579&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTc5IiwiZXhwIjoxNzkyNzgzODI5fQ.w0m3_-AJHOv6Ha0rANPRTpkzv_5pqX_yPeZuEM99yQQ
+https://vidkon.biz.id/post.mpd?id=22579&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNTc5IiwiZXhwIjoxNzkyNzgzODI5fQ.w0m3_-AJHOv6Ha0rANPRTpkzv_5pqX_yPeZuEM99yQQ
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/f8m7igxlukN4LAsFz9eE2cSGj1M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388002/a0844b.jpg" group-title="Live Now",Hoffenheim vs Olympique Lyonnais - UEFA Europa League (01:50 WIB * 23-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -203,8 +176,8 @@ https://vidkon.biz.id/post.mpd?id=22579&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22290&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjkwIiwiZXhwIjoxNzkyNzgyMDM1fQ.pIhqY4LYqMNQfjlud8k35wzySwVTLowc0G_K7qCEz3M
-https://vidkon.biz.id/post.mpd?id=22290&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjkwIiwiZXhwIjoxNzkyNzgyMDM1fQ.pIhqY4LYqMNQfjlud8k35wzySwVTLowc0G_K7qCEz3M
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22290&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjkwIiwiZXhwIjoxNzkyNzgzODI5fQ.r4dLdcrBlWuoEq2m6UzxX4h8WCwEdbyNtm8j9UC1jPw
+https://vidkon.biz.id/post.mpd?id=22290&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjkwIiwiZXhwIjoxNzkyNzgzODI5fQ.r4dLdcrBlWuoEq2m6UzxX4h8WCwEdbyNtm8j9UC1jPw
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/K4v3VxP9BM0fRRtzp2U7JRxWupQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388336/999877.jpg" group-title="Live Now",Besiktas vs Crystal Palace - UEFA Europa League (01:55 WIB * 23-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -212,12 +185,8 @@ https://vidkon.biz.id/post.mpd?id=22290&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6317&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYzMTciLCJleHAiOjE3OTI3ODIwMzV9.vVf9vfkG_UfB2l4FkBOIyPuwZeObVSESM5efGn26Qg8
-https://vidkon.biz.id/post.mpd?id=6317&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYzMTciLCJleHAiOjE3OTI3ODIwMzV9.vVf9vfkG_UfB2l4FkBOIyPuwZeObVSESM5efGn26Qg8
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Ptq_HPoAox_-6UhYbrUFamdVYHw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391028/5e9513.png" group-title="Upcoming",Amallia Cahaya Pratiwi/Siti Fadia Silva Ramadhanti (INA) vs Lin Chih-Chun/Yang Chu Yun (TPE) - Women's Doubles Round of 16 | YONEX French Open 2026 (03:00 WIB * 23-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6317&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYzMTciLCJleHAiOjE3OTI3ODM4Mjl9.vy3bqnFLv2NcQjdSdqXKyuegsSGAMC2_1tdBq3l1qdM
+https://vidkon.biz.id/post.mpd?id=6317&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYzMTciLCJleHAiOjE3OTI3ODM4Mjl9.vy3bqnFLv2NcQjdSdqXKyuegsSGAMC2_1tdBq3l1qdM
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/JbZBsPiudzA-ED65iWdRoGYMsvU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390679/932e44.png" group-title="Upcoming",Moto3 Free Practice 1: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18 (04:55 WIB * 23-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -303,11 +272,11 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/CjJsw90_b5FPph3zgm2Iq76pY8k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391872/9e860c.jpg" group-title="Upcoming",Tallon Griekspoor vs Jiri Lehecka - Quarterfinal | ATP 250: BNP Paribas Fortis European Open 2026 (21:00 WIB * 23-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/kQ05oU1CpNIVt9i-eWTsYNHfgMA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391881/f9c483.png" group-title="Upcoming",Daniel Altmaier vs Taylor Fritz - Round 2 | ATP 250: Grand Prix Auvergne-Rhone-Alpes Open 2026 (21:00 WIB * 23-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/kQ05oU1CpNIVt9i-eWTsYNHfgMA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391881/f9c483.png" group-title="Upcoming",Daniel Altmaier vs Taylor Fritz - Round 2 | ATP 250: Grand Prix Auvergne-Rhone-Alpes Open 2026 (21:00 WIB * 23-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/CjJsw90_b5FPph3zgm2Iq76pY8k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391872/9e860c.jpg" group-title="Upcoming",Tallon Griekspoor vs Jiri Lehecka - Quarterfinal | ATP 250: BNP Paribas Fortis European Open 2026 (21:00 WIB * 23-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -343,11 +312,11 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/CtY7Kh0MjBZzbzhpJS9Toz_bfcg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391091/39dc19.jpg" group-title="Upcoming",Stade Brestois 29 vs OGC Nice - Ligue 1 (01:45 WIB * 24-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9-mPzQ-iUW6KUZNTTjWCIq4wrhE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390708/bc815a.jpg" group-title="Upcoming",Torino vs Monza - Serie A (01:45 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9-mPzQ-iUW6KUZNTTjWCIq4wrhE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390708/bc815a.jpg" group-title="Upcoming",Torino vs Monza - Serie A (01:45 WIB * 24-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/CtY7Kh0MjBZzbzhpJS9Toz_bfcg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391091/39dc19.jpg" group-title="Upcoming",Stade Brestois 29 vs OGC Nice - Ligue 1 (01:45 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
