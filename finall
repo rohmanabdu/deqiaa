@@ -5,8 +5,8 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18190&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTkwIiwiZXhwIjoxNzkyNzMwNzIzfQ.zjg7c5zuqbSkNZCNHl_lcNNAYY2NxNUknTqebSDVqT4
-https://vidkon.biz.id/post.mpd?id=18190&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTkwIiwiZXhwIjoxNzkyNzMwNzIzfQ.zjg7c5zuqbSkNZCNHl_lcNNAYY2NxNUknTqebSDVqT4
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18190&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTkwIiwiZXhwIjoxNzkyNzMxNDkyfQ.doPLhCceXWGNMZ1U9lfJkccbnkjJHRT7_hHrCFwsTuo
+https://vidkon.biz.id/post.mpd?id=18190&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTkwIiwiZXhwIjoxNzkyNzMxNDkyfQ.doPLhCceXWGNMZ1U9lfJkccbnkjJHRT7_hHrCFwsTuo
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Kc9Va6gE89i3aJVAEgqh2WIvTgk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5387998/b496d6.png" group-title="Live Now",Round of 16 - WTA 250: Kinoshita Group Japan Open 2026 (09:20 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -14,10 +14,10 @@ https://vidkon.biz.id/post.mpd?id=18190&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20564&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNTY0IiwiZXhwIjoxNzkyNzMwNzIzfQ.L2HgUjo_k_6H6VhU7JZVVGVpYBlVNT0m2ikagwcDguM
-https://vidkon.biz.id/post.mpd?id=20564&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNTY0IiwiZXhwIjoxNzkyNzMwNzIzfQ.L2HgUjo_k_6H6VhU7JZVVGVpYBlVNT0m2ikagwcDguM
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20564&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNTY0IiwiZXhwIjoxNzkyNzMxNDkyfQ.BuE1E7WI-_CeOxx-mq4RczaOlnspuB-3C2uCDZgM69w
+https://vidkon.biz.id/post.mpd?id=20564&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNTY0IiwiZXhwIjoxNzkyNzMxNDkyfQ.BuE1E7WI-_CeOxx-mq4RczaOlnspuB-3C2uCDZgM69w
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/yiPmWWqKBkTvPXKG4yCiYWicUnk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391013/5e5bb0.png" group-title="Upcoming",Iva Jovic vs Jasmine Paolini - Round of 16 | WTA 500: BNB Ningbo Open 2026 (12:00 WIB * 22-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/foR2rpNBM0qy5ZewZsI563S2l90=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391013/e3cb4d.png" group-title="Upcoming",Iva Jovic vs Jasmine Paolini - Round of 16 | WTA 500: BNB Ningbo Open 2026 (12:00 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/I5eM9abnldAJtVoJN9Ye6FdlXP0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391014/151127.png" group-title="Upcoming",Katarzyna Kawa vs Belinda Bencic - Round of 16 | WTA 500: BNB Ningbo Open 2026 (14:00 WIB * 22-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ZDAANbS-Vf6ygwMjg3lvkv_yW-k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391014/8c2301.png" group-title="Upcoming",Katarzyna Kawa vs Belinda Bencic - Round of 16 | WTA 500: BNB Ningbo Open 2026 (14:00 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -45,7 +45,7 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/uuDX1ZUlpVWvce2NCxDqDt3YqvI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391015/9a2498.png" group-title="Upcoming",Alexandra Eala vs Diana Shnaider - Round of 16 | WTA 500: BNB Ningbo Open 2026 (16:00 WIB * 22-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/MlRDzMv6NSus00X0pszxhlscW7E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391015/c2ac1d.png" group-title="Upcoming",Alexandra Eala vs Diana Shnaider - Round of 16 | WTA 500: BNB Ningbo Open 2026 (16:00 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -69,7 +69,7 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/T-pv3WZZnBZcv00kf4IwxXgHXo8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391016/3ffa96.png" group-title="Upcoming",Elena Rybakina vs Polina Kudermetova - Round of 16 | WTA 500: BNB Ningbo Open 2026 (18:00 WIB * 22-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/fANSD4GhIz_LcV8K6-CPxvzD4Po=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391016/464050.png" group-title="Upcoming",Elena Rybakina vs Polina Kudermetova - Round of 16 | WTA 500: BNB Ningbo Open 2026 (18:00 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
