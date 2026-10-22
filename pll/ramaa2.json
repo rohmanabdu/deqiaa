@@ -1,4 +1,20 @@
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/502/825502-SNAPSHOT-m.jpg" ch-number="1",UEFA Champions League 2026/27: Fenerbahce vs Slavia Prague [20 Oct 2026 23:40 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Men&#039;s NH Cup 2026/27" tvg-logo="https://www.visionplus.id/images/repository/448/826448-SNAPSHOT-m.jpg" ch-number="1",Men's NH Cup 2026/27: Hyundai Capital vs Korean Air [22 Oct 2026 17:00 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1002
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1002
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Men&#039;s NH Cup 2026/27" tvg-logo="https://www.visionplus.id/images/repository/448/826448-SNAPSHOT-m.jpg" ch-number="1",Men's NH Cup 2026/27: Hyundai Capital vs Korean Air [22 Oct 2026 17:00 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1002
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1002
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/315/826315-SNAPSHOT-m.jpg" ch-number="1",UEFA Europa League 2026/27: Juventus vs Rennes - MD3 [22 Oct 2026 23:40 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -6,7 +22,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=124
 
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/502/825502-SNAPSHOT-m.jpg" ch-number="1",UEFA Champions League 2026/27: Fenerbahce vs Slavia Prague [20 Oct 2026 23:40 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/315/826315-SNAPSHOT-m.jpg" ch-number="1",UEFA Europa League 2026/27: Juventus vs Rennes - MD3 [22 Oct 2026 23:40 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -14,7 +30,7 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=124
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=124
 
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/516/825516-SNAPSHOT-m.jpg" ch-number="2",UEFA Champions League 2026/27: Sabah FK vs Dortmund [20 Oct 2026 23:40 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/341/827341-SNAPSHOT-m.jpg" ch-number="2",UEFA Europa League 2026/27: Bournemouth vs Milan [23 Oct 2026 01:55 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -22,7 +38,7 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=124
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=122
 
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/516/825516-SNAPSHOT-m.jpg" ch-number="2",UEFA Champions League 2026/27: Sabah FK vs Dortmund [20 Oct 2026 23:40 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/341/827341-SNAPSHOT-m.jpg" ch-number="2",UEFA Europa League 2026/27: Bournemouth vs Milan [23 Oct 2026 01:55 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -30,23 +46,7 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=122
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=122
 
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/529/825529-SNAPSHOT-m.jpg" ch-number="3",UEFA Champions League 2026/27: PSG vs Barcelona [21 Oct 2026 01:55 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=122
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=122
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/529/825529-SNAPSHOT-m.jpg" ch-number="3",UEFA Champions League 2026/27: PSG vs Barcelona [21 Oct 2026 01:55 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=122
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=122
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/603/825603-SNAPSHOT-m.jpg" ch-number="4",UEFA Champions League 2026/27: Man City vs AEK Athens [21 Oct 2026 01:55 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/351/827351-SNAPSHOT-m.jpg" ch-number="3",UEFA Europa League 2026/27: Celtic vs Celta Vigo [23 Oct 2026 01:55 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -54,7 +54,7 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=122
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
 
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/603/825603-SNAPSHOT-m.jpg" ch-number="4",UEFA Champions League 2026/27: Man City vs AEK Athens [21 Oct 2026 01:55 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/351/827351-SNAPSHOT-m.jpg" ch-number="3",UEFA Europa League 2026/27: Celtic vs Celta Vigo [23 Oct 2026 01:55 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -62,7 +62,7 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
 
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/545/825545-SNAPSHOT-m.jpg" ch-number="5",UEFA Champions League 2026/27: Liverpool vs Villarreal [21 Oct 2026 01:55 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/362/827362-SNAPSHOT-m.jpg" ch-number="4",UEFA Europa League 2026/27: Besiktas vs Crystal Palace [23 Oct 2026 01:55 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -70,7 +70,7 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=124
 
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/545/825545-SNAPSHOT-m.jpg" ch-number="5",UEFA Champions League 2026/27: Liverpool vs Villarreal [21 Oct 2026 01:55 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/362/827362-SNAPSHOT-m.jpg" ch-number="4",UEFA Europa League 2026/27: Besiktas vs Crystal Palace [23 Oct 2026 01:55 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -78,213 +78,37 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=124
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=124
 
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/571/825571-SNAPSHOT-m.jpg" ch-number="6",UEFA Champions League 2026/27: Roma vs Slovan Bratislava [21 Oct 2026 02:00 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/375/827375-SNAPSHOT-m.jpg" ch-number="1",Bundesliga 2025/26: VFB Stuttgart vs Borussia Monchengladbach [24 Oct 2026 01:25 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=125
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1012
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=125
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1012
 
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/571/825571-SNAPSHOT-m.jpg" ch-number="6",UEFA Champions League 2026/27: Roma vs Slovan Bratislava [21 Oct 2026 02:00 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/375/827375-SNAPSHOT-m.jpg" ch-number="1",Bundesliga 2025/26: VFB Stuttgart vs Borussia Monchengladbach [24 Oct 2026 01:25 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=125
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1012
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=125
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1012
 
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/082/826082-SNAPSHOT-m.jpg" ch-number="7",UEFA Champions League 2026/27: Napoli vs Bodo/Glimt [21 Oct 2026 02:00 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/479/827479-SNAPSHOT-m.jpg" ch-number="2",Bundesliga 2025/26: Borussia Dortmund vs Eintracht Frankfurt [24 Oct 2026 23:25 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=126
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1012
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=126
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1012
 
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/082/826082-SNAPSHOT-m.jpg" ch-number="7",UEFA Champions League 2026/27: Napoli vs Bodo/Glimt [21 Oct 2026 02:00 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/479/827479-SNAPSHOT-m.jpg" ch-number="2",Bundesliga 2025/26: Borussia Dortmund vs Eintracht Frankfurt [24 Oct 2026 23:25 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=126
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1012
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=126
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/557/825557-SNAPSHOT-m.jpg" ch-number="8",UEFA Champions League 2026/27: Lille vs Galatasaray [21 Oct 2026 23:40 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=124
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=124
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/557/825557-SNAPSHOT-m.jpg" ch-number="8",UEFA Champions League 2026/27: Lille vs Galatasaray [21 Oct 2026 23:40 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=124
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=124
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/584/825584-SNAPSHOT-m.jpg" ch-number="9",UEFA Champions League 2026/27: Como 1907 vs Man United [21 Oct 2026 23:40 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=122
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=122
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/584/825584-SNAPSHOT-m.jpg" ch-number="9",UEFA Champions League 2026/27: Como 1907 vs Man United [21 Oct 2026 23:40 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=122
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=122
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/237/826237-SNAPSHOT-m.jpg" ch-number="10",UEFA Champions League 2026/27: Real Madrid vs Leipzig [22 Oct 2026 01:55 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=124
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=124
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/237/826237-SNAPSHOT-m.jpg" ch-number="10",UEFA Champions League 2026/27: Real Madrid vs Leipzig [22 Oct 2026 01:55 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=124
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=124
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/258/826258-SNAPSHOT-m.jpg" ch-number="11",UEFA Champions League 2026/27: Bayern vs Arsenal [22 Oct 2026 01:55 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=122
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=122
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/258/826258-SNAPSHOT-m.jpg" ch-number="11",UEFA Champions League 2026/27: Bayern vs Arsenal [22 Oct 2026 01:55 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=122
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=122
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/273/826273-SNAPSHOT-m.jpg" ch-number="12",UEFA Champions League 2026/27: Aston Villa vs Viking [22 Oct 2026 01:55 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=123
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/273/826273-SNAPSHOT-m.jpg" ch-number="12",UEFA Champions League 2026/27: Aston Villa vs Viking [22 Oct 2026 01:55 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=123
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/282/826282-SNAPSHOT-m.jpg" ch-number="1",UEFA Europa League 2026/27: Inter vs Shakhtar [22 Oct 2026 02:00 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=125
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=125
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/282/826282-SNAPSHOT-m.jpg" ch-number="1",UEFA Europa League 2026/27: Inter vs Shakhtar [22 Oct 2026 02:00 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=125
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=125
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/299/826299-SNAPSHOT-m.jpg" ch-number="2",UEFA Europa League 2026/27: Real Betis vs Feyenoord [22 Oct 2026 02:00 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=126
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=126
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/299/826299-SNAPSHOT-m.jpg" ch-number="2",UEFA Europa League 2026/27: Real Betis vs Feyenoord [22 Oct 2026 02:00 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=126
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=126
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/315/826315-SNAPSHOT-m.jpg" ch-number="3",UEFA Europa League 2026/27: Juventus vs Rennes - MD3 [22 Oct 2026 23:40 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=124
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=124
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/315/826315-SNAPSHOT-m.jpg" ch-number="3",UEFA Europa League 2026/27: Juventus vs Rennes - MD3 [22 Oct 2026 23:40 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=124
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=124
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/414/826414-SNAPSHOT-m.jpg" ch-number="1",Men's NH Cup 2026/27: OK Savingsbank vs Samsung Bluefangs [22 Oct 2026 11:00 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1002
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1002
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/414/826414-SNAPSHOT-m.jpg" ch-number="1",Men's NH Cup 2026/27: OK Savingsbank vs Samsung Bluefangs [22 Oct 2026 11:00 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1002
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1002
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/430/826430-SNAPSHOT-m.jpg" ch-number="2",Men's NH Cup 2026/27: Wooricard vs KEPCO [22 Oct 2026 13:30 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1002
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1002
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/430/826430-SNAPSHOT-m.jpg" ch-number="2",Men's NH Cup 2026/27: Wooricard vs KEPCO [22 Oct 2026 13:30 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1002
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1002
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/448/826448-SNAPSHOT-m.jpg" ch-number="3",Men's NH Cup 2026/27: Hyundai Capital vs Korean Air [22 Oct 2026 17:00 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1002
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1002
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/448/826448-SNAPSHOT-m.jpg" ch-number="3",Men's NH Cup 2026/27: Hyundai Capital vs Korean Air [22 Oct 2026 17:00 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1002
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1002
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1012
 
 #EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/380/826380-SNAPSHOT-m.jpg" ch-number="1",UEFA Conference League 2026/27: Kairat vs Panathinaikos [22 Oct 2026 21:25 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -318,7 +142,151 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
 
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/069/826069-SNAPSHOT-m.jpg" ch-number="1",Roshn Saudi League 26/27: Al Taawoun vs Al Qadisiyah [20 Oct 2026 22:05 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/040/827040-SNAPSHOT-m.jpg" ch-number="3",UEFA Conference League 2026/27: Ajax vs Atalanta [23 Oct 2026 02:00 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=125
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=125
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/040/827040-SNAPSHOT-m.jpg" ch-number="3",UEFA Conference League 2026/27: Ajax vs Atalanta [23 Oct 2026 02:00 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=125
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=125
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/062/827062-SNAPSHOT-m.jpg" ch-number="4",UEFA Conference League 2026/27: Monaco vs Freiburg [23 Oct 2026 02:00 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=126
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=126
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/062/827062-SNAPSHOT-m.jpg" ch-number="4",UEFA Conference League 2026/27: Monaco vs Freiburg [23 Oct 2026 02:00 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=126
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=126
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/434/827434-SNAPSHOT-m.jpg" ch-number="1",LaLiga 2026/27: Rayo Vallecano vs Elche [24 Oct 2026 18:55 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=122
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=122
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/434/827434-SNAPSHOT-m.jpg" ch-number="1",LaLiga 2026/27: Rayo Vallecano vs Elche [24 Oct 2026 18:55 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=122
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=122
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/508/827508-SNAPSHOT-m.jpg" ch-number="2",LaLiga 2026/27: Racing de Santander vs Espanyol [24 Oct 2026 21:10 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=122
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=122
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/508/827508-SNAPSHOT-m.jpg" ch-number="2",LaLiga 2026/27: Racing de Santander vs Espanyol [24 Oct 2026 21:10 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=122
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=122
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/913/827913-SNAPSHOT-m.jpg" ch-number="3",LaLiga 2 2026/27: Granada vs Valladolid [24 Oct 2026 01:22 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=124
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=124
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/913/827913-SNAPSHOT-m.jpg" ch-number="3",LaLiga 2 2026/27: Granada vs Valladolid [24 Oct 2026 01:22 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=124
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=124
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/532/827532-SNAPSHOT-m.jpg" ch-number="4",LaLiga 2026/27: Alaves vs Malaga [24 Oct 2026 01:55 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=123
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/532/827532-SNAPSHOT-m.jpg" ch-number="4",LaLiga 2026/27: Alaves vs Malaga [24 Oct 2026 01:55 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=123
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/927/827927-SNAPSHOT-m.jpg" ch-number="5",LaLiga 2 2026/27: Leganes vs Mallorca [24 Oct 2026 21:07 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=123
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/927/827927-SNAPSHOT-m.jpg" ch-number="5",LaLiga 2 2026/27: Leganes vs Mallorca [24 Oct 2026 21:07 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=123
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/830/827830-SNAPSHOT-m.jpg" ch-number="6",LaLiga 2026/27: Valencia vs Villarreal [24 Oct 2026 23:25 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=123
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/830/827830-SNAPSHOT-m.jpg" ch-number="6",LaLiga 2026/27: Valencia vs Villarreal [24 Oct 2026 23:25 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=123
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/582/827582-SNAPSHOT-m.jpg" ch-number="1",Roshn Saudi League 26/27: Al Faysaly vs Al Nassr [23 Oct 2026 20:25 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/582/827582-SNAPSHOT-m.jpg" ch-number="1",Roshn Saudi League 26/27: Al Faysaly vs Al Nassr [23 Oct 2026 20:25 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/025/827025-SNAPSHOT-m.jpg" ch-number="2",Roshn Saudi League 26/27: Al Ittihad vs Diriyah [23 Oct 2026 22:25 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -326,7 +294,7 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/069/826069-SNAPSHOT-m.jpg" ch-number="1",Roshn Saudi League 26/27: Al Taawoun vs Al Qadisiyah [20 Oct 2026 22:05 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/025/827025-SNAPSHOT-m.jpg" ch-number="2",Roshn Saudi League 26/27: Al Ittihad vs Diriyah [23 Oct 2026 22:25 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -334,7 +302,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/198/826198-SNAPSHOT-m.jpg" ch-number="2",Roshn Saudi League 26/27: Al Nassr vs Neom [21 Oct 2026 00:55 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/077/827077-SNAPSHOT-m.jpg" ch-number="3",Roshn Saudi League 26/27: Al Qadisiyah vs Al Hilal [24 Oct 2026 00:55 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -342,11 +310,155 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/198/826198-SNAPSHOT-m.jpg" ch-number="2",Roshn Saudi League 26/27: Al Nassr vs Neom [21 Oct 2026 00:55 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/077/827077-SNAPSHOT-m.jpg" ch-number="3",Roshn Saudi League 26/27: Al Qadisiyah vs Al Hilal [24 Oct 2026 00:55 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/295/827295-SNAPSHOT-m.jpg" ch-number="1",MotoGP: Grand Prix of Australia - Free Practice 1 [23 Oct 2026 04:55 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/295/827295-SNAPSHOT-m.jpg" ch-number="1",MotoGP: Grand Prix of Australia - Free Practice 1 [23 Oct 2026 04:55 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/309/827309-SNAPSHOT-m.jpg" ch-number="2",MotoGP: Grand Prix of Australia - Practice [23 Oct 2026 09:10 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/309/827309-SNAPSHOT-m.jpg" ch-number="2",MotoGP: Grand Prix of Australia - Practice [23 Oct 2026 09:10 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/940/827940-SNAPSHOT-m.jpg" ch-number="3",MotoGP: Grand Prix of Australia - Free Practice 2 [24 Oct 2026 04:35 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/940/827940-SNAPSHOT-m.jpg" ch-number="3",MotoGP: Grand Prix of Australia - Free Practice 2 [24 Oct 2026 04:35 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/968/827968-SNAPSHOT-m.jpg" ch-number="4",MotoGP: Grand Prix of Australia - Qualifying [24 Oct 2026 06:45 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/968/827968-SNAPSHOT-m.jpg" ch-number="4",MotoGP: Grand Prix of Australia - Qualifying [24 Oct 2026 06:45 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/983/827983-SNAPSHOT-m.jpg" ch-number="5",Moto3&Moto 2: Grand Prix of Australia - Qualifying [24 Oct 2026 08:40 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/983/827983-SNAPSHOT-m.jpg" ch-number="5",Moto3&Moto 2: Grand Prix of Australia - Qualifying [24 Oct 2026 08:40 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/971/827971-SNAPSHOT-m.jpg" ch-number="6",MotoGP: Grand Prix of Australia - Sprint [24 Oct 2026 10:30 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/971/827971-SNAPSHOT-m.jpg" ch-number="6",MotoGP: Grand Prix of Australia - Sprint [24 Oct 2026 10:30 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/088/827088-SNAPSHOT-m.jpg" ch-number="1",AFC Champions League Two 2026/27: Al Seeb Club (OMA) vs East Bengal FC (IND) [27 Oct 2026 23:00 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1002
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1002
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/088/827088-SNAPSHOT-m.jpg" ch-number="1",AFC Champions League Two 2026/27: Al Seeb Club (OMA) vs East Bengal FC (IND) [27 Oct 2026 23:00 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1002
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1002
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/008/828008-SNAPSHOT-m.jpg" ch-number="1",Women's Super League 2026/27: Tottenham vs Arsenal [24 Oct 2026 18:35 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=123
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/008/828008-SNAPSHOT-m.jpg" ch-number="1",Women's Super League 2026/27: Tottenham vs Arsenal [24 Oct 2026 18:35 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=123
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/016/828016-SNAPSHOT-m.jpg" ch-number="2",Women's Super League 2026/27: Brighton vs West Ham [24 Oct 2026 23:05 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=124
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=124
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/016/828016-SNAPSHOT-m.jpg" ch-number="2",Women's Super League 2026/27: Brighton vs West Ham [24 Oct 2026 23:05 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=124
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=124
 
