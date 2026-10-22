@@ -1,18 +1,18 @@
-#EXTINF:-1 tvg-id="Vision+" group-title="Men&#039;s NH Cup 2026/27" tvg-logo="https://www.visionplus.id/images/repository/448/826448-SNAPSHOT-m.jpg" ch-number="1",Men's NH Cup 2026/27: Hyundai Capital vs Korean Air [22 Oct 2026 17:00 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="UEFA Conference League 2026/27" tvg-logo="https://www.visionplus.id/images/repository/380/826380-SNAPSHOT-m.jpg" ch-number="1",UEFA Conference League 2026/27: Kairat vs Panathinaikos [22 Oct 2026 21:25 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1002
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=122
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1002
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=122
 
-#EXTINF:-1 tvg-id="Vision+" group-title="Men&#039;s NH Cup 2026/27" tvg-logo="https://www.visionplus.id/images/repository/448/826448-SNAPSHOT-m.jpg" ch-number="1",Men's NH Cup 2026/27: Hyundai Capital vs Korean Air [22 Oct 2026 17:00 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="UEFA Conference League 2026/27" tvg-logo="https://www.visionplus.id/images/repository/380/826380-SNAPSHOT-m.jpg" ch-number="1",UEFA Conference League 2026/27: Kairat vs Panathinaikos [22 Oct 2026 21:25 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1002
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=122
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1002
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=122
 
 #EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/315/826315-SNAPSHOT-m.jpg" ch-number="1",UEFA Europa League 2026/27: Juventus vs Rennes - MD3 [22 Oct 2026 23:40 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -109,22 +109,6 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1012
 #KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1012
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1012
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/380/826380-SNAPSHOT-m.jpg" ch-number="1",UEFA Conference League 2026/27: Kairat vs Panathinaikos [22 Oct 2026 21:25 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=122
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=122
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/380/826380-SNAPSHOT-m.jpg" ch-number="1",UEFA Conference League 2026/27: Kairat vs Panathinaikos [22 Oct 2026 21:25 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=122
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=122
 
 #EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/399/826399-SNAPSHOT-m.jpg" ch-number="2",UEFA Conference League 2026/27: Jablonec vs Brighton [22 Oct 2026 23:40 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
