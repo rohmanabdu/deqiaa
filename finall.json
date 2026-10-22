@@ -5,17 +5,17 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22207&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA3IiwiZXhwIjoxNzkyNzQzMzIxfQ.IvGQl-322prYc775nuuoGnqRGtv_N6_mzr0bdL6L7wA
-https://vidkon.biz.id/post.mpd?id=22207&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA3IiwiZXhwIjoxNzkyNzQzMzIxfQ.IvGQl-322prYc775nuuoGnqRGtv_N6_mzr0bdL6L7wA
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22207&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA3IiwiZXhwIjoxNzkyNzQ0MjM2fQ.qtU_LqopBzWv7HjR4e7q1oRrxOVAQNaZ2T6MaU4ldGo
+https://vidkon.biz.id/post.mpd?id=22207&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA3IiwiZXhwIjoxNzkyNzQ0MjM2fQ.qtU_LqopBzWv7HjR4e7q1oRrxOVAQNaZ2T6MaU4ldGo
 
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Kc9Va6gE89i3aJVAEgqh2WIvTgk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5387998/b496d6.png" group-title="Live Now",Round of 16 - WTA 250: Kinoshita Group Japan Open 2026 (09:20 WIB * 22-10-2026) - BG
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/6-JT8NpeM4d_i_pe4r7QEr4yLTw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5387865/c1c61e.jpg" group-title="Live Now",PERSIK Kediri vs PSS Sleman - BRI Super League (15:22 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20564&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNTY0IiwiZXhwIjoxNzkyNzQzMzIxfQ.wMC-bANaCs2zJrtJZIXr6cECf0ug0rK5ktLEr4pe52Q
-https://vidkon.biz.id/post.mpd?id=20564&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNTY0IiwiZXhwIjoxNzkyNzQzMzIxfQ.wMC-bANaCs2zJrtJZIXr6cECf0ug0rK5ktLEr4pe52Q
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22208&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA4IiwiZXhwIjoxNzkyNzQ0MjM2fQ.LBzpkwSN2wPcbi5LP4tXngV4QhTawIe4m1FaCxEFZhc
+https://vidkon.biz.id/post.mpd?id=22208&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA4IiwiZXhwIjoxNzkyNzQ0MjM2fQ.LBzpkwSN2wPcbi5LP4tXngV4QhTawIe4m1FaCxEFZhc
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/-V2uXH-nOHdqKIjP2wHqS6F-taA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391094/5409c8.png" group-title="Live Now",Day 4 - Kejurnas Tinju Piala Menko IPK 2026 (13:00 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -23,8 +23,8 @@ https://vidkon.biz.id/post.mpd?id=20564&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22628&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjI4IiwiZXhwIjoxNzkyNzQzMzIxfQ.unk3K9oC-0KxuR5kMLcAp7r3lDqDzmX3gLdu7JbrNOs
-https://vidkon.biz.id/post.mpd?id=22628&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjI4IiwiZXhwIjoxNzkyNzQzMzIxfQ.unk3K9oC-0KxuR5kMLcAp7r3lDqDzmX3gLdu7JbrNOs
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22628&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjI4IiwiZXhwIjoxNzkyNzQ0MjM2fQ.W1BlntWaSdUA89QrzcsQ46qOo_DXcFKGZ30cgXM7ClA
+https://vidkon.biz.id/post.mpd?id=22628&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjI4IiwiZXhwIjoxNzkyNzQ0MjM2fQ.W1BlntWaSdUA89QrzcsQ46qOo_DXcFKGZ30cgXM7ClA
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/5e-MF26JRJHjdrBdKb-KmDUA9ik=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391002/532963.jpg" group-title="Live Now",Terence Atmane vs Mattia Bellucci - Round 2 | ATP 250: Almaty Open 2026 (13:30 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -32,8 +32,8 @@ https://vidkon.biz.id/post.mpd?id=22628&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20884&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkyNzQzMzIxfQ.p75XFTnzq2YNSRThwyAyEeiL6PwWydLM86hA5dKJSOU
-https://vidkon.biz.id/post.mpd?id=20884&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkyNzQzMzIxfQ.p75XFTnzq2YNSRThwyAyEeiL6PwWydLM86hA5dKJSOU
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20884&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkyNzQ0MjM2fQ.cq0toMBhilZz2gni8qguAiqsOQJKQqh1aj7ZUBS_7jQ
+https://vidkon.biz.id/post.mpd?id=20884&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkyNzQ0MjM2fQ.cq0toMBhilZz2gni8qguAiqsOQJKQqh1aj7ZUBS_7jQ
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/ZDAANbS-Vf6ygwMjg3lvkv_yW-k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391014/8c2301.png" group-title="Live Now",Katarzyna Kawa vs Belinda Bencic - Round of 16 | WTA 500: BNB Ningbo Open 2026 (13:39 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -41,14 +41,10 @@ https://vidkon.biz.id/post.mpd?id=20884&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20902&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwOTAyIiwiZXhwIjoxNzkyNzQzMzIxfQ.8tN1IwmPdeY8Aem5pyBlLPrmR_BwqF1hGWiwyhNljSE
-https://vidkon.biz.id/post.mpd?id=20902&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwOTAyIiwiZXhwIjoxNzkyNzQzMzIxfQ.8tN1IwmPdeY8Aem5pyBlLPrmR_BwqF1hGWiwyhNljSE
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20902&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwOTAyIiwiZXhwIjoxNzkyNzQ0MjM2fQ.vYCf-geAUwY-6zy0bTkeM7CUogUPN18kMU8rqAUHnmM
+https://vidkon.biz.id/post.mpd?id=20902&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwOTAyIiwiZXhwIjoxNzkyNzQ0MjM2fQ.vYCf-geAUwY-6zy0bTkeM7CUogUPN18kMU8rqAUHnmM
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/6-JT8NpeM4d_i_pe4r7QEr4yLTw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5387865/c1c61e.jpg" group-title="Upcoming",PERSIK Kediri vs PSS Sleman - BRI Super League (15:22 WIB * 22-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/_yHaIjVzWNfN5VD_vLWSNDTrAp4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391003/432b44.jpg" group-title="Upcoming",Tomas Machac vs Karen Khachanov - Round 2 | ATP 250: Almaty Open 2026 (15:30 WIB * 22-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/_yHaIjVzWNfN5VD_vLWSNDTrAp4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391003/432b44.jpg" group-title="Upcoming",Tomas Machac vs Karen Khachanov - Round 2 | ATP 250: Almaty Open 2026 (16:00 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -80,11 +76,11 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5x13OZ2vvbr1JBFx-c1KaNYZMT0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5387867/99a403.jpg" group-title="Upcoming",Madura United FC vs PERSIB - BRI Super League (18:30 WIB * 22-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/8qOsVhP5Y76RW4hLPwdgQL45zXo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391090/6f32a7.jpg" group-title="Upcoming",Raphael Collignon vs Jiri Lehecka - Round 2 | ATP 250: BNP Paribas Fortis European Open 2026 (18:30 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/8qOsVhP5Y76RW4hLPwdgQL45zXo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391090/6f32a7.jpg" group-title="Upcoming",Raphael Collignon vs Jiri Lehecka - Round 2 | ATP 250: BNP Paribas Fortis European Open 2026 (18:30 WIB * 22-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5x13OZ2vvbr1JBFx-c1KaNYZMT0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5387867/99a403.jpg" group-title="Upcoming",Madura United FC vs PERSIB - BRI Super League (18:30 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -136,7 +132,7 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1iz43E-FjvWp0fVVPlGRWqou2Ks=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388396/85db43.jpg" group-title="Upcoming",Crvena Zvezda vs Copenhagen - UEFA Conference League (23:35 WIB * 22-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hN29JdjOqd67wCx-Zc8Ea3uCKJ0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388011/f2e384.jpg" group-title="Upcoming",Union Saint-Gilloise vs Hapoel Beer-Sheva - UEFA Europa League (23:35 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -164,10 +160,6 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hN29JdjOqd67wCx-Zc8Ea3uCKJ0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388011/f2e384.jpg" group-title="Upcoming",Union Saint-Gilloise vs Hapoel Beer-Sheva - UEFA Europa League (23:35 WIB * 22-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dyRcSlhZVUyyHZv8WW8qsgTKw4s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388387/e0b60a.jpg" group-title="Upcoming",Inter Escaldes vs Universitatea Craiova - UEFA Conference League (23:35 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
@@ -177,6 +169,10 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nrcWPtEku6cGcLzf96TUaROkSY8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388393/6c5627.jpg" group-title="Upcoming",Nordsjaelland vs CSKA Sofia - UEFA Conference League (23:35 WIB * 22-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1iz43E-FjvWp0fVVPlGRWqou2Ks=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388396/85db43.jpg" group-title="Upcoming",Crvena Zvezda vs Copenhagen - UEFA Conference League (23:35 WIB * 22-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
