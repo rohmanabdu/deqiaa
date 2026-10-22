@@ -1,7 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/JbZBsPiudzA-ED65iWdRoGYMsvU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390679/932e44.png" group-title="LIVE EVENT",Moto3 Free Practice 1: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18 (04:55 WIB * 23-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/JbZBsPiudzA-ED65iWdRoGYMsvU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390679/932e44.png" group-title="LIVE EVENT",Moto3 Free Practice 1: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18 (04:55 WIB * 23-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=17140&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTQwIiwiZXhwIjoxNzkyNzkyODQxfQ.5LtcOf0lhFppZgWx32dCwySii09yInDyMchYxAmFLDY
+https://vidkon.biz.id/post.mpd?id=17140&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTQwIiwiZXhwIjoxNzkyNzkyODQxfQ.5LtcOf0lhFppZgWx32dCwySii09yInDyMchYxAmFLDY
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/F4mdkt0xIqAqyy9rPBaZIO7BtkM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390680/d5cd1d.png" group-title="LIVE EVENT",Moto2 Free Practice 1: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18 (05:50 WIB * 23-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
