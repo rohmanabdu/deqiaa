@@ -5,16 +5,16 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20886&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkyODgwMTI2fQ.eyCUdoPykzhGvMF9wzyHGaatdEbJKJydjEwWkHkzc_8
-https://vidkon.biz.id/post.mpd?id=20886&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkyODgwMTI2fQ.eyCUdoPykzhGvMF9wzyHGaatdEbJKJydjEwWkHkzc_8
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20886&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkyODgxMDM3fQ.VjTY-YvNAhOTgjSo1QyT2J2QbWOl2EAXUq37wDLXW0k
+https://vidkon.biz.id/post.mpd?id=20886&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkyODgxMDM3fQ.VjTY-YvNAhOTgjSo1QyT2J2QbWOl2EAXUq37wDLXW0k
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/rR93-JZq5RY753gLfPuibKF0H0A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390727/ffb225.png" group-title="LIVE EVENT",Moto2 Free Practice 2: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18 (05:10 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=17140&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTQwIiwiZXhwIjoxNzkyODgwMTI2fQ.786_ZXLIk9OMEX9af90DLx4z3WL0wU_EFr_FTJIT3kA
-https://vidkon.biz.id/post.mpd?id=17140&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTQwIiwiZXhwIjoxNzkyODgwMTI2fQ.786_ZXLIk9OMEX9af90DLx4z3WL0wU_EFr_FTJIT3kA
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=17140&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTQwIiwiZXhwIjoxNzkyODgxMDM3fQ.enG5HBCap33MRGuDyuEZYpuJ9Y2F2vvFR-r0Y6y3vXE
+https://vidkon.biz.id/post.mpd?id=17140&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTQwIiwiZXhwIjoxNzkyODgxMDM3fQ.enG5HBCap33MRGuDyuEZYpuJ9Y2F2vvFR-r0Y6y3vXE
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/I-ZM2_8m7I-FcC0AEQ5BgiC_E9s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390725/7ff6df.png" group-title="LIVE EVENT",MotoGP Free Practice 2: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18 (05:50 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
