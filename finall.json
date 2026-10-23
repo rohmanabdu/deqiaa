@@ -5,17 +5,8 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18249&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNDksImV4cCI6MTc5Mjg2NjYzM30.b7M8bgsNDLh09L_jW_DeUqStolNAW8hCzBYSTVNSWpQ
-https://vidkon.biz.id/post.mpd?id=18249&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNDksImV4cCI6MTc5Mjg2NjYzM30.b7M8bgsNDLh09L_jW_DeUqStolNAW8hCzBYSTVNSWpQ
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/5yPr4vtZVssDSOaC-yH3rOs_-ws=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391873/590533.jpg" group-title="Live Now",Arthur Fils vs Alex Michelsen - Quarterfinal | ATP 250: BNP Paribas Fortis European Open 2026 (23:35 WIB * 23-10-2026) - BG
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20885&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkyODY2NjMzfQ.dIqBLaK_lCIduuhkq2gGmp8Kj9__WoNkQocj0xdbCuk
-https://vidkon.biz.id/post.mpd?id=20885&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkyODY2NjMzfQ.dIqBLaK_lCIduuhkq2gGmp8Kj9__WoNkQocj0xdbCuk
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18249&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNDksImV4cCI6MTc5Mjg2NzUyOH0.UwXlj6qZgJSKuAijAAXoT8TdXH3ZUPzxoS88XGd5OF8
+https://vidkon.biz.id/post.mpd?id=18249&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNDksImV4cCI6MTc5Mjg2NzUyOH0.UwXlj6qZgJSKuAijAAXoT8TdXH3ZUPzxoS88XGd5OF8
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/rxiLQKSDp6h05unGwxGhQtQ7rYo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391882/39c835.png" group-title="Live Now",Flavio Cobolli vs Brandon Nakashima - Quarterfinal | ATP 250: Grand Prix Auvergne-Rhone-Alpes Open 2026 (23:50 WIB * 23-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -23,8 +14,8 @@ https://vidkon.biz.id/post.mpd?id=20885&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20886&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkyODY2NjMzfQ.Vfj3bg7DBciouTM99JjjWsNwLcfraAaT62Kci8iFE1g
-https://vidkon.biz.id/post.mpd?id=20886&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkyODY2NjMzfQ.Vfj3bg7DBciouTM99JjjWsNwLcfraAaT62Kci8iFE1g
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20886&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkyODY3NTI4fQ.xqtwjAXMPOeNUfzJ4CBjKOF8LkUVTH28IZwsiMKngwU
+https://vidkon.biz.id/post.mpd?id=20886&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkyODY3NTI4fQ.xqtwjAXMPOeNUfzJ4CBjKOF8LkUVTH28IZwsiMKngwU
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/j2UuGrYX5QmmXxCFFn-EHxjlM64=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390693/dc956a.png" group-title="Live Now",Round 2 - Butterfield Bermuda Championship 2026 (00:00 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -32,17 +23,8 @@ https://vidkon.biz.id/post.mpd?id=20886&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18189&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTg5IiwiZXhwIjoxNzkyODY2NjMzfQ.T2NJS2hbzCk5noUPoCkPhqD-bSekCgBlb2A6SgtYUFE
-https://vidkon.biz.id/post.mpd?id=18189&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTg5IiwiZXhwIjoxNzkyODY2NjMzfQ.T2NJS2hbzCk5noUPoCkPhqD-bSekCgBlb2A6SgtYUFE
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/WnMuEvQsv2P5BlvGwtBDzfGfJuI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390721/90eac6.png" group-title="Live Now",Practice 1 - Formula 1 MSC Cruises United States Grand Prix 2026 (00:25 WIB * 24-10-2026) - BG
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6299&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYyOTkiLCJleHAiOjE3OTI4NjY2MzN9.s5lVgRpcqRBZmD_v_F3-RcifSOdEYlUX0POouTWGwJM
-https://vidkon.biz.id/post.mpd?id=6299&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYyOTkiLCJleHAiOjE3OTI4NjY2MzN9.s5lVgRpcqRBZmD_v_F3-RcifSOdEYlUX0POouTWGwJM
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18189&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTg5IiwiZXhwIjoxNzkyODY3NTI4fQ.HktsFUERwisscyxWAoJAzEpmasBZsuHpkauiDVUgVG8
+https://vidkon.biz.id/post.mpd?id=18189&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTg5IiwiZXhwIjoxNzkyODY3NTI4fQ.HktsFUERwisscyxWAoJAzEpmasBZsuHpkauiDVUgVG8
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/6as_aInQzfPP5VGPBGARgFLxVDQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390691/c2a09b.jpg" group-title="Live Now",Al-Qadsiah vs Al-Hilal - ROSHN Saudi League (00:55 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -50,17 +32,8 @@ https://vidkon.biz.id/post.mpd?id=6299&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=17139&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTM5IiwiZXhwIjoxNzkyODY2NjMzfQ.erMmfRnu9-NbGTLU1Jihj_a1Vl5x-QOmUFhuXClQFFw
-https://vidkon.biz.id/post.mpd?id=17139&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTM5IiwiZXhwIjoxNzkyODY2NjMzfQ.erMmfRnu9-NbGTLU1Jihj_a1Vl5x-QOmUFhuXClQFFw
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/VqkKSGfjxwqNGJEzp_IBr2MoDt4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391017/87bbef.jpg" group-title="Live Now",Ipswich vs Nottingham Forest - Premier League (01:30 WIB * 24-10-2026) - BG
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=9182&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjkxODIiLCJleHAiOjE3OTI4NjY2MzN9.rsu8xAQTlhiFTLsQRHYXPB2XdOoz1c_IqZI2I4-eLXk
-https://vidkon.biz.id/post.mpd?id=9182&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjkxODIiLCJleHAiOjE3OTI4NjY2MzN9.rsu8xAQTlhiFTLsQRHYXPB2XdOoz1c_IqZI2I4-eLXk
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=17139&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTM5IiwiZXhwIjoxNzkyODY3NTI4fQ.8mwFTN7cqej6g4Wu15dr9PdIamcKU3QlrW1mrt3aLcE
+https://vidkon.biz.id/post.mpd?id=17139&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTM5IiwiZXhwIjoxNzkyODY3NTI4fQ.8mwFTN7cqej6g4Wu15dr9PdIamcKU3QlrW1mrt3aLcE
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/9-mPzQ-iUW6KUZNTTjWCIq4wrhE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390708/bc815a.jpg" group-title="Live Now",Torino vs Monza - Serie A (01:30 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -68,10 +41,37 @@ https://vidkon.biz.id/post.mpd?id=9182&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI4NjY2MzN9.y_RnURpPFZZdUGGZSLzsIazprgtCFuJWpAvkFbbbKgo
-https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI4NjY2MzN9.y_RnURpPFZZdUGGZSLzsIazprgtCFuJWpAvkFbbbKgo
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI4Njc1Mjh9.FJRDsWd_EI2zlj8Wek_SjMiw3MV45pQhVxy4nP9-0xk
+https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI4Njc1Mjh9.FJRDsWd_EI2zlj8Wek_SjMiw3MV45pQhVxy4nP9-0xk
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/CtY7Kh0MjBZzbzhpJS9Toz_bfcg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391091/39dc19.jpg" group-title="Upcoming",Stade Brestois 29 vs OGC Nice - Ligue 1 (01:45 WIB * 24-10-2026) - BG
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/VqkKSGfjxwqNGJEzp_IBr2MoDt4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391017/87bbef.jpg" group-title="Live Now",Ipswich vs Nottingham Forest - Premier League (01:30 WIB * 24-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=9182&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjkxODIiLCJleHAiOjE3OTI4Njc1Mjh9.lLCPbg6Mg4sHoIYU8NDn70jfU54Q3M4mf8jUPXRrZVw
+https://vidkon.biz.id/post.mpd?id=9182&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjkxODIiLCJleHAiOjE3OTI4Njc1Mjh9.lLCPbg6Mg4sHoIYU8NDn70jfU54Q3M4mf8jUPXRrZVw
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/CtY7Kh0MjBZzbzhpJS9Toz_bfcg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391091/39dc19.jpg" group-title="Live Now",Stade Brestois 29 vs OGC Nice - Ligue 1 (01:40 WIB * 24-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=9183&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjkxODMiLCJleHAiOjE3OTI4Njc1Mjh9.VcDlqUgLRH4arkfGJkRgyzmf24dJFVb1YSb0LPRrkYM
+https://vidkon.biz.id/post.mpd?id=9183&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjkxODMiLCJleHAiOjE3OTI4Njc1Mjh9.VcDlqUgLRH4arkfGJkRgyzmf24dJFVb1YSb0LPRrkYM
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/yp6HbXRJZaM5eHR5NCRpnwq1sgM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391874/b0a13c.jpg" group-title="Live Now",Jan-Lennard Struff vs Zizou Bergs - Quarterfinal | ATP 250: BNP Paribas Fortis European Open 2026 (01:44 WIB * 24-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20885&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkyODY3NTI4fQ.8AhkfJqLoH1QjKaVXfj9BxSF39lmIzjU5M6FgvXh5lc
+https://vidkon.biz.id/post.mpd?id=20885&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkyODY3NTI4fQ.8AhkfJqLoH1QjKaVXfj9BxSF39lmIzjU5M6FgvXh5lc
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/NkzW3Fh11T2u_aqaBeHVdI57kfU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390692/15242c.jpg" group-title="Upcoming",Alaves vs Malaga - LaLiga (01:55 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -79,15 +79,7 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/NkzW3Fh11T2u_aqaBeHVdI57kfU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390692/15242c.jpg" group-title="Upcoming",Alaves vs Malaga - LaLiga (01:55 WIB * 24-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/uKKQAuk91bjUMcGfr5lE0Scm58I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390724/cbd874.png" group-title="Upcoming",Practice 2 - Formula 1 MSC Cruises United States Grand Prix 2026 (03:55 WIB * 24-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/yp6HbXRJZaM5eHR5NCRpnwq1sgM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391874/b0a13c.jpg" group-title="Upcoming",Jan-Lennard Struff vs Zizou Bergs - Quarterfinal | ATP 250: BNP Paribas Fortis European Open 2026 (04:00 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -167,7 +159,7 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/q93zPdmDvEqG_G9Vk4VfEA9NaBo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390710/f7e566.jpg" group-title="Upcoming",Aston Villa vs Man City - Premier League (18:30 WIB * 24-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/j7gNMlpJQgtf3A7m7sQNZddchqA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399399/d5a953.jpg" group-title="Upcoming",Nikoloz Basilashvili vs Stefanos Tsitsipas - Semifinal | ATP 250: Almaty Open 2026 (17:00 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -175,11 +167,11 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0n05evh-PPxWqCTdjEvx8bl7ETc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391911/4f9cd9.jpg" group-title="Upcoming",Tottenham vs Arsenal - Women's Super League (18:35 WIB * 24-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/q93zPdmDvEqG_G9Vk4VfEA9NaBo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390710/f7e566.jpg" group-title="Upcoming",Aston Villa vs Man City - Premier League (18:30 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/XS2PuvaS7ZroI9lIvdCtshnWlBU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390703/da297f.jpg" group-title="Upcoming",Kendal Tornado FC vs Deltras FC - Pegadaian Championship (18:52 WIB * 24-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0n05evh-PPxWqCTdjEvx8bl7ETc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391911/4f9cd9.jpg" group-title="Upcoming",Tottenham vs Arsenal - Women's Super League (18:35 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -187,11 +179,15 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ZVtP0wElN6w5sEPMjPhX1jbQUWY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390699/de3b08.jpg" group-title="Upcoming",PERSIKU Kudus vs Semen Padang FC - Pegadaian Championship (18:52 WIB * 24-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/XS2PuvaS7ZroI9lIvdCtshnWlBU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390703/da297f.jpg" group-title="Upcoming",Kendal Tornado FC vs Deltras FC - Pegadaian Championship (18:52 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/N6IRYsXNqlODgAoD4TahA6NKE4c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390701/d7c224.jpg" group-title="Upcoming",PERSIS Solo vs RANS Nusantara FC - Pegadaian Championship (18:52 WIB * 24-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ZVtP0wElN6w5sEPMjPhX1jbQUWY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390699/de3b08.jpg" group-title="Upcoming",PERSIKU Kudus vs Semen Padang FC - Pegadaian Championship (18:52 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -212,6 +208,10 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Vl1uRpQGAq80sOhIAQqclY5N3Ek=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391821/b53f25.jpg" group-title="Upcoming",Cagliari vs Bologna - Serie A (20:00 WIB * 24-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/sZhTUZjHtx_MGggQzqgaNMgvnuc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399400/8d81eb.jpg" group-title="Upcoming",Daniil Medvedev vs Alexander Bublik - Semifinal | ATP 250: Almaty Open 2026 (20:00 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -355,11 +355,11 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/bSVszK-J7E-OaGlw2CTDLwMZg8o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5392299/fd5cbf.jpg" group-title="Upcoming",PSMS Medan vs PSIS Semarang - Pegadaian Championship (19:00 WIB * 25-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-r9RlO5EMJGMsV76Mr9GVrrCACA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5392296/ac87c9.jpg" group-title="Upcoming",Garudayaksa FC vs PERSIB - BRI Super League (19:00 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-r9RlO5EMJGMsV76Mr9GVrrCACA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5392296/ac87c9.jpg" group-title="Upcoming",Garudayaksa FC vs PERSIB - BRI Super League (19:00 WIB * 25-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/bSVszK-J7E-OaGlw2CTDLwMZg8o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5392299/fd5cbf.jpg" group-title="Upcoming",PSMS Medan vs PSIS Semarang - Pegadaian Championship (19:00 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -391,15 +391,15 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/TnCjGSMWrEllLpcOioYjarPvgG0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391816/4ef164.jpg" group-title="Upcoming",AS Monaco vs LOSC Lille - Ligue 1 (21:00 WIB * 25-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/wdrd25TwTaePiZJXlHHFwsv8deI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391912/a85f71.jpg" group-title="Upcoming",Man Utd vs Bournemouth - Premier League (21:00 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pNPfhhB-usSvSClsIIcMKbGIaVY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5392902/440853.jpg" group-title="Upcoming",Genoa vs Venezia - Serie A (21:00 WIB * 25-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/TnCjGSMWrEllLpcOioYjarPvgG0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391816/4ef164.jpg" group-title="Upcoming",AS Monaco vs LOSC Lille - Ligue 1 (21:00 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -415,11 +415,11 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ChjXkaHt2NwTO-4UrMxMuYhVkvs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5392903/3611ec.jpg" group-title="Upcoming",AJ Auxerre vs Le Mans FC - Ligue 1 (23:05 WIB * 25-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/OT4fCDGXYfmugXlaOguyqQR6Qy4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5392904/c5ee59.jpg" group-title="Upcoming",Angers SCO vs FC Lorient - Ligue 1 (23:05 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/OT4fCDGXYfmugXlaOguyqQR6Qy4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5392904/c5ee59.jpg" group-title="Upcoming",Angers SCO vs FC Lorient - Ligue 1 (23:05 WIB * 25-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ChjXkaHt2NwTO-4UrMxMuYhVkvs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5392903/3611ec.jpg" group-title="Upcoming",AJ Auxerre vs Le Mans FC - Ligue 1 (23:05 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
