@@ -5,44 +5,64 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18249&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNDksImV4cCI6MTc5Mjg0MjMzNH0.5CaHdImBxMts0p3w0WsT3dKTj7zNmj6zJ4EI8Q5Idy0
-https://vidkon.biz.id/post.mpd?id=18249&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNDksImV4cCI6MTc5Mjg0MjMzNH0.5CaHdImBxMts0p3w0WsT3dKTj7zNmj6zJ4EI8Q5Idy0
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18249&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNDksImV4cCI6MTc5Mjg0MzIzOH0.ZXSfPIlnnFem_sfTWnBi_M1m9Wn_XyG6zFVP6uMNmFA
+https://vidkon.biz.id/post.mpd?id=18249&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNDksImV4cCI6MTc5Mjg0MzIzOH0.ZXSfPIlnnFem_sfTWnBi_M1m9Wn_XyG6zFVP6uMNmFA
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0RwUSW_CQfKgPE6oFLsBYvrYek8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391900/8908de.png" group-title="LIVE EVENT",Hu Zhe An (CHN) vs Alwi Farhan (INA) - Men's Singles Quarterfinal | YONEX French Open 2026 (14:30 WIB * 23-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18250&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNTAsImV4cCI6MTc5Mjg0MjMzNH0.WtQEgh7JTCAiJilJWBa6lQ47QaSyPqs4XrzV-IQ8YrA
-https://vidkon.biz.id/post.mpd?id=18250&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNTAsImV4cCI6MTc5Mjg0MjMzNH0.WtQEgh7JTCAiJilJWBa6lQ47QaSyPqs4XrzV-IQ8YrA
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18250&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNTAsImV4cCI6MTc5Mjg0MzIzOH0.0DPhGNcRSO-4beJnsjQRVsQaMz5EoDKwCIAcJqlul6U
+https://vidkon.biz.id/post.mpd?id=18250&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNTAsImV4cCI6MTc5Mjg0MzIzOH0.0DPhGNcRSO-4beJnsjQRVsQaMz5EoDKwCIAcJqlul6U
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/NEqQBv6JdaJ86I_uN8Ki3hMk5zg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391918/449700.png" group-title="LIVE EVENT",Day 5 - Kejurnas Tinju Piala Menko IPK 2026 (14:00 WIB * 23-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22636&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjM2IiwiZXhwIjoxNzkyODQyMzM0fQ.3oLqo9p9TJN7v01n0mqDpo1tpQbeeF7Ejh9HPUgEaho
-https://vidkon.biz.id/post.mpd?id=22636&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjM2IiwiZXhwIjoxNzkyODQyMzM0fQ.3oLqo9p9TJN7v01n0mqDpo1tpQbeeF7Ejh9HPUgEaho
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22636&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjM2IiwiZXhwIjoxNzkyODQzMjM4fQ.Jq81cTDfsYRr3MSMZQ8a9F9kwHk2TQp5gWj1wnoaziU
+https://vidkon.biz.id/post.mpd?id=22636&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjM2IiwiZXhwIjoxNzkyODQzMjM4fQ.Jq81cTDfsYRr3MSMZQ8a9F9kwHk2TQp5gWj1wnoaziU
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/SCgWboFLK9F40k4ZU1-3JX3stX4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391824/7668a9.png" group-title="LIVE EVENT",Iva Jovic vs Diana Shnaider - Quarterfinals | WTA 500: BNB Ningbo Open 2026 (16:39 WIB * 23-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI4NDIzMzR9.YhrXMPd-eFG92jHqCHeV97PwJz8jlLJ_BN3ne2bBSlA
-https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI4NDIzMzR9.YhrXMPd-eFG92jHqCHeV97PwJz8jlLJ_BN3ne2bBSlA
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pKwmrcR41KI9AD5G-rP7YpnGxKE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390689/2a0b75.jpg" group-title="LIVE EVENT",PSBS Biak vs PS. Barito Putera - Pegadaian Championship (18:52 WIB * 23-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ONOPmdjzhzB6IhI26P736pf8bEo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391825/f6febb.png" group-title="LIVE EVENT",Elena Rybakina vs Katarzyna Kawa - Quarterfinals | WTA 500: BNB Ningbo Open 2026 (19:00 WIB * 23-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Clj9CD7HWUODi7IH8oUWQSnZZNo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391880/e1a3e2.png" group-title="LIVE EVENT",Corentin Moutet vs Tommy Paul - Quarterfinal | ATP 250: Grand Prix Auvergne-Rhone-Alpes Open 2026 (19:00 WIB * 23-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/mdCCTS3s2BRGK6ZgXYBjCwY9OHU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391871/8f24ed.jpg" group-title="LIVE EVENT",Clement Chidekh vs Francisco Cerundolo - Quarterfinal | ATP 250: BNP Paribas Fortis European Open 2026 (19:00 WIB * 23-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI4NDMyMzh9.LxqMfs0_37xwBUQv5X4jcKGfqaxTZTzIOQtnsuJKBLM
+https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI4NDMyMzh9.LxqMfs0_37xwBUQv5X4jcKGfqaxTZTzIOQtnsuJKBLM
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/pKwmrcR41KI9AD5G-rP7YpnGxKE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390689/2a0b75.jpg" group-title="LIVE EVENT",PSBS Biak vs PS. Barito Putera - Pegadaian Championship (18:52 WIB * 23-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22261&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjYxIiwiZXhwIjoxNzkyODQzMjM4fQ.r_mOI1Um_veflBMXId5ZKZlT5YwD4hdlhyqGEAT0lvU
+https://vidkon.biz.id/post.mpd?id=22261&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjYxIiwiZXhwIjoxNzkyODQzMjM4fQ.r_mOI1Um_veflBMXId5ZKZlT5YwD4hdlhyqGEAT0lvU
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/ONOPmdjzhzB6IhI26P736pf8bEo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391825/f6febb.png" group-title="LIVE EVENT",Elena Rybakina vs Katarzyna Kawa - Quarterfinals | WTA 500: BNB Ningbo Open 2026 (19:00 WIB * 23-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI4NDMyMzh9.LxqMfs0_37xwBUQv5X4jcKGfqaxTZTzIOQtnsuJKBLM
+https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI4NDMyMzh9.LxqMfs0_37xwBUQv5X4jcKGfqaxTZTzIOQtnsuJKBLM
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Clj9CD7HWUODi7IH8oUWQSnZZNo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391880/e1a3e2.png" group-title="LIVE EVENT",Corentin Moutet vs Tommy Paul - Quarterfinal | ATP 250: Grand Prix Auvergne-Rhone-Alpes Open 2026 (19:00 WIB * 23-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20886&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkyODQzMjM4fQ.4Fxl81oV4tPG0Nt54ls7YbCcqKzTb4pHjiVQx4468Dc
+https://vidkon.biz.id/post.mpd?id=20886&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkyODQzMjM4fQ.4Fxl81oV4tPG0Nt54ls7YbCcqKzTb4pHjiVQx4468Dc
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/mdCCTS3s2BRGK6ZgXYBjCwY9OHU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391871/8f24ed.jpg" group-title="LIVE EVENT",Clement Chidekh vs Francisco Cerundolo - Quarterfinal | ATP 250: BNP Paribas Fortis European Open 2026 (19:00 WIB * 23-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20885&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkyODQzMjM4fQ.cWwQJsZruQTfoNj21g5v5FlTt0bZY58cN1NpAYJ-1L4
+https://vidkon.biz.id/post.mpd?id=20885&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkyODQzMjM4fQ.cWwQJsZruQTfoNj21g5v5FlTt0bZY58cN1NpAYJ-1L4
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/A-_MORK-ZHsk26PVvv_IXmrMZcI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391289/e17be6.jpg" group-title="LIVE EVENT",Al-Faisaly vs Al-Nassr - ROSHN Saudi League (20:30 WIB * 23-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
