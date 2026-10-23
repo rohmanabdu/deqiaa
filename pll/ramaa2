@@ -1,18 +1,18 @@
-#EXTINF:-1 tvg-id="Vision+" group-title="Roshn Saudi League 26/27" tvg-logo="https://www.visionplus.id/images/repository/582/827582-SNAPSHOT-m.jpg" ch-number="1",Roshn Saudi League 26/27: Al Faysaly vs Al Nassr [23 Oct 2026 20:25 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Roshn Saudi League 26/27" tvg-logo="https://www.visionplus.id/images/repository/025/827025-SNAPSHOT-m.jpg" ch-number="1",Roshn Saudi League 26/27: Al Ittihad vs Diriyah [23 Oct 2026 22:25 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 
-#EXTINF:-1 tvg-id="Vision+" group-title="Roshn Saudi League 26/27" tvg-logo="https://www.visionplus.id/images/repository/582/827582-SNAPSHOT-m.jpg" ch-number="1",Roshn Saudi League 26/27: Al Faysaly vs Al Nassr [23 Oct 2026 20:25 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Roshn Saudi League 26/27" tvg-logo="https://www.visionplus.id/images/repository/025/827025-SNAPSHOT-m.jpg" ch-number="1",Roshn Saudi League 26/27: Al Ittihad vs Diriyah [23 Oct 2026 22:25 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 
 #EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/066/828066-SNAPSHOT-m.jpg" ch-number="1",Polytron Kudus Indonesia Masters S100 SF [24 Oct 2026 13:00 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -190,7 +190,7 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
 
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/025/827025-SNAPSHOT-m.jpg" ch-number="2",Roshn Saudi League 26/27: Al Ittihad vs Diriyah [23 Oct 2026 22:25 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/077/827077-SNAPSHOT-m.jpg" ch-number="2",Roshn Saudi League 26/27: Al Qadisiyah vs Al Hilal [24 Oct 2026 00:55 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -198,23 +198,7 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/025/827025-SNAPSHOT-m.jpg" ch-number="2",Roshn Saudi League 26/27: Al Ittihad vs Diriyah [23 Oct 2026 22:25 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/077/827077-SNAPSHOT-m.jpg" ch-number="3",Roshn Saudi League 26/27: Al Qadisiyah vs Al Hilal [24 Oct 2026 00:55 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/077/827077-SNAPSHOT-m.jpg" ch-number="3",Roshn Saudi League 26/27: Al Qadisiyah vs Al Hilal [24 Oct 2026 00:55 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/077/827077-SNAPSHOT-m.jpg" ch-number="2",Roshn Saudi League 26/27: Al Qadisiyah vs Al Hilal [24 Oct 2026 00:55 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
