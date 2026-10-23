@@ -1,18 +1,18 @@
-#EXTINF:-1 tvg-id="Vision+" group-title="Roshn Saudi League 26/27" tvg-logo="https://www.visionplus.id/images/repository/025/827025-SNAPSHOT-m.jpg" ch-number="1",Roshn Saudi League 26/27: Al Ittihad vs Diriyah [23 Oct 2026 22:25 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Formula 1" tvg-logo="https://www.visionplus.id/images/repository/048/829048-SNAPSHOT-m.jpg" ch-number="1",Formula 1: MSC Cruises United States Grand Prix 2026 - Practice 1 [24 Oct 2026 00:25 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=122
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=122
 
-#EXTINF:-1 tvg-id="Vision+" group-title="Roshn Saudi League 26/27" tvg-logo="https://www.visionplus.id/images/repository/025/827025-SNAPSHOT-m.jpg" ch-number="1",Roshn Saudi League 26/27: Al Ittihad vs Diriyah [23 Oct 2026 22:25 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Formula 1" tvg-logo="https://www.visionplus.id/images/repository/048/829048-SNAPSHOT-m.jpg" ch-number="1",Formula 1: MSC Cruises United States Grand Prix 2026 - Practice 1 [24 Oct 2026 00:25 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=122
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=122
 
 #EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/066/828066-SNAPSHOT-m.jpg" ch-number="1",Polytron Kudus Indonesia Masters S100 SF [24 Oct 2026 13:00 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -190,7 +190,7 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
 
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/077/827077-SNAPSHOT-m.jpg" ch-number="2",Roshn Saudi League 26/27: Al Qadisiyah vs Al Hilal [24 Oct 2026 00:55 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/077/827077-SNAPSHOT-m.jpg" ch-number="1",Roshn Saudi League 26/27: Al Qadisiyah vs Al Hilal [24 Oct 2026 00:55 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -198,7 +198,7 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/077/827077-SNAPSHOT-m.jpg" ch-number="2",Roshn Saudi League 26/27: Al Qadisiyah vs Al Hilal [24 Oct 2026 00:55 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/077/827077-SNAPSHOT-m.jpg" ch-number="1",Roshn Saudi League 26/27: Al Qadisiyah vs Al Hilal [24 Oct 2026 00:55 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -423,22 +423,6 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=122
 
 #EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/887/828887-SNAPSHOT-m.jpg" ch-number="14",LaLiga 2026/27: Sevilla vs Osasuna [27 Oct 2026 02:55 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=122
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=122
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/048/829048-SNAPSHOT-m.jpg" ch-number="1",Formula 1: MSC Cruises United States Grand Prix 2026 - Practice 1 [24 Oct 2026 00:25 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=122
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=122
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/048/829048-SNAPSHOT-m.jpg" ch-number="1",Formula 1: MSC Cruises United States Grand Prix 2026 - Practice 1 [24 Oct 2026 00:25 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
