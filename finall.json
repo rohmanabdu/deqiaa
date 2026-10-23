@@ -5,8 +5,8 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20886&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkyODc2NTIzfQ.tCVgPL1InuEDATwGGFLia_rAY_VuRU3oqztFjbyyYHU
-https://vidkon.biz.id/post.mpd?id=20886&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkyODc2NTIzfQ.tCVgPL1InuEDATwGGFLia_rAY_VuRU3oqztFjbyyYHU
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20886&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkyODc3NDMxfQ.lAYJEpPE-rHOowTgtXePmRpdQ_qfnG-Fk8yzpsLYpNk
+https://vidkon.biz.id/post.mpd?id=20886&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkyODc3NDMxfQ.lAYJEpPE-rHOowTgtXePmRpdQ_qfnG-Fk8yzpsLYpNk
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/uKKQAuk91bjUMcGfr5lE0Scm58I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390724/cbd874.png" group-title="Live Now",Practice 2 - Formula 1 MSC Cruises United States Grand Prix 2026 (03:55 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -14,8 +14,8 @@ https://vidkon.biz.id/post.mpd?id=20886&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6299&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYyOTkiLCJleHAiOjE3OTI4NzY1MjN9.p8LNEJzL3sxO2jM3awwN5OElRT7y32ecGIocnuasWYQ
-https://vidkon.biz.id/post.mpd?id=6299&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYyOTkiLCJleHAiOjE3OTI4NzY1MjN9.p8LNEJzL3sxO2jM3awwN5OElRT7y32ecGIocnuasWYQ
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6299&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYyOTkiLCJleHAiOjE3OTI4Nzc0MzF9.ctHtfLwQhpGdJ7zcHRG1nplgzuKq2FjWdb5_ETxY7nE
+https://vidkon.biz.id/post.mpd?id=6299&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYyOTkiLCJleHAiOjE3OTI4Nzc0MzF9.ctHtfLwQhpGdJ7zcHRG1nplgzuKq2FjWdb5_ETxY7nE
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/oEJ65xrr8DcrtJZDoa_WI1pmAH0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390728/d90edf.png" group-title="Upcoming",Moto3 Free Practice 2: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18 (04:35 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
