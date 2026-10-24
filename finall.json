@@ -1,21 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/z4sH8nf1TjTBtDVXKs62LuFHP84=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399426/8fc30c.png" group-title="Live Now",Day 6 - Kejurnas Tinju Piala Menko IPK 2026 (13:00 WIB * 24-10-2026) - BG
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22640&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjQwIiwiZXhwIjoxNzkyOTA4OTIzfQ.itFrKLdGBBBh2YOJmO4Ds4cytHpdUmVMtDi1rZotkFo
-https://vidkon.biz.id/post.mpd?id=22640&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjQwIiwiZXhwIjoxNzkyOTA4OTIzfQ.itFrKLdGBBBh2YOJmO4Ds4cytHpdUmVMtDi1rZotkFo
-
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/RJ0AGOae1teV06WTcdF7cq0MCDc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390707/408ba8.png" group-title="Live Now",Kejurnas Pacuan Kuda Pordasi ke 60 seri 2 2026 (08:30 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20718&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNzE4IiwiZXhwIjoxNzkyOTA4OTIzfQ.F-a-ICT4X7GUOLvrOd2YEJzRx-zV-UXwiS1LrXqeUr4
-https://vidkon.biz.id/post.mpd?id=20718&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNzE4IiwiZXhwIjoxNzkyOTA4OTIzfQ.F-a-ICT4X7GUOLvrOd2YEJzRx-zV-UXwiS1LrXqeUr4
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20718&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNzE4IiwiZXhwIjoxNzkyOTA5ODMzfQ.VbvXwOjHCnX_e9fcMU7_hjNk7lx8n2XNFUT6YXk4wSQ
+https://vidkon.biz.id/post.mpd?id=20718&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNzE4IiwiZXhwIjoxNzkyOTA5ODMzfQ.VbvXwOjHCnX_e9fcMU7_hjNk7lx8n2XNFUT6YXk4wSQ
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/BPA4bPzi6OoE0GcMqhBsVQCAl5o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390704/f69c26.png" group-title="Live Now",Round 3 - BMW Ladies Championship 2026 (09:00 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -23,8 +14,8 @@ https://vidkon.biz.id/post.mpd?id=20718&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18190&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTkwIiwiZXhwIjoxNzkyOTA4OTIzfQ.I-q--14hAiqEuqtDSMYAa3pBFYvWz20CEAXYDnup6AM
-https://vidkon.biz.id/post.mpd?id=18190&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTkwIiwiZXhwIjoxNzkyOTA4OTIzfQ.I-q--14hAiqEuqtDSMYAa3pBFYvWz20CEAXYDnup6AM
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18190&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTkwIiwiZXhwIjoxNzkyOTA5ODMzfQ.n52Zn8ic1RTxImjUcltEs-JognfPrpbdDH2ymJjjx3Y
+https://vidkon.biz.id/post.mpd?id=18190&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTkwIiwiZXhwIjoxNzkyOTA5ODMzfQ.n52Zn8ic1RTxImjUcltEs-JognfPrpbdDH2ymJjjx3Y
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/jV-aOwydw1zBJqboBu1f8hO7fs4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390732/3e68a8.png" group-title="Live Now",Semifinal - WTA 250: Kinoshita Group Japan Open 2026 (11:00 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -32,10 +23,18 @@ https://vidkon.biz.id/post.mpd?id=18190&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI5MDg5MjN9.0oXRW8cMka65FjIVJnlvhFor1StgoCGdv9m5UJzFPHc
-https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI5MDg5MjN9.0oXRW8cMka65FjIVJnlvhFor1StgoCGdv9m5UJzFPHc
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI5MDk4MzN9.BnvNgHbHPsPss57nFqclSpJkb_Eit6KqtKkzJ2pikq0
+https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI5MDk4MzN9.BnvNgHbHPsPss57nFqclSpJkb_Eit6KqtKkzJ2pikq0
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/N-nusnoCb4_QyqMma5JpSMVwJ1k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399394/22ba57.png" group-title="Upcoming",Leylah Fernandez vs Marie Bouzkova - Semifinals | WTA 500: BNB Ningbo Open 2026 (14:00 WIB * 24-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/z4sH8nf1TjTBtDVXKs62LuFHP84=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399426/8fc30c.png" group-title="Upcoming",Day 6 - Kejurnas Tinju Piala Menko IPK 2026 (14:00 WIB * 24-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/7LrlvQR3YFsIgu2h9BIq0h2lTE0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/22640/kejurnas-tinju-2026-4381d0.jpg" group-title="Upcoming",Day 6 - Kejurnas Tinju Piala Menko IPK 2026 (14:00 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -83,7 +82,7 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/N6IRYsXNqlODgAoD4TahA6NKE4c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390701/d7c224.jpg" group-title="Upcoming",PERSIS Solo vs RANS Nusantara FC - Pegadaian Championship (18:52 WIB * 24-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ZVtP0wElN6w5sEPMjPhX1jbQUWY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390699/de3b08.jpg" group-title="Upcoming",PERSIKU Kudus vs Semen Padang FC - Pegadaian Championship (18:52 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -91,7 +90,7 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ZVtP0wElN6w5sEPMjPhX1jbQUWY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390699/de3b08.jpg" group-title="Upcoming",PERSIKU Kudus vs Semen Padang FC - Pegadaian Championship (18:52 WIB * 24-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/N6IRYsXNqlODgAoD4TahA6NKE4c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390701/d7c224.jpg" group-title="Upcoming",PERSIS Solo vs RANS Nusantara FC - Pegadaian Championship (18:52 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
