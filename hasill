@@ -5,72 +5,72 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22022&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMDIyIiwiZXhwIjoxNzkyOTQ1ODMyfQ.Mfuk0iY_yj1cN_-ApB78nmJAD6j5LWdT6WkrH6PDK9c
-https://vidkon.biz.id/post.mpd?id=22022&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMDIyIiwiZXhwIjoxNzkyOTQ1ODMyfQ.Mfuk0iY_yj1cN_-ApB78nmJAD6j5LWdT6WkrH6PDK9c
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22022&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMDIyIiwiZXhwIjoxNzkyOTQ2NzMyfQ.ScWGl510Gg7qhA6nwKROJ1hhMsP63C1sHR3br3n1qBM
+https://vidkon.biz.id/post.mpd?id=22022&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMDIyIiwiZXhwIjoxNzkyOTQ2NzMyfQ.ScWGl510Gg7qhA6nwKROJ1hhMsP63C1sHR3br3n1qBM
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/M5FET_8fTR3mykKrnB0CvuRHe38=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399408/feb1c1.jpg" group-title="LIVE EVENT",Alex Lanier (FRA) vs Moh. Zaki Ubaidillah (INA) - Men's Singles Semifinal | YONEX French Open 2026 (21:30 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18249&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNDksImV4cCI6MTc5Mjk0NTgzMn0.5RVt7yjG0py2CR1uqAN-QUb46mrgjq0h1kDX6GqJePM
-https://vidkon.biz.id/post.mpd?id=18249&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNDksImV4cCI6MTc5Mjk0NTgzMn0.5RVt7yjG0py2CR1uqAN-QUb46mrgjq0h1kDX6GqJePM
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18249&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNDksImV4cCI6MTc5Mjk0NjczMn0.cS8APqzRt8qE0Gwk69VmZWG7dJAQ1JJ_LUfODbr9i-Y
+https://vidkon.biz.id/post.mpd?id=18249&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNDksImV4cCI6MTc5Mjk0NjczMn0.cS8APqzRt8qE0Gwk69VmZWG7dJAQ1JJ_LUfODbr9i-Y
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/jh2YMjxhXdZVCtiLbgdH-HAqA3E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5393643/293503.jpg" group-title="LIVE EVENT",Prelims | UFC 333: Volkanovski vs Evloev (23:08 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20216&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwMjE2IiwiZXhwIjoxNzkyOTQ1ODMyfQ.-ddtRQ9LJbWYcnjeG7EYdjGhDCaJm8xIX3_0_lSFe6I
-https://vidkon.biz.id/post.mpd?id=20216&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwMjE2IiwiZXhwIjoxNzkyOTQ1ODMyfQ.-ddtRQ9LJbWYcnjeG7EYdjGhDCaJm8xIX3_0_lSFe6I
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20216&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwMjE2IiwiZXhwIjoxNzkyOTQ2NzMyfQ._ApdDK0f0hRlsBySn3uqf1ob38lhamlUTxipRvM1gx0
+https://vidkon.biz.id/post.mpd?id=20216&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwMjE2IiwiZXhwIjoxNzkyOTQ2NzMyfQ._ApdDK0f0hRlsBySn3uqf1ob38lhamlUTxipRvM1gx0
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/gEEZlhzCKUo4Bhm9eWpTzW0Zx9c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391818/32b42d.jpg" group-title="LIVE EVENT",Napoli vs Roma - Serie A (22:45 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI5NDU4MzJ9.G8A5dy3BNMEFDARXTptitnN8ornQR4I0cq64L6ywsxM
-https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI5NDU4MzJ9.G8A5dy3BNMEFDARXTptitnN8ornQR4I0cq64L6ywsxM
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI5NDY3MzJ9.Plxgtfog8_xGD9a2bnaCRQgWWWi0aWX59lHio9tUsGc
+https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI5NDY3MzJ9.Plxgtfog8_xGD9a2bnaCRQgWWWi0aWX59lHio9tUsGc
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/EW0RniEDimVcZWU3KBz-yK5yVoA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399420/a80ebe.png" group-title="LIVE EVENT",Flavio Cobolli vs Lorenzo Musetti - Semifinal | ATP 250: Grand Prix Auvergne-Rhone-Alpes Open 2026 (20:57 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20886&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkyOTQ1ODMyfQ.IYElbk3Eajaq35nuR8TT0GOAwQvao2lI1cNUOp0BQ0Q
-https://vidkon.biz.id/post.mpd?id=20886&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkyOTQ1ODMyfQ.IYElbk3Eajaq35nuR8TT0GOAwQvao2lI1cNUOp0BQ0Q
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20886&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkyOTQ2NzMyfQ.ESl3kFmTjPHhuSqupKOK8KkDHMIQ3Z-5KPqhiqSyW30
+https://vidkon.biz.id/post.mpd?id=20886&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkyOTQ2NzMyfQ.ESl3kFmTjPHhuSqupKOK8KkDHMIQ3Z-5KPqhiqSyW30
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/AYjL9oJ1h5-dmJJSWhtmS_gYn1I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5392293/3636b1.png" group-title="LIVE EVENT",Final: Prosecco DOC Imoco Conegliana vs Savino Del Bene Scandicci - Supercoppa Italiana (22:55 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22637&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjM3IiwiZXhwIjoxNzkyOTQ1ODMyfQ.oc5bxwAHrqCW19s-7MItp7HL2-ZF5rgp_UUIqXcdJoU
-https://vidkon.biz.id/post.mpd?id=22637&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjM3IiwiZXhwIjoxNzkyOTQ1ODMyfQ.oc5bxwAHrqCW19s-7MItp7HL2-ZF5rgp_UUIqXcdJoU
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22637&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjM3IiwiZXhwIjoxNzkyOTQ2NzMyfQ.ssG43LQePCT176K44zIYqRe_ZPQSM6Re9u44P7cD5KM
+https://vidkon.biz.id/post.mpd?id=22637&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjM3IiwiZXhwIjoxNzkyOTQ2NzMyfQ.ssG43LQePCT176K44zIYqRe_ZPQSM6Re9u44P7cD5KM
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/xNnLtO8FYL20hnZjPjIR1EyaYc0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399423/506502.jpg" group-title="LIVE EVENT",Brighton vs West Ham - Women's Super League (23:10 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6317&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYzMTciLCJleHAiOjE3OTI5NDU4MzJ9.eOAykk6d14oSBCYTLhV2vwkckUAiZLsl2PawEtGEF_Q
-https://vidkon.biz.id/post.mpd?id=6317&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYzMTciLCJleHAiOjE3OTI5NDU4MzJ9.eOAykk6d14oSBCYTLhV2vwkckUAiZLsl2PawEtGEF_Q
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6317&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYzMTciLCJleHAiOjE3OTI5NDY3MzJ9.wfDj30y2hBffTNKVmcx02tvdBxDVWx1Gh5OH86FqKdQ
+https://vidkon.biz.id/post.mpd?id=6317&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYzMTciLCJleHAiOjE3OTI5NDY3MzJ9.wfDj30y2hBffTNKVmcx02tvdBxDVWx1Gh5OH86FqKdQ
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/y2zI_tpr8aP76faPqjDHcnkxdJE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399415/9fba70.jpg" group-title="LIVE EVENT",Arthur Fils vs Jan-Lennard Struff - Semifinal | ATP 250: BNP Paribas Fortis European Open 2026 (23:24 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20885&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkyOTQ1ODMyfQ.tKrWk6Wqb6lxlp1752QbmB-jTceKy0PV5sdi1aM-7og
-https://vidkon.biz.id/post.mpd?id=20885&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkyOTQ1ODMyfQ.tKrWk6Wqb6lxlp1752QbmB-jTceKy0PV5sdi1aM-7og
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20885&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkyOTQ2NzMyfQ.ryV13FCSb9VvVslc5XyzJ5JsgrkFiCyK3MgGa4hkz_o
+https://vidkon.biz.id/post.mpd?id=20885&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkyOTQ2NzMyfQ.ryV13FCSb9VvVslc5XyzJ5JsgrkFiCyK3MgGa4hkz_o
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/FtPEPxbgwOELbq1NVkbRofhrViI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391104/673738.jpg" group-title="LIVE EVENT",Valencia vs Villarreal - LaLiga (23:25 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=17875&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkyOTQ1ODMyfQ.-NHO3suHqCp0VIVOu199d3J53qKGH9jPWEqMF5krZ7o
-https://vidkon.biz.id/post.mpd?id=17875&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkyOTQ1ODMyfQ.-NHO3suHqCp0VIVOu199d3J53qKGH9jPWEqMF5krZ7o
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=17875&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkyOTQ2NzMyfQ.GXbpMSiq7AznYBu_ryVqG3VTXvapcGFMoFYecaA-FSc
+https://vidkon.biz.id/post.mpd?id=17875&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkyOTQ2NzMyfQ.GXbpMSiq7AznYBu_ryVqG3VTXvapcGFMoFYecaA-FSc
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pDYddAwk-VCoIUb5Boi4HJ_GH78=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391105/88c211.png" group-title="LIVE EVENT",Round 3 - Butterfield Bermuda Championship 2026 (00:00 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
