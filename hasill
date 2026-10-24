@@ -5,8 +5,8 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6299&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYyOTkiLCJleHAiOjE3OTI5NjU2Mzd9.uSPMTELdGXbZlaC5Zigwf1QZmJ_Wu0PeRYiIt1jb2uc
-https://vidkon.biz.id/post.mpd?id=6299&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYyOTkiLCJleHAiOjE3OTI5NjU2Mzd9.uSPMTELdGXbZlaC5Zigwf1QZmJ_Wu0PeRYiIt1jb2uc
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6299&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYyOTkiLCJleHAiOjE3OTI5NjY1MjJ9.7fNKqA-tRxUAKwOV8cXrLy6eiiUI6ApHWi1O_RG1jQM
+https://vidkon.biz.id/post.mpd?id=6299&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYyOTkiLCJleHAiOjE3OTI5NjY1MjJ9.7fNKqA-tRxUAKwOV8cXrLy6eiiUI6ApHWi1O_RG1jQM
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hKB7Nh_aqPx1JkPcx1u39Zvl7uE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5393763/a919f0.png" group-title="LIVE EVENT",MotoGP Warm Up & Rider's Parade: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18 (05:35 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
@@ -16,13 +16,13 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/fd_7EG-yhQYH48iN9Wzv0_hG6xE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5393767/6b0071.png" group-title="LIVE EVENT",Game 2: Tampa Bay Rays vs Milwaukee Brewers - World Series Major League Baseball (07:00 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9fZYHpq-RwtkjrQUy5eugRm6EJY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5393765/9d424b.png" group-title="LIVE EVENT",Moto2 Race: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18 (08:00 WIB * 25-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9fZYHpq-RwtkjrQUy5eugRm6EJY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5393765/9d424b.png" group-title="LIVE EVENT",Moto2 Race: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18 (08:15 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/rFN-9HEXctEJv8p6tkZ7zqMhKok=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5393770/e91f80.png" group-title="LIVE EVENT",Round 4 - BMW Ladies Championship 2026 (09:00 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/csNC7b7UuH-A0xbiymZiEc0Cb2k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5393766/55c3d8.png" group-title="LIVE EVENT",MotoGP Race: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18 (09:15 WIB * 25-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/csNC7b7UuH-A0xbiymZiEc0Cb2k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5393766/55c3d8.png" group-title="LIVE EVENT",MotoGP Race: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18 (09:25 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/KNoSyuIsoDw5c5qh59S7U_CNP84=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5393885/bf125e.png" group-title="LIVE EVENT",Final - WTA 250: Kinoshita Group Japan Open 2026 (11:30 WIB * 25-10-2026) - BG
