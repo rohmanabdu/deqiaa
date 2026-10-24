@@ -1,3 +1,35 @@
+#EXTINF:-1 tvg-id="Vision+" group-title="LaLiga 2 2026/27" tvg-logo="https://www.visionplus.id/images/repository/719/828719-SNAPSHOT-m.jpg" ch-number="1",LaLiga 2 2026/27: Almeria vs Real Oviedo [25 Oct 2026 01:52 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=124
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=124
+
+#EXTINF:-1 tvg-id="Vision+" group-title="LaLiga 2 2026/27" tvg-logo="https://www.visionplus.id/images/repository/719/828719-SNAPSHOT-m.jpg" ch-number="1",LaLiga 2 2026/27: Almeria vs Real Oviedo [25 Oct 2026 01:52 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=124
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=124
+
+#EXTINF:-1 tvg-id="Vision+" group-title="LaLiga 2026/27" tvg-logo="https://www.visionplus.id/images/repository/499/828499-SNAPSHOT-m.jpg" ch-number="2",LaLiga 2026/27: Atletico Madrid vs Deportivo [25 Oct 2026 01:55 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=123
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
+
+#EXTINF:-1 tvg-id="Vision+" group-title="LaLiga 2026/27" tvg-logo="https://www.visionplus.id/images/repository/499/828499-SNAPSHOT-m.jpg" ch-number="2",LaLiga 2026/27: Atletico Madrid vs Deportivo [25 Oct 2026 01:55 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=123
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
+
 #EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/087/828087-SNAPSHOT-m.jpg" ch-number="1",Polytron Kudus Indonesia Masters S100 Final [25 Oct 2026 13:00 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -71,38 +103,6 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1010
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
 
 #EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/548/828548-SNAPSHOT-m.jpg" ch-number="1",Women's Super League 2026/27: Crystal Palace vs Chelsea [25 Oct 2026 18:50 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=123
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/719/828719-SNAPSHOT-m.jpg" ch-number="1",LaLiga 2 2026/27: Almeria vs Real Oviedo [25 Oct 2026 01:52 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=124
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=124
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/719/828719-SNAPSHOT-m.jpg" ch-number="1",LaLiga 2 2026/27: Almeria vs Real Oviedo [25 Oct 2026 01:52 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=124
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=124
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/499/828499-SNAPSHOT-m.jpg" ch-number="2",LaLiga 2026/27: Atletico Madrid vs Deportivo [25 Oct 2026 01:55 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=123
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/499/828499-SNAPSHOT-m.jpg" ch-number="2",LaLiga 2026/27: Atletico Madrid vs Deportivo [25 Oct 2026 01:55 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
