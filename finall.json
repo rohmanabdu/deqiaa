@@ -1,21 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/xbMWaPcOMygnSfgNevUqqFOEDDg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5393768/088817.jpg" group-title="Live Now",Atletico Madrid vs RC Deportivo - LaLiga (01:55 WIB * 25-10-2026) - BG
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=17875&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkyOTYyMDM1fQ.Na-QL7LB-H-KdfKZEE3s2QB-90R4T1Eu3dO853XzYac
-https://vidkon.biz.id/post.mpd?id=17875&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkyOTYyMDM1fQ.Na-QL7LB-H-KdfKZEE3s2QB-90R4T1Eu3dO853XzYac
-
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/abLjS4fdilcrMW4RHI8F-026s70=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5392294/5cb41e.jpg" group-title="Live Now",Gil Vicente vs Porto - Liga Portugal (02:20 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20502&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNTAyIiwiZXhwIjoxNzkyOTYyMDM1fQ.rjECGW6DbQAIlV20XNWl9e65ZpyzRf0Jprm6RTJ9548
-https://vidkon.biz.id/post.mpd?id=20502&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNTAyIiwiZXhwIjoxNzkyOTYyMDM1fQ.rjECGW6DbQAIlV20XNWl9e65ZpyzRf0Jprm6RTJ9548
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20502&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNTAyIiwiZXhwIjoxNzkyOTYyOTI2fQ.2Yo70NCW47_gmnDhhGIuos5h_bFrALU2uga8yElbKZo
+https://vidkon.biz.id/post.mpd?id=20502&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNTAyIiwiZXhwIjoxNzkyOTYyOTI2fQ.2Yo70NCW47_gmnDhhGIuos5h_bFrALU2uga8yElbKZo
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0ZquX5lAl0Jo2g6o1ylnGS4_4uQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5393648/0f303f.jpg" group-title="Live Now",Alexander Volkanovski vs Movsar Evloev - UFC Featherweight Championship | UFC 333 (03:38 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -23,8 +14,8 @@ https://vidkon.biz.id/post.mpd?id=20502&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20216&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwMjE2IiwiZXhwIjoxNzkyOTYyMDM1fQ.F8XlJXADioyNDGy4A1S_1im3Dh6RQ_zztsV0kadgqg0
-https://vidkon.biz.id/post.mpd?id=20216&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwMjE2IiwiZXhwIjoxNzkyOTYyMDM1fQ.F8XlJXADioyNDGy4A1S_1im3Dh6RQ_zztsV0kadgqg0
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20216&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwMjE2IiwiZXhwIjoxNzkyOTYyOTI2fQ.DkkKKpMXyhSWsB5UYcS8Ac16ES5i4f_b5_3gkHBjx8g
+https://vidkon.biz.id/post.mpd?id=20216&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwMjE2IiwiZXhwIjoxNzkyOTYyOTI2fQ.DkkKKpMXyhSWsB5UYcS8Ac16ES5i4f_b5_3gkHBjx8g
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/i2Dq4zeA2_JRJkJICmxTUcbz9QU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391914/575cec.png" group-title="Live Now",Qualifying - Formula 1 MSC Cruises United States Grand Prix 2026 (03:55 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -32,8 +23,8 @@ https://vidkon.biz.id/post.mpd?id=20216&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6299&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYyOTkiLCJleHAiOjE3OTI5NjIwMzV9.nzY2_iPMKYIMjE-9J7OgwDpCr71R1PK2DzMahaKHsAI
-https://vidkon.biz.id/post.mpd?id=6299&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYyOTkiLCJleHAiOjE3OTI5NjIwMzV9.nzY2_iPMKYIMjE-9J7OgwDpCr71R1PK2DzMahaKHsAI
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6299&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYyOTkiLCJleHAiOjE3OTI5NjI5MjZ9.ue32YIcBTa7bzB13VxQ4gOrWBDzMQ1OmPiVR2eupwEM
+https://vidkon.biz.id/post.mpd?id=6299&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYyOTkiLCJleHAiOjE3OTI5NjI5MjZ9.ue32YIcBTa7bzB13VxQ4gOrWBDzMQ1OmPiVR2eupwEM
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hKB7Nh_aqPx1JkPcx1u39Zvl7uE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5393763/a919f0.png" group-title="Upcoming",MotoGP Warm Up & Rider's Parade: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18 (05:35 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -63,11 +54,11 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Z3MioiIj0-gcN5k0u-OasjOtNjo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5392297/abd868.jpg" group-title="Upcoming",PERSITA vs Bali United FC - BRI Super League (15:22 WIB * 25-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5xXN6Fjy7411go4aeB9sLLozYlY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5392298/cee6f7.jpg" group-title="Upcoming",PERSELA Lamongan vs De Red FC - Pegadaian Championship (15:22 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5xXN6Fjy7411go4aeB9sLLozYlY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5392298/cee6f7.jpg" group-title="Upcoming",PERSELA Lamongan vs De Red FC - Pegadaian Championship (15:22 WIB * 25-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Z3MioiIj0-gcN5k0u-OasjOtNjo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5392297/abd868.jpg" group-title="Upcoming",PERSITA vs Bali United FC - BRI Super League (15:22 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -107,11 +98,11 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/LUZoLwN6h4ldQXhyFnhnIfjs3Jg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5392900/488ff9.jpg" group-title="Upcoming",2026 NFL Paris Games: Pittsburgh Steelers vs New Orleans Saints - NFL (20:20 WIB * 25-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xXJcH5xczz4qnbXW1ttzWshJAGA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5392901/35646f.jpg" group-title="Upcoming",NEC Nijmegen vs FC Groningen - Eredivisie (20:20 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xXJcH5xczz4qnbXW1ttzWshJAGA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5392901/35646f.jpg" group-title="Upcoming",NEC Nijmegen vs FC Groningen - Eredivisie (20:20 WIB * 25-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/LUZoLwN6h4ldQXhyFnhnIfjs3Jg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5392900/488ff9.jpg" group-title="Upcoming",2026 NFL Paris Games: Pittsburgh Steelers vs New Orleans Saints - NFL (20:20 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
