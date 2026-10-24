@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="Vision+" group-title="MotoGP" tvg-logo="https://www.visionplus.id/images/repository/106/828106-SNAPSHOT-m.jpg" ch-number="1",MotoGP: Grand Prix of Australia - Warm Up [25 Oct 2026 05:35 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Moto3" tvg-logo="https://www.visionplus.id/images/repository/124/828124-SNAPSHOT-m.jpg" ch-number="1",Moto3: Grand Prix of Australia - Race [25 Oct 2026 06:45 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -6,7 +6,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 
-#EXTINF:-1 tvg-id="Vision+" group-title="MotoGP" tvg-logo="https://www.visionplus.id/images/repository/106/828106-SNAPSHOT-m.jpg" ch-number="1",MotoGP: Grand Prix of Australia - Warm Up [25 Oct 2026 05:35 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Moto3" tvg-logo="https://www.visionplus.id/images/repository/124/828124-SNAPSHOT-m.jpg" ch-number="1",Moto3: Grand Prix of Australia - Race [25 Oct 2026 06:45 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -414,7 +414,7 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1010
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1010
 
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/124/828124-SNAPSHOT-m.jpg" ch-number="2",Moto3: Grand Prix of Australia - Race [25 Oct 2026 06:45 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/147/828147-SNAPSHOT-m.jpg" ch-number="2",Moto2: Grand Prix of Australia - Race [25 Oct 2026 08:00 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -422,7 +422,7 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1010
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/124/828124-SNAPSHOT-m.jpg" ch-number="2",Moto3: Grand Prix of Australia - Race [25 Oct 2026 06:45 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/147/828147-SNAPSHOT-m.jpg" ch-number="2",Moto2: Grand Prix of Australia - Race [25 Oct 2026 08:00 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -430,7 +430,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/147/828147-SNAPSHOT-m.jpg" ch-number="3",Moto2: Grand Prix of Australia - Race [25 Oct 2026 08:00 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/151/828151-SNAPSHOT-m.jpg" ch-number="3",MotoGP: Grand Prix of Australia - Race [25 Oct 2026 09:15 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -438,23 +438,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/147/828147-SNAPSHOT-m.jpg" ch-number="3",Moto2: Grand Prix of Australia - Race [25 Oct 2026 08:00 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/151/828151-SNAPSHOT-m.jpg" ch-number="4",MotoGP: Grand Prix of Australia - Race [25 Oct 2026 09:15 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/151/828151-SNAPSHOT-m.jpg" ch-number="4",MotoGP: Grand Prix of Australia - Race [25 Oct 2026 09:15 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/151/828151-SNAPSHOT-m.jpg" ch-number="3",MotoGP: Grand Prix of Australia - Race [25 Oct 2026 09:15 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
