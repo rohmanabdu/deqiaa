@@ -5,8 +5,8 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=17140&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTQwIiwiZXhwIjoxNzkyOTcwMTI0fQ.EgbmfKqeFRGy0Le-v27ZosFKdQ3kkvwVVhjr_sKC3CU
-https://vidkon.biz.id/post.mpd?id=17140&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTQwIiwiZXhwIjoxNzkyOTcwMTI0fQ.EgbmfKqeFRGy0Le-v27ZosFKdQ3kkvwVVhjr_sKC3CU
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=17140&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTQwIiwiZXhwIjoxNzkyOTcxMDMwfQ.v-_Qc1YBqB-TF6w7y9i6H9SDzLTfMqQEvNSHnMXonR0
+https://vidkon.biz.id/post.mpd?id=17140&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTQwIiwiZXhwIjoxNzkyOTcxMDMwfQ.v-_Qc1YBqB-TF6w7y9i6H9SDzLTfMqQEvNSHnMXonR0
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Gd8Kb29H6lvj8ywJoz7Ooz1yphc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5393764/267ce4.png" group-title="LIVE EVENT",Moto3 Race: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18 (06:45 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
