@@ -46,6 +46,22 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
 
+#EXTINF:-1 tvg-id="Vision+" group-title="Formula 1" tvg-logo="https://www.visionplus.id/images/repository/079/829079-SNAPSHOT-m.jpg" ch-number="1",Formula 1: MSC Cruises United States Grand Prix 2026 - Practice 3 [25 Oct 2026 00:25 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=122
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=122
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Formula 1" tvg-logo="https://www.visionplus.id/images/repository/079/829079-SNAPSHOT-m.jpg" ch-number="1",Formula 1: MSC Cruises United States Grand Prix 2026 - Practice 3 [25 Oct 2026 00:25 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=122
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=122
+
 #EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/087/828087-SNAPSHOT-m.jpg" ch-number="1",Polytron Kudus Indonesia Masters S100 Final [25 Oct 2026 13:00 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -247,22 +263,6 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=122
 
 #EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/887/828887-SNAPSHOT-m.jpg" ch-number="9",LaLiga 2026/27: Sevilla vs Osasuna [27 Oct 2026 02:55 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=122
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=122
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/079/829079-SNAPSHOT-m.jpg" ch-number="1",Formula 1: MSC Cruises United States Grand Prix 2026 - Practice 3 [25 Oct 2026 00:25 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=122
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=122
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/079/829079-SNAPSHOT-m.jpg" ch-number="1",Formula 1: MSC Cruises United States Grand Prix 2026 - Practice 3 [25 Oct 2026 00:25 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
