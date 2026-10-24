@@ -94,6 +94,22 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1012
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1012
 
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/515/829515-SNAPSHOT-m.jpg" ch-number="1",Men's NH Cup 2026/27: Final [25 Oct 2026 11:30 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1010
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1010
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/515/829515-SNAPSHOT-m.jpg" ch-number="1",Men's NH Cup 2026/27: Final [25 Oct 2026 11:30 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1010
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1010
+
 #EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/016/828016-SNAPSHOT-m.jpg" ch-number="1",Women's Super League 2026/27: Brighton vs West Ham [24 Oct 2026 23:05 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
