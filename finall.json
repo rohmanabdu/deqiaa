@@ -5,12 +5,17 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=17140&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTQwIiwiZXhwIjoxNzkyOTcxMDMwfQ.v-_Qc1YBqB-TF6w7y9i6H9SDzLTfMqQEvNSHnMXonR0
-https://vidkon.biz.id/post.mpd?id=17140&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTQwIiwiZXhwIjoxNzkyOTcxMDMwfQ.v-_Qc1YBqB-TF6w7y9i6H9SDzLTfMqQEvNSHnMXonR0
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=17140&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTQwIiwiZXhwIjoxNzkyOTcxOTI0fQ.-uFL9rYk1TgXM0ZgmqPVjIQdEPqPT7dV9wvI_cTKHXg
+https://vidkon.biz.id/post.mpd?id=17140&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTQwIiwiZXhwIjoxNzkyOTcxOTI0fQ.-uFL9rYk1TgXM0ZgmqPVjIQdEPqPT7dV9wvI_cTKHXg
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Gd8Kb29H6lvj8ywJoz7Ooz1yphc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5393764/267ce4.png" group-title="Upcoming",Moto3 Race: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18 (06:45 WIB * 25-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Gd8Kb29H6lvj8ywJoz7Ooz1yphc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5393764/267ce4.png" group-title="Live Now",Moto3 Race: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18 (06:45 WIB * 25-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=17140&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTQwIiwiZXhwIjoxNzkyOTcxOTI0fQ.-uFL9rYk1TgXM0ZgmqPVjIQdEPqPT7dV9wvI_cTKHXg
+https://vidkon.biz.id/post.mpd?id=17140&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTQwIiwiZXhwIjoxNzkyOTcxOTI0fQ.-uFL9rYk1TgXM0ZgmqPVjIQdEPqPT7dV9wvI_cTKHXg
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/fd_7EG-yhQYH48iN9Wzv0_hG6xE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5393767/6b0071.png" group-title="Upcoming",Game 2: Tampa Bay Rays vs Milwaukee Brewers - World Series Major League Baseball (07:00 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
