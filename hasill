@@ -5,46 +5,56 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20718&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNzE4IiwiZXhwIjoxNzkyOTAyNjM3fQ.it5113qyVDT2UJF7sl3yAzATWUOOEIyjKwCAOafd11E
-https://vidkon.biz.id/post.mpd?id=20718&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNzE4IiwiZXhwIjoxNzkyOTAyNjM3fQ.it5113qyVDT2UJF7sl3yAzATWUOOEIyjKwCAOafd11E
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20718&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNzE4IiwiZXhwIjoxNzkyOTAzNTI5fQ.MdWC1ddAoYGRkGaY2YENklKpEsY1aV65E4wFOnhsXWo
+https://vidkon.biz.id/post.mpd?id=20718&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNzE4IiwiZXhwIjoxNzkyOTAzNTI5fQ.MdWC1ddAoYGRkGaY2YENklKpEsY1aV65E4wFOnhsXWo
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/BPA4bPzi6OoE0GcMqhBsVQCAl5o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390704/f69c26.png" group-title="LIVE EVENT",Round 3 - BMW Ladies Championship 2026 (09:00 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18190&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTkwIiwiZXhwIjoxNzkyOTAyNjM3fQ.wpvjMhseSXTQdE3KHhWAXBbER8GfEo7A9ku0Emm1iQg
-https://vidkon.biz.id/post.mpd?id=18190&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTkwIiwiZXhwIjoxNzkyOTAyNjM3fQ.wpvjMhseSXTQdE3KHhWAXBbER8GfEo7A9ku0Emm1iQg
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/C3rjsNbOWKSV5Ug7ISchWe0vJ6k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390731/b24a33.png" group-title="LIVE EVENT",MotoGP Tissot SPRINT: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18 (10:45 WIB * 24-10-2026) - BG
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18190&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTkwIiwiZXhwIjoxNzkyOTAzNTI5fQ.gP8uruXbAdukJfZL5ePtysjgwFdfZ0JoL47LeOngyQI
+https://vidkon.biz.id/post.mpd?id=18190&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTkwIiwiZXhwIjoxNzkyOTAzNTI5fQ.gP8uruXbAdukJfZL5ePtysjgwFdfZ0JoL47LeOngyQI
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/C3rjsNbOWKSV5Ug7ISchWe0vJ6k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390731/b24a33.png" group-title="LIVE EVENT",MotoGP Tissot SPRINT: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18 (10:30 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=17140&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTQwIiwiZXhwIjoxNzkyOTAyNjM3fQ.5naipHPbattJFvBcn1iBkRnc4P5IrEFes6gsu59PbCw
-https://vidkon.biz.id/post.mpd?id=17140&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTQwIiwiZXhwIjoxNzkyOTAyNjM3fQ.5naipHPbattJFvBcn1iBkRnc4P5IrEFes6gsu59PbCw
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=17140&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTQwIiwiZXhwIjoxNzkyOTAzNTI5fQ.l0gK1m8pUmrMt2jRBD46ZPleA6Z0XzYLEv7M6dl86e4
+https://vidkon.biz.id/post.mpd?id=17140&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTQwIiwiZXhwIjoxNzkyOTAzNTI5fQ.l0gK1m8pUmrMt2jRBD46ZPleA6Z0XzYLEv7M6dl86e4
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/jV-aOwydw1zBJqboBu1f8hO7fs4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390732/3e68a8.png" group-title="LIVE EVENT",Semifinal - WTA 250: Kinoshita Group Japan Open 2026 (11:00 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI5MDI2Mzd9.QGqtH-LU41qCg7FmtqkBAEITm9E9X85roTTz9C6-jSI
-https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI5MDI2Mzd9.QGqtH-LU41qCg7FmtqkBAEITm9E9X85roTTz9C6-jSI
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI5MDM1Mjl9.ts_fLdtVTXZlyv7WJOxbYKiYylSbDFUpQKSmostIA18
+https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI5MDM1Mjl9.ts_fLdtVTXZlyv7WJOxbYKiYylSbDFUpQKSmostIA18
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/WaBrUrugciPItwqdusogsnaUHHA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391290/cd6908.png" group-title="LIVE EVENT",Newcastle Jets vs Macarthur FC - Isuzu UTE A-League Men (11:00 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=17139&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTM5IiwiZXhwIjoxNzkyOTAyNjM3fQ.w3Og3Ar8oO8_de8X4ixfh7Yoq9npReEPU53vM4NVGFo
-https://vidkon.biz.id/post.mpd?id=17139&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTM5IiwiZXhwIjoxNzkyOTAyNjM3fQ.w3Og3Ar8oO8_de8X4ixfh7Yoq9npReEPU53vM4NVGFo
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/z4sH8nf1TjTBtDVXKs62LuFHP84=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399426/8fc30c.png" group-title="LIVE EVENT",Day 6 - Kejurnas Tinju Piala Menko IPK 2026 (11:45 WIB * 24-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/7LrlvQR3YFsIgu2h9BIq0h2lTE0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/22640/kejurnas-tinju-2026-4381d0.jpg" group-title="LIVE EVENT",Day 6 - Kejurnas Tinju Piala Menko IPK 2026 (11:45 WIB * 24-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=17139&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTM5IiwiZXhwIjoxNzkyOTAzNTI5fQ.6brQHqLzmOsuruUgayOEwsPPfifxg3SDs2DJNEqEICo
+https://vidkon.biz.id/post.mpd?id=17139&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTM5IiwiZXhwIjoxNzkyOTAzNTI5fQ.6brQHqLzmOsuruUgayOEwsPPfifxg3SDs2DJNEqEICo
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/z4sH8nf1TjTBtDVXKs62LuFHP84=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399426/8fc30c.png" group-title="LIVE EVENT",Day 6 - Kejurnas Tinju Piala Menko IPK 2026 (11:45 WIB * 24-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22640&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjQwIiwiZXhwIjoxNzkyOTAzNTI5fQ.ifoSnKn6lGmHnC57jNHOJa4TCEesF3B09nopqBdEGh8
+https://vidkon.biz.id/post.mpd?id=22640&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjQwIiwiZXhwIjoxNzkyOTAzNTI5fQ.ifoSnKn6lGmHnC57jNHOJa4TCEesF3B09nopqBdEGh8
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/7LrlvQR3YFsIgu2h9BIq0h2lTE0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/22640/kejurnas-tinju-2026-4381d0.jpg" group-title="LIVE EVENT",Day 6 - Kejurnas Tinju Piala Menko IPK 2026 (11:45 WIB * 24-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22640&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjQwIiwiZXhwIjoxNzkyOTAzNTI5fQ.ifoSnKn6lGmHnC57jNHOJa4TCEesF3B09nopqBdEGh8
+https://vidkon.biz.id/post.mpd?id=22640&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjQwIiwiZXhwIjoxNzkyOTAzNTI5fQ.ifoSnKn6lGmHnC57jNHOJa4TCEesF3B09nopqBdEGh8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Tn7xyp7eDEsTYD5nQ-4h7C5kADM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399394/e6928b.png" group-title="LIVE EVENT",Leylah Fernandez vs Marie Bouzkova - Semifinals | WTA 500: BNB Ningbo Open 2026 (14:00 WIB * 24-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
