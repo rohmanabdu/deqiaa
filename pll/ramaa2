@@ -1,4 +1,20 @@
-#EXTINF:-1 tvg-id="Vision+" group-title="Formula 1" tvg-logo="https://www.visionplus.id/images/repository/122/829122-SNAPSHOT-m.jpg" ch-number="1",Formula 1: MSC Cruises United States Grand Prix 2026 - Grand Prix Sunday [26 Oct 2026 01:30 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="LaLiga 2026/27" tvg-logo="https://www.visionplus.id/images/repository/764/828764-SNAPSHOT-m.jpg" ch-number="1",LaLiga 2026/27: Barcelona vs Real Madrid [26 Oct 2026 02:55 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=123
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
+
+#EXTINF:-1 tvg-id="Vision+" group-title="LaLiga 2026/27" tvg-logo="https://www.visionplus.id/images/repository/764/828764-SNAPSHOT-m.jpg" ch-number="1",LaLiga 2026/27: Barcelona vs Real Madrid [26 Oct 2026 02:55 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=123
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Formula 1" tvg-logo="https://www.visionplus.id/images/repository/115/829115-SNAPSHOT-m.jpg" ch-number="1",Formula 1: MSC Cruises United States Grand Prix 2026 - Race [26 Oct 2026 02:55 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -6,7 +22,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=122
 
-#EXTINF:-1 tvg-id="Vision+" group-title="Formula 1" tvg-logo="https://www.visionplus.id/images/repository/122/829122-SNAPSHOT-m.jpg" ch-number="1",Formula 1: MSC Cruises United States Grand Prix 2026 - Grand Prix Sunday [26 Oct 2026 01:30 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Formula 1" tvg-logo="https://www.visionplus.id/images/repository/115/829115-SNAPSHOT-m.jpg" ch-number="1",Formula 1: MSC Cruises United States Grand Prix 2026 - Race [26 Oct 2026 02:55 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -46,22 +62,6 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=115
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=115
 
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/764/828764-SNAPSHOT-m.jpg" ch-number="1",LaLiga 2026/27: Barcelona vs Real Madrid [26 Oct 2026 02:55 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=123
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/764/828764-SNAPSHOT-m.jpg" ch-number="1",LaLiga 2026/27: Barcelona vs Real Madrid [26 Oct 2026 02:55 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=123
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
-
 #EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/887/828887-SNAPSHOT-m.jpg" ch-number="2",LaLiga 2026/27: Sevilla vs Osasuna [27 Oct 2026 02:55 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -71,22 +71,6 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=122
 
 #EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/887/828887-SNAPSHOT-m.jpg" ch-number="2",LaLiga 2026/27: Sevilla vs Osasuna [27 Oct 2026 02:55 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=122
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=122
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/115/829115-SNAPSHOT-m.jpg" ch-number="2",Formula 1: MSC Cruises United States Grand Prix 2026 - Race [26 Oct 2026 02:55 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=122
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=122
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/115/829115-SNAPSHOT-m.jpg" ch-number="2",Formula 1: MSC Cruises United States Grand Prix 2026 - Race [26 Oct 2026 02:55 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
