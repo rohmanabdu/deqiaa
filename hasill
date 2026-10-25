@@ -5,96 +5,56 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20654&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNjU0IiwiZXhwIjoxNzkzMDM4NTI2fQ.zaYONtjBDq-o05dsX2-WHzjOanE5RbxnAX_fNPCb9h4
-https://vidkon.biz.id/post.mpd?id=20654&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNjU0IiwiZXhwIjoxNzkzMDM4NTI2fQ.zaYONtjBDq-o05dsX2-WHzjOanE5RbxnAX_fNPCb9h4
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/LUtpbN6CQ3egaF_hsSPqH2e1ukc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391103/f65479.jpg" group-title="LIVE EVENT",Toulouse FC vs ESTAC Troyes - Ligue 1 (23:05 WIB * 25-10-2026) - BG
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22605&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjA1IiwiZXhwIjoxNzkzMDM4NTI2fQ.7U0QbQLoJMz8kH3U6wCAkSBgl90t4nohydjkSIjjbRc
-https://vidkon.biz.id/post.mpd?id=22605&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjA1IiwiZXhwIjoxNzkzMDM4NTI2fQ.7U0QbQLoJMz8kH3U6wCAkSBgl90t4nohydjkSIjjbRc
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/ChjXkaHt2NwTO-4UrMxMuYhVkvs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5392903/3611ec.jpg" group-title="LIVE EVENT",AJ Auxerre vs Le Mans FC - Ligue 1 (23:05 WIB * 25-10-2026) - BG
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22117&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMTE3IiwiZXhwIjoxNzkzMDM4NTI2fQ.3UVYH5M1TAeT1h2soep0ZkkEIcuPlGaweyx2Ifs2RB8
-https://vidkon.biz.id/post.mpd?id=22117&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMTE3IiwiZXhwIjoxNzkzMDM4NTI2fQ.3UVYH5M1TAeT1h2soep0ZkkEIcuPlGaweyx2Ifs2RB8
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/OT4fCDGXYfmugXlaOguyqQR6Qy4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5392904/c5ee59.jpg" group-title="LIVE EVENT",Angers SCO vs FC Lorient - Ligue 1 (23:05 WIB * 25-10-2026) - BG
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22107&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMTA3IiwiZXhwIjoxNzkzMDM4NTI2fQ.Cqn7R7ea3hYIG8JwAJ-VWkyQReZWWlWgwmA2ObmB2bc
-https://vidkon.biz.id/post.mpd?id=22107&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMTA3IiwiZXhwIjoxNzkzMDM4NTI2fQ.Cqn7R7ea3hYIG8JwAJ-VWkyQReZWWlWgwmA2ObmB2bc
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20654&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNjU0IiwiZXhwIjoxNzkzMDM5NDM0fQ.cFWu7gqX5wDO2i3ecT9VtwNsHDX-5q1OzkBSNEcjWY4
+https://vidkon.biz.id/post.mpd?id=20654&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNjU0IiwiZXhwIjoxNzkzMDM5NDM0fQ.cFWu7gqX5wDO2i3ecT9VtwNsHDX-5q1OzkBSNEcjWY4
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/S7EIZuyVI9NWlObstxvKZ3KiS8M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5393760/4f95f9.jpg" group-title="LIVE EVENT",Sunderland vs Leeds United - Premier League (23:07 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=9182&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjkxODIiLCJleHAiOjE3OTMwMzg1MjZ9.7g_zcEm4beJBlcWYdxDPaCG5EyvKYqthMlKGrRzQgAc
-https://vidkon.biz.id/post.mpd?id=9182&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjkxODIiLCJleHAiOjE3OTMwMzg1MjZ9.7g_zcEm4beJBlcWYdxDPaCG5EyvKYqthMlKGrRzQgAc
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/3cl351jh624iBWlTeS6tJ8oa9ug=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391815/f41f7e.jpg" group-title="LIVE EVENT",Olympique de Marseille vs Havre AC - Ligue 1 (23:10 WIB * 25-10-2026) - BG
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=9183&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjkxODMiLCJleHAiOjE3OTMwMzg1MjZ9._0tZA_1jM0TsIqKLslw8eDSsZZrijMglyBQlCVF7ElA
-https://vidkon.biz.id/post.mpd?id=9183&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjkxODMiLCJleHAiOjE3OTMwMzg1MjZ9._0tZA_1jM0TsIqKLslw8eDSsZZrijMglyBQlCVF7ElA
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/4FwB9ulnOmg2KQwRMIOKnuqCrNA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5400273/b0f196.jpg" group-title="LIVE EVENT",Stade Rennais FC vs RC Strasbourg Alsace - Ligue 1 (23:15 WIB * 25-10-2026) - BG
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22642&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjQyIiwiZXhwIjoxNzkzMDM4NTI2fQ.0_9i8yhopwt62L0BHig2WrmRsEJ0AKZDmRVI7kUTs3Y
-https://vidkon.biz.id/post.mpd?id=22642&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjQyIiwiZXhwIjoxNzkzMDM4NTI2fQ.0_9i8yhopwt62L0BHig2WrmRsEJ0AKZDmRVI7kUTs3Y
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=9182&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjkxODIiLCJleHAiOjE3OTMwMzk0MzR9.Qn54dFHLT6NR4hh7tqEsWZI__M3VwS1VBBnhvOcfHm8
+https://vidkon.biz.id/post.mpd?id=9182&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjkxODIiLCJleHAiOjE3OTMwMzk0MzR9.Qn54dFHLT6NR4hh7tqEsWZI__M3VwS1VBBnhvOcfHm8
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/QiK5b72VdghhFZa6NMiIsJBz0Ec=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399479/727b63.jpg" group-title="LIVE EVENT",Lecce vs Juventus - Serie A (23:45 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTMwMzg1MjZ9.23k2MgzkVz4zKDJaGdEfKKCBn7tDkudo5qVv_83vudc
-https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTMwMzg1MjZ9.23k2MgzkVz4zKDJaGdEfKKCBn7tDkudo5qVv_83vudc
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/QlkLNWHOSnP0z0zbdl8YQr_bg4I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5400268/c1ea60.jpg" group-title="LIVE EVENT",Cincinnati Bengals vs Baltimore Ravens - NFL (00:00 WIB * 26-10-2026) - BG
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6686&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY2ODYiLCJleHAiOjE3OTMwMzg1MjZ9.RBCqq04tgPFJw4cDTmkBuMwCyujg1JCIjdq93NoSDUI
-https://vidkon.biz.id/post.mpd?id=6686&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY2ODYiLCJleHAiOjE3OTMwMzg1MjZ9.RBCqq04tgPFJw4cDTmkBuMwCyujg1JCIjdq93NoSDUI
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTMwMzk0MzR9.cMynnZGvoNlDHsQVquO-S2iM8040YhslkrgMBm-xNgs
+https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTMwMzk0MzR9.cMynnZGvoNlDHsQVquO-S2iM8040YhslkrgMBm-xNgs
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/d5JGzccQBQxeMO8ZP35pHjioyXk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399534/2d5964.png" group-title="LIVE EVENT",Round 4 - Butterfield Bermuda Championship 2026 (00:00 WIB * 26-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18189&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTg5IiwiZXhwIjoxNzkzMDM4NTI2fQ.YiteA6OLr7zTdDTD12XwqTWZ8RV7WM09ywwQHfx4Kz4
-https://vidkon.biz.id/post.mpd?id=18189&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTg5IiwiZXhwIjoxNzkzMDM4NTI2fQ.YiteA6OLr7zTdDTD12XwqTWZ8RV7WM09ywwQHfx4Kz4
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18189&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTg5IiwiZXhwIjoxNzkzMDM5NDM0fQ.IGuNKYOoidG9XNwVzFW-GITxww0L_RFW-DFxdyuXVCE
+https://vidkon.biz.id/post.mpd?id=18189&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTg5IiwiZXhwIjoxNzkzMDM5NDM0fQ.IGuNKYOoidG9XNwVzFW-GITxww0L_RFW-DFxdyuXVCE
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/QlkLNWHOSnP0z0zbdl8YQr_bg4I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5400268/c1ea60.jpg" group-title="LIVE EVENT",Cincinnati Bengals vs Baltimore Ravens - NFL (00:00 WIB * 26-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6686&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY2ODYiLCJleHAiOjE3OTMwMzk0MzR9.4-thC6Wo0gJHpfr9M3Jv5QBX2PU8NxtE6Vn-7N4r1Nk
+https://vidkon.biz.id/post.mpd?id=6686&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY2ODYiLCJleHAiOjE3OTMwMzk0MzR9.4-thC6Wo0gJHpfr9M3Jv5QBX2PU8NxtE6Vn-7N4r1Nk
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/yGEbJtQRtBJUN8sPWPjxiBc9e38=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399476/6dd578.jpg" group-title="LIVE EVENT",Real Sociedad vs Levante - LaLiga (00:25 WIB * 26-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=17875&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkzMDM4NTI2fQ.EvlP_5vx3Nu6_HTwVPBxoaa6Zgp7UK1irBZRjpoFu9Y
-https://vidkon.biz.id/post.mpd?id=17875&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkzMDM4NTI2fQ.EvlP_5vx3Nu6_HTwVPBxoaa6Zgp7UK1irBZRjpoFu9Y
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=17875&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkzMDM5NDM0fQ.GkGLWHu7YDnDhd3Z5YVJZpvBI8W06pw_Is8QZ5CqmxY
+https://vidkon.biz.id/post.mpd?id=17875&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkzMDM5NDM0fQ.GkGLWHu7YDnDhd3Z5YVJZpvBI8W06pw_Is8QZ5CqmxY
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/ULqKeia6X9zjAy8jrJvf-nE1MgI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399475/bddc08.jpg" group-title="LIVE EVENT",Man Utd vs Man City - Women's Super League (01:00 WIB * 26-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6317&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYzMTciLCJleHAiOjE3OTMwMzg1MjZ9.baBQvI9P9_pvUScaa6NPxNh0TUZBnA50f7OKTon4Vkk
-https://vidkon.biz.id/post.mpd?id=6317&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYzMTciLCJleHAiOjE3OTMwMzg1MjZ9.baBQvI9P9_pvUScaa6NPxNh0TUZBnA50f7OKTon4Vkk
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6317&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYzMTciLCJleHAiOjE3OTMwMzk0MzR9.ZvL4CCstqJ8kVmyRnrJxc1G8idsdhMcKl82OrC1Ndg4
+https://vidkon.biz.id/post.mpd?id=6317&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYzMTciLCJleHAiOjE3OTMwMzk0MzR9.ZvL4CCstqJ8kVmyRnrJxc1G8idsdhMcKl82OrC1Ndg4
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/vb7e609p6dVXSvPbS1_PO7w7nfM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399460/2b85d9.jpg" group-title="LIVE EVENT",AZ Alkmaar vs Twente - Eredivisie (01:50 WIB * 26-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
