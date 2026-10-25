@@ -1,44 +1,36 @@
 #EXTM3U
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/vb7e609p6dVXSvPbS1_PO7w7nfM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399460/2b85d9.jpg" group-title="LIVE EVENT",AZ Alkmaar vs Twente - Eredivisie (01:50 WIB * 26-10-2026) - BG
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=21154&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIxMTU0IiwiZXhwIjoxNzkzMDQ5MzI1fQ.rjZMhdwfYsrd1CYokQ6qVnrMcxZo-fgjOHiTszHf9OQ
-https://vidkon.biz.id/post.mpd?id=21154&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIxMTU0IiwiZXhwIjoxNzkzMDQ5MzI1fQ.rjZMhdwfYsrd1CYokQ6qVnrMcxZo-fgjOHiTszHf9OQ
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/xURwyZiWHooyeojYxNsIt7fbQnQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399528/08584c.jpg" group-title="LIVE EVENT",Udinese vs Milan - Serie A (02:30 WIB * 26-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTMwNDkzMjV9.aiWK9MVwQayfCPLR6KpM6nYUGID39ToXnodCWEt33rk
-https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTMwNDkzMjV9.aiWK9MVwQayfCPLR6KpM6nYUGID39ToXnodCWEt33rk
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTMwNTAyMzF9.yAcJKVGnRJXRmzAR40cJ7mESBBx_gy-D6hCqk_YGuHA
+https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTMwNTAyMzF9.yAcJKVGnRJXRmzAR40cJ7mESBBx_gy-D6hCqk_YGuHA
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/2iaf_KSiGWty9dG-Wfk7-zS3QQg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399477/64ba74.jpg" group-title="LIVE EVENT",Barcelona vs Real Madrid - LaLiga (02:55 WIB * 26-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=17875&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkzMDQ5MzI1fQ.gCK1I2JMn6QZ4s9xiMvFWuWuxQeRkb827YgnjIiYFXE
-https://vidkon.biz.id/post.mpd?id=17875&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkzMDQ5MzI1fQ.gCK1I2JMn6QZ4s9xiMvFWuWuxQeRkb827YgnjIiYFXE
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=17875&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkzMDUwMjMxfQ.Z9XdX9rsTvCxdcvQ5BsH4tpoAhDsU8z7zjPYOQXx5M4
+https://vidkon.biz.id/post.mpd?id=17875&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkzMDUwMjMxfQ.Z9XdX9rsTvCxdcvQ5BsH4tpoAhDsU8z7zjPYOQXx5M4
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/oUs1Pyy0I0zFOpyu8h-_lrC9l1E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391916/654e2d.png" group-title="LIVE EVENT",Race - Formula 1 MSC Cruises United States Grand Prix 2026 (02:55 WIB * 26-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6299&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYyOTkiLCJleHAiOjE3OTMwNDkzMjV9.Bn_mD6l0uDoxUbmekxscm6F7DnfdCDSGh6W57XpJPs4
-https://vidkon.biz.id/post.mpd?id=6299&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYyOTkiLCJleHAiOjE3OTMwNDkzMjV9.Bn_mD6l0uDoxUbmekxscm6F7DnfdCDSGh6W57XpJPs4
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6299&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYyOTkiLCJleHAiOjE3OTMwNTAyMzF9.ISD1WwX1oI_a1mLuVU5EAgazS9GaVuFkeLyTjYAHTys
+https://vidkon.biz.id/post.mpd?id=6299&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYyOTkiLCJleHAiOjE3OTMwNTAyMzF9.ISD1WwX1oI_a1mLuVU5EAgazS9GaVuFkeLyTjYAHTys
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/86PJjQtXrlkThMp2x58nEs3qhRk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5400269/9cb344.jpg" group-title="LIVE EVENT",Green Bay Packers vs Detroit Lions - NFL (03:25 WIB * 26-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6686&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY2ODYiLCJleHAiOjE3OTMwNDkzMjV9.kYuBxXNMFr0HiW7XJ5DIgP9VWKZ87cSX6eA0SARHQq4
-https://vidkon.biz.id/post.mpd?id=6686&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY2ODYiLCJleHAiOjE3OTMwNDkzMjV9.kYuBxXNMFr0HiW7XJ5DIgP9VWKZ87cSX6eA0SARHQq4
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6686&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY2ODYiLCJleHAiOjE3OTMwNTAyMzF9.ZbGXhnoowcc3Ki5CH7E5jNtByIqdzdYakE6q2OteLm0
+https://vidkon.biz.id/post.mpd?id=6686&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY2ODYiLCJleHAiOjE3OTMwNTAyMzF9.ZbGXhnoowcc3Ki5CH7E5jNtByIqdzdYakE6q2OteLm0
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0U1hGJAE9qSPHOjTsj0y0rvVolQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5400270/cf7a74.jpg" group-title="LIVE EVENT",Kansas City Chiefs vs Seattle Seahawks - NFL (07:10 WIB * 26-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
@@ -48,10 +40,10 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/J_IrbsJU66NLs7gLfrb_lNnv9es=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399770/06ffdb.png" group-title="LIVE EVENT",Kuwait Major Premier Padel 2026 - Day 2 (16:00 WIB * 26-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/DMxUWxVMg7BqiVBP1nPlJ6eH6rw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399461/d42f50.jpg" group-title="LIVE EVENT",Bhayangkara Presisi Lampung FC vs PSM Makassar - BRI Super League (18:52 WIB * 26-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/PT-HZoPs2mhh4gVihlHe2ch3Siw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399462/c0b080.jpg" group-title="LIVE EVENT",PERSEBAYA Surabaya vs Madura United FC - BRI Super League (18:52 WIB * 26-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/PT-HZoPs2mhh4gVihlHe2ch3Siw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399462/c0b080.jpg" group-title="LIVE EVENT",PERSEBAYA Surabaya vs Madura United FC - BRI Super League (18:52 WIB * 26-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/DMxUWxVMg7BqiVBP1nPlJ6eH6rw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399461/d42f50.jpg" group-title="LIVE EVENT",Bhayangkara Presisi Lampung FC vs PSM Makassar - BRI Super League (18:52 WIB * 26-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/7EIRqoLnhxwBrB_tLbqGNkYVJ3U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399463/4d6ce1.jpg" group-title="LIVE EVENT",PERSIJA vs PERSIK Kediri - BRI Super League (19:00 WIB * 26-10-2026) - BG
