@@ -5,12 +5,15 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18190&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTkwIiwiZXhwIjoxNzkyOTg3MjM1fQ.mROzHgN3tNDNLO72OmK_UW4Mh1qcs1dCA8u3WO5Hnt0
-https://vidkon.biz.id/post.mpd?id=18190&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTkwIiwiZXhwIjoxNzkyOTg3MjM1fQ.mROzHgN3tNDNLO72OmK_UW4Mh1qcs1dCA8u3WO5Hnt0
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18190&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTkwIiwiZXhwIjoxNzkyOTg4MTI0fQ.6k-LIwdpJ9Fw3pGpAOx7jRpcHOLwdn-6P-9dfAqrhm4
+https://vidkon.biz.id/post.mpd?id=18190&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTkwIiwiZXhwIjoxNzkyOTg4MTI0fQ.6k-LIwdpJ9Fw3pGpAOx7jRpcHOLwdn-6P-9dfAqrhm4
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/KNoSyuIsoDw5c5qh59S7U_CNP84=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5393885/bf125e.png" group-title="LIVE EVENT",Final - WTA 250: Kinoshita Group Japan Open 2026 (11:30 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/csNC7b7UuH-A0xbiymZiEc0Cb2k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5393766/55c3d8.png" group-title="LIVE EVENT",MotoGP Race: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18 (12:00 WIB * 25-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/_DtD5RHZAxfuVlBn2EjUINjl6Qk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/22641/kejurnas-tinju-2026-716074.jpg" group-title="LIVE EVENT",Day 7 - Kejurnas Tinju Piala Menko IPK 2026 (13:00 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Z3MioiIj0-gcN5k0u-OasjOtNjo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5392297/abd868.jpg" group-title="LIVE EVENT",PERSITA vs Bali United FC - BRI Super League (15:22 WIB * 25-10-2026) - BG
