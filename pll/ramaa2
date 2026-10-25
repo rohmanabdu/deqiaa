@@ -1,3 +1,19 @@
+#EXTINF:-1 tvg-id="Vision+" group-title="Women&#039;s Super League 2026/27" tvg-logo="https://www.visionplus.id/images/repository/548/828548-SNAPSHOT-m.jpg" ch-number="1",Women's Super League 2026/27: Crystal Palace vs Chelsea [25 Oct 2026 18:50 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=123
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Women&#039;s Super League 2026/27" tvg-logo="https://www.visionplus.id/images/repository/548/828548-SNAPSHOT-m.jpg" ch-number="1",Women's Super League 2026/27: Crystal Palace vs Chelsea [25 Oct 2026 18:50 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=123
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
+
 #EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/088/827088-SNAPSHOT-m.jpg" ch-number="1",AFC Champions League Two 2026/27: Al Seeb Club (OMA) vs East Bengal FC (IND) [27 Oct 2026 23:00 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -29,22 +45,6 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=115
 #KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=115
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=115
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/548/828548-SNAPSHOT-m.jpg" ch-number="1",Women's Super League 2026/27: Crystal Palace vs Chelsea [25 Oct 2026 18:50 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=123
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/548/828548-SNAPSHOT-m.jpg" ch-number="1",Women's Super League 2026/27: Crystal Palace vs Chelsea [25 Oct 2026 18:50 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=123
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
 
 #EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/733/828733-SNAPSHOT-m.jpg" ch-number="1",LaLiga 2 2026/27: Sabadell vs Tenerife [25 Oct 2026 19:52 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
