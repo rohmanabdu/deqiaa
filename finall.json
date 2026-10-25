@@ -5,8 +5,8 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22641&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjQxIiwiZXhwIjoxNzkzMDAxNjM2fQ.uTVNVrulMwCspF1VhLEfyWXWvJP5PmKgNOcX6z1ffwM
-https://vidkon.biz.id/post.mpd?id=22641&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjQxIiwiZXhwIjoxNzkzMDAxNjM2fQ.uTVNVrulMwCspF1VhLEfyWXWvJP5PmKgNOcX6z1ffwM
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22641&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjQxIiwiZXhwIjoxNzkzMDAyNDk1fQ.6jgdx3lGo4XK1k8ahoRWGq18_JcuLiTTjXA5OUrDkrA
+https://vidkon.biz.id/post.mpd?id=22641&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjQxIiwiZXhwIjoxNzkzMDAyNDk1fQ.6jgdx3lGo4XK1k8ahoRWGq18_JcuLiTTjXA5OUrDkrA
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/eWF_EahegLU-9VTIXkGq_yiey_4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5392295/7db016.jpg" group-title="Live Now",Arema FC vs Dewa United Banten FC - BRI Super League (14:57 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -14,8 +14,8 @@ https://vidkon.biz.id/post.mpd?id=22641&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22207&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA3IiwiZXhwIjoxNzkzMDAxNjM2fQ.BERSiantKaDH8Aa0FOQNjnvoG3tm-BGkETQv4Q7yPZ0
-https://vidkon.biz.id/post.mpd?id=22207&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA3IiwiZXhwIjoxNzkzMDAxNjM2fQ.BERSiantKaDH8Aa0FOQNjnvoG3tm-BGkETQv4Q7yPZ0
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22207&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA3IiwiZXhwIjoxNzkzMDAyNDk1fQ.LKS81Y9iDiQE9a0UmZjyBW-PDTul57T6vKOqOY0-phc
+https://vidkon.biz.id/post.mpd?id=22207&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA3IiwiZXhwIjoxNzkzMDAyNDk1fQ.LKS81Y9iDiQE9a0UmZjyBW-PDTul57T6vKOqOY0-phc
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5xXN6Fjy7411go4aeB9sLLozYlY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5392298/cee6f7.jpg" group-title="Upcoming",PERSELA Lamongan vs De Red FC - Pegadaian Championship (15:22 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/CYdTUr2PNui1ouxnWNeXa0HaLIs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399486/eb0a20.jpg" group-title="Upcoming",Daniil Medvedev vs Nikoloz Basilashvili - Finals | ATP 250: Almaty Open 2026 (17:00 WIB * 25-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/_PcqH0cDGvJVRyNYRIXTDS6Lv-A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399486/9e6c97.png" group-title="Upcoming",Daniil Medvedev vs Nikoloz Basilashvili - Finals | ATP 250: Almaty Open 2026 (17:00 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -49,11 +49,11 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-r9RlO5EMJGMsV76Mr9GVrrCACA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5392296/ac87c9.jpg" group-title="Upcoming",Garudayaksa FC vs PERSIB - BRI Super League (19:00 WIB * 25-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/bSVszK-J7E-OaGlw2CTDLwMZg8o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5392299/fd5cbf.jpg" group-title="Upcoming",PSMS Medan vs PSIS Semarang - Pegadaian Championship (18:52 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/bSVszK-J7E-OaGlw2CTDLwMZg8o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5392299/fd5cbf.jpg" group-title="Upcoming",PSMS Medan vs PSIS Semarang - Pegadaian Championship (19:00 WIB * 25-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-r9RlO5EMJGMsV76Mr9GVrrCACA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5392296/ac87c9.jpg" group-title="Upcoming",Garudayaksa FC vs PERSIB - BRI Super League (19:00 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -73,7 +73,7 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0bqdn_ce-UxDDGuTR3nNIlQdfKE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399489/fd1db8.png" group-title="Upcoming",Lorenzo Musetti vs Taylor Fritz - Finals | ATP 250: Grand Prix Auvergne-Rhone-Alpes Open 2026 (20:30 WIB * 25-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/TK-xGOhHHaXud_PaTR6pbFUyEuY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399489/23c850.png" group-title="Upcoming",Lorenzo Musetti vs Taylor Fritz - Finals | ATP 250: Grand Prix Auvergne-Rhone-Alpes Open 2026 (20:30 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -109,7 +109,7 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/PRNekGAlcRbSpaIor2olkV4Oq3k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399543/362410.jpg" group-title="Upcoming",Jan-Lennard Struff vs Tallon Griekspoor - Final | ATP 250: BNP Paribas Fortis European Open 2026 (22:30 WIB * 25-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/bUpfnjECgXw1GjJCgqy4qzjE8ow=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399543/9070c8.jpg" group-title="Upcoming",Jan-Lennard Struff vs Tallon Griekspoor - Final | ATP 250: BNP Paribas Fortis European Open 2026 (22:30 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
