@@ -5,43 +5,48 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTMwNDAzMjN9.80Is6JWAwoOmTxp5VYThIZwCN_usCUuazszRAaiCBkE
-https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTMwNDAzMjN9.80Is6JWAwoOmTxp5VYThIZwCN_usCUuazszRAaiCBkE
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTMwNDEyMzR9.iu94ETXCu2Ow3mQGC51PMqOItZcRcgZBqrnDsetB1SA
+https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTMwNDEyMzR9.iu94ETXCu2Ow3mQGC51PMqOItZcRcgZBqrnDsetB1SA
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/QlkLNWHOSnP0z0zbdl8YQr_bg4I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5400268/c1ea60.jpg" group-title="LIVE EVENT",Cincinnati Bengals vs Baltimore Ravens - NFL (00:00 WIB * 26-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6686&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY2ODYiLCJleHAiOjE3OTMwNDAzMjN9.MymCJA2Yrbw2RIfqgqqAoTyarFv0sJ1oLNQ8eba82HQ
-https://vidkon.biz.id/post.mpd?id=6686&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY2ODYiLCJleHAiOjE3OTMwNDAzMjN9.MymCJA2Yrbw2RIfqgqqAoTyarFv0sJ1oLNQ8eba82HQ
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6686&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY2ODYiLCJleHAiOjE3OTMwNDEyMzR9.SPMV6qFVGN_OqPfPwiOZ49J0LbXi7JoHzcHcQDfQwr8
+https://vidkon.biz.id/post.mpd?id=6686&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY2ODYiLCJleHAiOjE3OTMwNDEyMzR9.SPMV6qFVGN_OqPfPwiOZ49J0LbXi7JoHzcHcQDfQwr8
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/d5JGzccQBQxeMO8ZP35pHjioyXk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399534/2d5964.png" group-title="LIVE EVENT",Round 4 - Butterfield Bermuda Championship 2026 (00:00 WIB * 26-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18189&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTg5IiwiZXhwIjoxNzkzMDQwMzIzfQ.C4_Zw72BfKiJrcehkG8so2MrmrAMJmnB--DPi5DhWTg
-https://vidkon.biz.id/post.mpd?id=18189&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTg5IiwiZXhwIjoxNzkzMDQwMzIzfQ.C4_Zw72BfKiJrcehkG8so2MrmrAMJmnB--DPi5DhWTg
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18189&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTg5IiwiZXhwIjoxNzkzMDQxMjM0fQ.x508isBvS0F_aeBbmJIar2R6-7DBlAMtQpkE5RGNX-Y
+https://vidkon.biz.id/post.mpd?id=18189&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTg5IiwiZXhwIjoxNzkzMDQxMjM0fQ.x508isBvS0F_aeBbmJIar2R6-7DBlAMtQpkE5RGNX-Y
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/yGEbJtQRtBJUN8sPWPjxiBc9e38=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399476/6dd578.jpg" group-title="LIVE EVENT",Real Sociedad vs Levante - LaLiga (00:25 WIB * 26-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=17875&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkzMDQwMzIzfQ.mTVk7M00fLCuwvrBlUuLoRksMuctpXBlL82nI-Iwpf8
-https://vidkon.biz.id/post.mpd?id=17875&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkzMDQwMzIzfQ.mTVk7M00fLCuwvrBlUuLoRksMuctpXBlL82nI-Iwpf8
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=17875&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkzMDQxMjM0fQ._COyYbs6hCuF-Dvc7CwuOketudefLUbfVFHPu7Mdb6c
+https://vidkon.biz.id/post.mpd?id=17875&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkzMDQxMjM0fQ._COyYbs6hCuF-Dvc7CwuOketudefLUbfVFHPu7Mdb6c
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/ULqKeia6X9zjAy8jrJvf-nE1MgI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399475/bddc08.jpg" group-title="LIVE EVENT",Man Utd vs Man City - Women's Super League (01:00 WIB * 26-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6317&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYzMTciLCJleHAiOjE3OTMwNDAzMjN9.9W001ALxisO7zwXSIe8gJIi7xSIKpH4-A727V_csLtg
-https://vidkon.biz.id/post.mpd?id=6317&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYzMTciLCJleHAiOjE3OTMwNDAzMjN9.9W001ALxisO7zwXSIe8gJIi7xSIKpH4-A727V_csLtg
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/vb7e609p6dVXSvPbS1_PO7w7nfM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399460/2b85d9.jpg" group-title="LIVE EVENT",AZ Alkmaar vs Twente - Eredivisie (01:50 WIB * 26-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6317&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYzMTciLCJleHAiOjE3OTMwNDEyMzR9.5FSX7K8InNTCW_QpsdHoTYZBV-f4feY3qvTodCnJh_Y
+https://vidkon.biz.id/post.mpd?id=6317&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYzMTciLCJleHAiOjE3OTMwNDEyMzR9.5FSX7K8InNTCW_QpsdHoTYZBV-f4feY3qvTodCnJh_Y
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/vb7e609p6dVXSvPbS1_PO7w7nfM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399460/2b85d9.jpg" group-title="LIVE EVENT",AZ Alkmaar vs Twente - Eredivisie (01:50 WIB * 26-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=21154&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIxMTU0IiwiZXhwIjoxNzkzMDQxMjM0fQ.vg3Zb5cEIcjk6_Qo_cRekhl5_D5lJVkRJUINtL1So2o
+https://vidkon.biz.id/post.mpd?id=21154&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIxMTU0IiwiZXhwIjoxNzkzMDQxMjM0fQ.vg3Zb5cEIcjk6_Qo_cRekhl5_D5lJVkRJUINtL1So2o
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xURwyZiWHooyeojYxNsIt7fbQnQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399528/08584c.jpg" group-title="LIVE EVENT",Udinese vs Milan - Serie A (02:30 WIB * 26-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
@@ -72,13 +77,25 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/7EIRqoLnhxwBrB_tLbqGNkYVJ3U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399463/4d6ce1.jpg" group-title="LIVE EVENT",PERSIJA vs PERSIK Kediri - BRI Super League (19:00 WIB * 26-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/VfNBxjKHrzIyst674Ie3fdYBil0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20884/round-1-atp-500-swiss-indoors-basel-2026-23c9d5.png" group-title="LIVE EVENT",Matteo Berrettini vs Tomas Martin Etcheverry - Round 1 | ATP 500: Erste Bank Open 2026 (19:30 WIB * 26-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/VfNBxjKHrzIyst674Ie3fdYBil0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20884/round-1-atp-500-swiss-indoors-basel-2026-23c9d5.png" group-title="LIVE EVENT",Tomas Machac vs Alex de Minaur - Round 1 | ATP 500: Erste Bank Open 2026 (21:30 WIB * 26-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/t2thXrA8kEmCZDlg3fkmVpj0Qbk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399887/977d30.jpg" group-title="LIVE EVENT",Besiktas vs Istanbul Basaksehir - Trendyol Super Lig (22:55 WIB * 26-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/G2FdOfM4iewD0ie5mxLFs6YiRWc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399890/5c3d43.jpg" group-title="LIVE EVENT",Rizespor vs Trabzonspor - Trendyol Super Lig (22:55 WIB * 26-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/VfNBxjKHrzIyst674Ie3fdYBil0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20884/round-1-atp-500-swiss-indoors-basel-2026-23c9d5.png" group-title="LIVE EVENT",Jakub Mensik vs Lukas Neumayer - Round 1 | ATP 500: Erste Bank Open 2026 (23:30 WIB * 26-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/aqCsO2khZwugApqlXO4rdSpqMVI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399888/ccb6c8.jpg" group-title="LIVE EVENT",Galatasaray vs Fenerbahce - Trendyol Super Lig (01:25 WIB * 27-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/VfNBxjKHrzIyst674Ie3fdYBil0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20884/round-1-atp-500-swiss-indoors-basel-2026-23c9d5.png" group-title="LIVE EVENT",Luca Van Assche vs Learner Tien - Round 1 | ATP 500: Erste Bank Open 2026 (02:00 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/l37u27bb7p_0ZtCqKA_A-vEojPA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399891/ffa9de.jpg" group-title="LIVE EVENT",Paris Saint-Germain vs Olympique Lyonnais - Ligue 1 (02:20 WIB * 27-10-2026) - BG
