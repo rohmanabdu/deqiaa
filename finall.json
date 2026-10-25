@@ -5,16 +5,8 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18190&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTkwIiwiZXhwIjoxNzkyOTg0NTI0fQ.nJhbMlXXEInhKrwn7x8u0q71zHg-QXL9z44eIA-mNXc
-https://vidkon.biz.id/post.mpd?id=18190&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTkwIiwiZXhwIjoxNzkyOTg0NTI0fQ.nJhbMlXXEInhKrwn7x8u0q71zHg-QXL9z44eIA-mNXc
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Gd8Kb29H6lvj8ywJoz7Ooz1yphc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5393764/267ce4.png" group-title="Upcoming",Moto3 Race: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18 (11:00 WIB * 25-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9fZYHpq-RwtkjrQUy5eugRm6EJY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5393765/9d424b.png" group-title="Upcoming",Moto2 Race: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18 (11:30 WIB * 25-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18190&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTkwIiwiZXhwIjoxNzkyOTg1NDI4fQ.k37wlTBZSKV91bLs77h-OBvevMJgf7AEF07jBxQaq04
+https://vidkon.biz.id/post.mpd?id=18190&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTkwIiwiZXhwIjoxNzkyOTg1NDI4fQ.k37wlTBZSKV91bLs77h-OBvevMJgf7AEF07jBxQaq04
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/KNoSyuIsoDw5c5qh59S7U_CNP84=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5393885/bf125e.png" group-title="Upcoming",Final - WTA 250: Kinoshita Group Japan Open 2026 (11:30 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -24,11 +16,11 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5xXN6Fjy7411go4aeB9sLLozYlY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5392298/cee6f7.jpg" group-title="Upcoming",PERSELA Lamongan vs De Red FC - Pegadaian Championship (15:22 WIB * 25-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Z3MioiIj0-gcN5k0u-OasjOtNjo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5392297/abd868.jpg" group-title="Upcoming",PERSITA vs Bali United FC - BRI Super League (15:22 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Z3MioiIj0-gcN5k0u-OasjOtNjo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5392297/abd868.jpg" group-title="Upcoming",PERSITA vs Bali United FC - BRI Super League (15:22 WIB * 25-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5xXN6Fjy7411go4aeB9sLLozYlY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5392298/cee6f7.jpg" group-title="Upcoming",PERSELA Lamongan vs De Red FC - Pegadaian Championship (15:22 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -88,11 +80,11 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/wdrd25TwTaePiZJXlHHFwsv8deI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391912/a85f71.jpg" group-title="Upcoming",Man Utd vs Bournemouth - Premier League (20:30 WIB * 25-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/kp211zRN45sGRAYiPlGQB4AxBAA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391910/cbb41f.jpg" group-title="Upcoming",Liverpool vs Brighton - Premier League (20:30 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/kp211zRN45sGRAYiPlGQB4AxBAA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391910/cbb41f.jpg" group-title="Upcoming",Liverpool vs Brighton - Premier League (20:30 WIB * 25-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/wdrd25TwTaePiZJXlHHFwsv8deI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391912/a85f71.jpg" group-title="Upcoming",Man Utd vs Bournemouth - Premier League (20:30 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -100,11 +92,11 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/NN3ppeoVmm7z3x7pX9L11Up27pI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391908/23707a.jpg" group-title="Upcoming",Hull City vs Brentford - Premier League (20:50 WIB * 25-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0cKTMQ-tGXEWGHo9l4KZYijERwo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391907/3e48dc.jpg" group-title="Upcoming",Crystal Palace vs Newcastle - Premier League (20:50 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0cKTMQ-tGXEWGHo9l4KZYijERwo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391907/3e48dc.jpg" group-title="Upcoming",Crystal Palace vs Newcastle - Premier League (20:50 WIB * 25-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/NN3ppeoVmm7z3x7pX9L11Up27pI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391908/23707a.jpg" group-title="Upcoming",Hull City vs Brentford - Premier League (20:50 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -128,11 +120,11 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/R-xPJvdW8kvPBH7ZuoayzP2GIo4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399459/8bb53e.jpg" group-title="Upcoming",Goztepe vs Corum - Trendyol Super Lig (22:55 WIB * 25-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/TSUfm1CPgKvrFJqxV39JES1QP6o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399472/e09142.jpg" group-title="Upcoming",Fenerbahce Medicana vs Eczacibasi Peron Istanbul - Turkish Women's Volleyball League (22:55 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/TSUfm1CPgKvrFJqxV39JES1QP6o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399472/e09142.jpg" group-title="Upcoming",Fenerbahce Medicana vs Eczacibasi Peron Istanbul - Turkish Women's Volleyball League (22:55 WIB * 25-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/R-xPJvdW8kvPBH7ZuoayzP2GIo4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399459/8bb53e.jpg" group-title="Upcoming",Goztepe vs Corum - Trendyol Super Lig (22:55 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -156,11 +148,11 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/S7EIZuyVI9NWlObstxvKZ3KiS8M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5393760/4f95f9.jpg" group-title="Upcoming",Sunderland vs Leeds United - Premier League (23:10 WIB * 25-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/3cl351jh624iBWlTeS6tJ8oa9ug=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391815/f41f7e.jpg" group-title="Upcoming",Olympique de Marseille vs Havre AC - Ligue 1 (23:10 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/3cl351jh624iBWlTeS6tJ8oa9ug=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391815/f41f7e.jpg" group-title="Upcoming",Olympique de Marseille vs Havre AC - Ligue 1 (23:10 WIB * 25-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/S7EIZuyVI9NWlObstxvKZ3KiS8M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5393760/4f95f9.jpg" group-title="Upcoming",Sunderland vs Leeds United - Premier League (23:10 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
