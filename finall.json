@@ -5,8 +5,8 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22641&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjQxIiwiZXhwIjoxNzkzMDE1NTE0fQ.i5R-PNScBNv0jJi5R9Q6YOxVaEJQsmG5xNsyD16e_8g
-https://vidkon.biz.id/post.mpd?id=22641&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjQxIiwiZXhwIjoxNzkzMDE1NTE0fQ.i5R-PNScBNv0jJi5R9Q6YOxVaEJQsmG5xNsyD16e_8g
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22641&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjQxIiwiZXhwIjoxNzkzMDE2MDM2fQ.K4BymLN5Df0IDhX0PPqSSMhQoBZ8PzIkLKaFxuyItQc
+https://vidkon.biz.id/post.mpd?id=22641&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjQxIiwiZXhwIjoxNzkzMDE2MDM2fQ.K4BymLN5Df0IDhX0PPqSSMhQoBZ8PzIkLKaFxuyItQc
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Qx708tJ-8OQzapb6ZDDVH02ix48=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-french-open-2026-finals-653e86.jpg" group-title="Live Now",Yuki Fukushima/Mayu Matsumoto (JPN) vs Pearly Tan/Thinaah Muralitharan (MAS) - Women's Doubles Final | YONEX French Open 2026 (17:00 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -14,8 +14,8 @@ https://vidkon.biz.id/post.mpd?id=22641&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18249&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNDksImV4cCI6MTc5MzAxNTUxNH0.3JL4sDm1_yDqmvGEeZlSoiOXAsSiCs-Amzou6r70ddY
-https://vidkon.biz.id/post.mpd?id=18249&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNDksImV4cCI6MTc5MzAxNTUxNH0.3JL4sDm1_yDqmvGEeZlSoiOXAsSiCs-Amzou6r70ddY
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=18249&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNDksImV4cCI6MTc5MzAxNjAzNn0.yOS13Awk5X_dKwRfS_nAPv0AlgrcuBA7bN7TZImtEcg
+https://vidkon.biz.id/post.mpd?id=18249&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTgyNDksImV4cCI6MTc5MzAxNjAzNn0.yOS13Awk5X_dKwRfS_nAPv0AlgrcuBA7bN7TZImtEcg
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/_PcqH0cDGvJVRyNYRIXTDS6Lv-A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399486/9e6c97.png" group-title="Live Now",Daniil Medvedev vs Nikoloz Basilashvili - Finals | ATP 250: Almaty Open 2026 (17:00 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -23,8 +23,8 @@ https://vidkon.biz.id/post.mpd?id=18249&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20884&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkzMDE1NTE0fQ.spDhyVy1rBL9W-C4prILwIb8Ry5nNimCBoa9J_XboXc
-https://vidkon.biz.id/post.mpd?id=20884&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkzMDE1NTE0fQ.spDhyVy1rBL9W-C4prILwIb8Ry5nNimCBoa9J_XboXc
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20884&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkzMDE2MDM2fQ.SNTErOQbA36hA-liBXVJhJeTiEE5URUkiJuEC09MwBo
+https://vidkon.biz.id/post.mpd?id=20884&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkzMDE2MDM2fQ.SNTErOQbA36hA-liBXVJhJeTiEE5URUkiJuEC09MwBo
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/WcKc0o3oRBgPKPYdW_QQfrHcKOA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399471/f6a0c4.jpg" group-title="Live Now",Vakifbank vs Galatasaray Daikin - Turkish Women's Volleyball League (17:55 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -32,8 +32,8 @@ https://vidkon.biz.id/post.mpd?id=20884&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20654&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNjU0IiwiZXhwIjoxNzkzMDE1NTE0fQ.QTnlll-GaWkU6TEY-ER0In11bWMjhGgnnT1eBxlc4TQ
-https://vidkon.biz.id/post.mpd?id=20654&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNjU0IiwiZXhwIjoxNzkzMDE1NTE0fQ.QTnlll-GaWkU6TEY-ER0In11bWMjhGgnnT1eBxlc4TQ
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20654&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNjU0IiwiZXhwIjoxNzkzMDE2MDM2fQ.yCUVp-Y9ul8NG5CdjIeznomX-onWCy9IaKo8WcwP9Lk
+https://vidkon.biz.id/post.mpd?id=20654&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNjU0IiwiZXhwIjoxNzkzMDE2MDM2fQ.yCUVp-Y9ul8NG5CdjIeznomX-onWCy9IaKo8WcwP9Lk
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/3XirLDpVGF8ZdUMQubZW_uBYz40=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5393886/940436.jpg" group-title="Live Now",Inter vs Fiorentina - Serie A (18:15 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -41,8 +41,8 @@ https://vidkon.biz.id/post.mpd?id=20654&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTMwMTU1MTR9.7cFh7EMWhJTxLBFdeylwvd1IMjJ-lwhzOkHFhcOkhhk
-https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTMwMTU1MTR9.7cFh7EMWhJTxLBFdeylwvd1IMjJ-lwhzOkHFhcOkhhk
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTMwMTYwMzZ9.eOylHxSzIbkfOaYlutvrNzGYiBRg3See7MhMKH7sAok
+https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTMwMTYwMzZ9.eOylHxSzIbkfOaYlutvrNzGYiBRg3See7MhMKH7sAok
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/-r9RlO5EMJGMsV76Mr9GVrrCACA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5392296/ac87c9.jpg" group-title="Live Now",Garudayaksa FC vs PERSIB - BRI Super League (18:36 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -50,8 +50,8 @@ https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22207&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA3IiwiZXhwIjoxNzkzMDE1NTE0fQ.vQ5xL-S5S8AiZvJ9St_0XkHyWbuytiVrxZMnwY-ZhKI
-https://vidkon.biz.id/post.mpd?id=22207&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA3IiwiZXhwIjoxNzkzMDE1NTE0fQ.vQ5xL-S5S8AiZvJ9St_0XkHyWbuytiVrxZMnwY-ZhKI
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22207&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA3IiwiZXhwIjoxNzkzMDE2MDM2fQ.SIIIZGfda6klXbLBKVsEbh0Sjbpg-_IZhTtY56dPpDo
+https://vidkon.biz.id/post.mpd?id=22207&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA3IiwiZXhwIjoxNzkzMDE2MDM2fQ.SIIIZGfda6klXbLBKVsEbh0Sjbpg-_IZhTtY56dPpDo
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/bvP-lhSn0iY4XgVqIvzLTQ4I0oY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399422/263be4.jpg" group-title="Live Now",Crystal Palace vs Chelsea - Women's Super League (18:50 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -59,12 +59,17 @@ https://vidkon.biz.id/post.mpd?id=22207&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=17875&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkzMDE1NTE0fQ.ilGSbz3nV9tH75WcT-xsilR289GBXcWl7d-_iTEO0kg
-https://vidkon.biz.id/post.mpd?id=17875&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkzMDE1NTE0fQ.ilGSbz3nV9tH75WcT-xsilR289GBXcWl7d-_iTEO0kg
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=17875&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkzMDE2MDM2fQ.ikzCnmXLmfYQ4kWl8M6xuXsVJ5vantVaZfOoaW_WQic
+https://vidkon.biz.id/post.mpd?id=17875&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkzMDE2MDM2fQ.ikzCnmXLmfYQ4kWl8M6xuXsVJ5vantVaZfOoaW_WQic
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/bSVszK-J7E-OaGlw2CTDLwMZg8o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5392299/fd5cbf.jpg" group-title="Upcoming",PSMS Medan vs PSIS Semarang - Pegadaian Championship (18:52 WIB * 25-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/bSVszK-J7E-OaGlw2CTDLwMZg8o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5392299/fd5cbf.jpg" group-title="Live Now",PSMS Medan vs PSIS Semarang - Pegadaian Championship (18:52 WIB * 25-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22261&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjYxIiwiZXhwIjoxNzkzMDE2MDM2fQ.0az-Jp4OpBFIqri-YEPlvH2rFcnssl71bQ_7cGatadQ
+https://vidkon.biz.id/post.mpd?id=22261&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjYxIiwiZXhwIjoxNzkzMDE2MDM2fQ.0az-Jp4OpBFIqri-YEPlvH2rFcnssl71bQ_7cGatadQ
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/O6GQbqeyLupMB_a5egtsIRZ_fDI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5394543/8cfd38.jpg" group-title="Upcoming",Athletic Club vs Getafe - LaLiga (19:55 WIB * 25-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
