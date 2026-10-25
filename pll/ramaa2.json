@@ -1,35 +1,3 @@
-#EXTINF:-1 tvg-id="Vision+" group-title="LaLiga 2 2026/27" tvg-logo="https://www.visionplus.id/images/repository/733/828733-SNAPSHOT-m.jpg" ch-number="1",LaLiga 2 2026/27: Sabadell vs Tenerife [25 Oct 2026 19:52 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=124
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=124
-
-#EXTINF:-1 tvg-id="Vision+" group-title="LaLiga 2 2026/27" tvg-logo="https://www.visionplus.id/images/repository/733/828733-SNAPSHOT-m.jpg" ch-number="1",LaLiga 2 2026/27: Sabadell vs Tenerife [25 Oct 2026 19:52 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=124
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=124
-
-#EXTINF:-1 tvg-id="Vision+" group-title="LaLiga 2026/27" tvg-logo="https://www.visionplus.id/images/repository/503/828503-SNAPSHOT-m.jpg" ch-number="2",LaLiga 2026/27: Athletic Bilbao vs Getafe [25 Oct 2026 19:55 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=122
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=122
-
-#EXTINF:-1 tvg-id="Vision+" group-title="LaLiga 2026/27" tvg-logo="https://www.visionplus.id/images/repository/503/828503-SNAPSHOT-m.jpg" ch-number="2",LaLiga 2026/27: Athletic Bilbao vs Getafe [25 Oct 2026 19:55 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=122
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=122
-
 #EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/088/827088-SNAPSHOT-m.jpg" ch-number="1",AFC Champions League Two 2026/27: Al Seeb Club (OMA) vs East Bengal FC (IND) [27 Oct 2026 23:00 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -62,7 +30,7 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=115
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=115
 
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/533/828533-SNAPSHOT-m.jpg" ch-number="3",LaLiga 2026/27: Celta Vigo vs Real Betis [25 Oct 2026 22:10 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/533/828533-SNAPSHOT-m.jpg" ch-number="1",LaLiga 2026/27: Celta Vigo vs Real Betis [25 Oct 2026 22:10 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -70,7 +38,7 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=115
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
 
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/533/828533-SNAPSHOT-m.jpg" ch-number="3",LaLiga 2026/27: Celta Vigo vs Real Betis [25 Oct 2026 22:10 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/533/828533-SNAPSHOT-m.jpg" ch-number="1",LaLiga 2026/27: Celta Vigo vs Real Betis [25 Oct 2026 22:10 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -78,7 +46,7 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
 
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/741/828741-SNAPSHOT-m.jpg" ch-number="4",LaLiga 2026/27: Real Sociedad vs Levante [26 Oct 2026 00:25 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/741/828741-SNAPSHOT-m.jpg" ch-number="2",LaLiga 2026/27: Real Sociedad vs Levante [26 Oct 2026 00:25 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -86,7 +54,7 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
 
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/741/828741-SNAPSHOT-m.jpg" ch-number="4",LaLiga 2026/27: Real Sociedad vs Levante [26 Oct 2026 00:25 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/741/828741-SNAPSHOT-m.jpg" ch-number="2",LaLiga 2026/27: Real Sociedad vs Levante [26 Oct 2026 00:25 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -94,7 +62,7 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
 
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/764/828764-SNAPSHOT-m.jpg" ch-number="5",LaLiga 2026/27: Barcelona vs Real Madrid [26 Oct 2026 02:55 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/764/828764-SNAPSHOT-m.jpg" ch-number="3",LaLiga 2026/27: Barcelona vs Real Madrid [26 Oct 2026 02:55 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -102,7 +70,7 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
 
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/764/828764-SNAPSHOT-m.jpg" ch-number="5",LaLiga 2026/27: Barcelona vs Real Madrid [26 Oct 2026 02:55 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/764/828764-SNAPSHOT-m.jpg" ch-number="3",LaLiga 2026/27: Barcelona vs Real Madrid [26 Oct 2026 02:55 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -110,7 +78,7 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
 
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/887/828887-SNAPSHOT-m.jpg" ch-number="6",LaLiga 2026/27: Sevilla vs Osasuna [27 Oct 2026 02:55 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/887/828887-SNAPSHOT-m.jpg" ch-number="4",LaLiga 2026/27: Sevilla vs Osasuna [27 Oct 2026 02:55 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -118,7 +86,7 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=122
 
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/887/828887-SNAPSHOT-m.jpg" ch-number="6",LaLiga 2026/27: Sevilla vs Osasuna [27 Oct 2026 02:55 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/887/828887-SNAPSHOT-m.jpg" ch-number="4",LaLiga 2026/27: Sevilla vs Osasuna [27 Oct 2026 02:55 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
