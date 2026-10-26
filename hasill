@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/L-j9-ZlYy63fkJOEo0xBPHcPguU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5401037/4fc4cb.jpg" group-title="LIVE EVENT",Dominic Stricker vs Casper Ruud - Round 1 | ATP 500: Swiss Indoors Basel 2026 (02:00 WIB * 27-10-2026) - BG
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20884&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkzMTM4NDM2fQ.nqA326FLqUgTHS6Up46Qjl1byUWP3hwKjAhtJ_bnhXQ
-https://vidkon.biz.id/post.mpd?id=20884&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkzMTM4NDM2fQ.nqA326FLqUgTHS6Up46Qjl1byUWP3hwKjAhtJ_bnhXQ
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/lAIGLy7kOCy2CVutlBx9Bsz2zWo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399889/b5bbbe.jpg" group-title="LIVE EVENT",Sevilla vs Osasuna - LaLiga (02:55 WIB * 27-10-2026) - BG
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6299&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYyOTkiLCJleHAiOjE3OTMxMzg0MzZ9.64yUhix5dcHfLsIQrW9xbAbvYYMwQzUOZF6egDYOQ8U
-https://vidkon.biz.id/post.mpd?id=6299&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYyOTkiLCJleHAiOjE3OTMxMzg0MzZ9.64yUhix5dcHfLsIQrW9xbAbvYYMwQzUOZF6egDYOQ8U
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/p8PNTfEAdE3OBScef77iauFyaXs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5400896/547551.jpg" group-title="LIVE EVENT",Dallas Cowboys vs Philadelphia Eagles - NFL (07:05 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
@@ -45,7 +29,7 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/_Yw7EZKmbIJM0xAh3YQYgbcJvBg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/hylo-open-2026-qualifiers-r32-court-3-4415e3.png" group-title="LIVE EVENT",HYLO Open 2026 - Qualifiers + R32 (Court 3) (14:00 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/P9zvwd0Wl1EnGes3Ej5a3gZcCTg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5401959/bb0401.png" group-title="LIVE EVENT",Naomi Osaka vs Jasmine Paolini - Round of 32 | WTA 500: Toray Pan Pacific Open Tennis 2026 (15:00 WIB * 27-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/cL4m7w2cio0tuQt3jM9SWxdbyvo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5402129/f3021f.jpg" group-title="LIVE EVENT",Putri: STIES MIKAR vs UPI - Liga Voli Mahasiswa (15:00 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/3ogTdDSzgVl_9Ayn6rU7oMEHAzY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5401952/89f058.jpg" group-title="LIVE EVENT",Putra 60 Kg - Grup A (15:00 WIB * 27-10-2026) - BG
@@ -54,7 +38,7 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/TYvXCC7rRGM0QKL2LycLwaQD2Uc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399895/bb7950.jpg" group-title="LIVE EVENT",PSS Sleman vs Borneo FC Samarinda - BRI Super League (15:00 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/cL4m7w2cio0tuQt3jM9SWxdbyvo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5402129/f3021f.jpg" group-title="LIVE EVENT",Putri: STIES MIKAR vs UPI - Liga Voli Mahasiswa (15:00 WIB * 27-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/P9zvwd0Wl1EnGes3Ej5a3gZcCTg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5401959/bb0401.png" group-title="LIVE EVENT",Naomi Osaka vs Jasmine Paolini - Round of 32 | WTA 500: Toray Pan Pacific Open Tennis 2026 (15:00 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/PN7_H2gdYvkD7rOsXz5QmzPAUYY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399771/308b06.png" group-title="LIVE EVENT",Kuwait Major Premier Padel 2026 - Day 3 (16:00 WIB * 27-10-2026) - BG
@@ -63,10 +47,10 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/FTaiYJ92KpEj5i3QQGdzk1oBP6c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5402130/f521b3.jpg" group-title="LIVE EVENT",Putra: BLU vs IPB - Liga Voli Mahasiswa (17:00 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1XWuL2cHyWcO8ytdpUMWnW0i7Fc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5401945/6b60ce.jpg" group-title="LIVE EVENT",Putri 49 Kg - Grup A (18:00 WIB * 27-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/BtyIzQNXYUBcjVeSkHeRZMYARuk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5403302/66dc69.jpg" group-title="LIVE EVENT",Hubert Hurkacz vs Zizou Bergs - Round 1 (IWB Court 1) | ATP 500: Swiss Indoors Basel 2026 (18:00 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/BtyIzQNXYUBcjVeSkHeRZMYARuk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5403302/66dc69.jpg" group-title="LIVE EVENT",Hubert Hurkacz vs Zizou Bergs - Round 1 (IWB Court 1) | ATP 500: Swiss Indoors Basel 2026 (18:00 WIB * 27-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1XWuL2cHyWcO8ytdpUMWnW0i7Fc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5401945/6b60ce.jpg" group-title="LIVE EVENT",Putri 49 Kg - Grup A (18:00 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/qy9ZZ2Yg8sMlaXzuFrmpy-x0E8Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399893/fa5911.jpg" group-title="LIVE EVENT",Sungurlu Belediye Spor vs Galatasaray - Turkish Men's Volleyball League (19:55 WIB * 27-10-2026) - BG
