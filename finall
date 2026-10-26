@@ -5,8 +5,8 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTMwNjkxMjZ9.nEp9x_YhZmU9xJup5hrNGdxt9MtKpr95ONUSJGMXKQI
-https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTMwNjkxMjZ9.nEp9x_YhZmU9xJup5hrNGdxt9MtKpr95ONUSJGMXKQI
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTMwNzAwMzl9.F-MKU3yLZVZSg4vE98ZeduakRn-TmUI6Yk4xRz8cSdE
+https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTMwNzAwMzl9.F-MKU3yLZVZSg4vE98ZeduakRn-TmUI6Yk4xRz8cSdE
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Se_H5aaZdnj7vCAHflpRp_xXqRU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399768/389801.png" group-title="Live Now",Day 1 - WTA 500: Toray Pan Pacific Open Tennis 2026 (08:30 WIB * 26-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -14,8 +14,8 @@ https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6685&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY2ODUiLCJleHAiOjE3OTMwNjkxMjZ9.gO1zk2Mmp8N24wvtDr4XwOCz3mtuYBhIZzr6_GQ5MFc
-https://vidkon.biz.id/post.mpd?id=6685&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY2ODUiLCJleHAiOjE3OTMwNjkxMjZ9.gO1zk2Mmp8N24wvtDr4XwOCz3mtuYBhIZzr6_GQ5MFc
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6685&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY2ODUiLCJleHAiOjE3OTMwNzAwMzl9.sy697YvPCLmwtQC2kfWUNBTc1-P5BR4BCqf76LmwR-s
+https://vidkon.biz.id/post.mpd?id=6685&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY2ODUiLCJleHAiOjE3OTMwNzAwMzl9.sy697YvPCLmwtQC2kfWUNBTc1-P5BR4BCqf76LmwR-s
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/J_IrbsJU66NLs7gLfrb_lNnv9es=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399770/06ffdb.png" group-title="Upcoming",Kuwait Major Premier Padel 2026 - Day 2 (16:00 WIB * 26-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -29,6 +29,10 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ISNhueISzA_MA5mdtCYkQxVYE3U=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg" group-title="Upcoming",Kuwait Major Premier Padel 2026 - Day 2 (18:30 WIB * 26-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/DMxUWxVMg7BqiVBP1nPlJ6eH6rw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399461/d42f50.jpg" group-title="Upcoming",Bhayangkara Presisi Lampung FC vs PSM Makassar - BRI Super League (18:52 WIB * 26-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
@@ -37,11 +41,11 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/aZ5sMC6EFmXTuVR3b_QvUN2TvLY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5401035/f6749c.jpg" group-title="Upcoming",Valentin Vacherot vs Mariano Navone - Round 1 | ATP 500: Swiss Indoors Basel 2026 (19:30 WIB * 26-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/HrfKEXayug2Mn-pN-hUpMetDins=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5400936/d08579.png" group-title="Upcoming",Matteo Berrettini vs Tomas Martin Etcheverry - Round 1 | ATP 500: Erste Bank Open 2026 (19:30 WIB * 26-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/HrfKEXayug2Mn-pN-hUpMetDins=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5400936/d08579.png" group-title="Upcoming",Matteo Berrettini vs Tomas Martin Etcheverry - Round 1 | ATP 500: Erste Bank Open 2026 (19:30 WIB * 26-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/aZ5sMC6EFmXTuVR3b_QvUN2TvLY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5401035/f6749c.jpg" group-title="Upcoming",Valentin Vacherot vs Mariano Navone - Round 1 | ATP 500: Swiss Indoors Basel 2026 (19:30 WIB * 26-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
