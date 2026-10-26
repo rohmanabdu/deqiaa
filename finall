@@ -5,8 +5,8 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTMwNjY0Mzh9.BrZDv9IfxURgm9jlAlET0RXQSDKiiVKFjWIPwCEEeQI
-https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTMwNjY0Mzh9.BrZDv9IfxURgm9jlAlET0RXQSDKiiVKFjWIPwCEEeQI
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTMwNjczMzB9.a4weqRik1YaLd1Xb2PwI4Oh5JZ9PLyh9rC6fwqpCmbc
+https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTMwNjczMzB9.a4weqRik1YaLd1Xb2PwI4Oh5JZ9PLyh9rC6fwqpCmbc
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Se_H5aaZdnj7vCAHflpRp_xXqRU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399768/389801.png" group-title="Live Now",Day 1 - WTA 500: Toray Pan Pacific Open Tennis 2026 (08:30 WIB * 26-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -14,8 +14,8 @@ https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6685&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY2ODUiLCJleHAiOjE3OTMwNjY0Mzh9.zNN5YDQibBzv8f3mpKcOcp2l17iNjiufPmmSyfggaOk
-https://vidkon.biz.id/post.mpd?id=6685&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY2ODUiLCJleHAiOjE3OTMwNjY0Mzh9.zNN5YDQibBzv8f3mpKcOcp2l17iNjiufPmmSyfggaOk
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6685&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY2ODUiLCJleHAiOjE3OTMwNjczMzB9.v21jGULJN1IECjO3uN0WHmpIGcyzaPH7iG4qYzb1LnE
+https://vidkon.biz.id/post.mpd?id=6685&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY2ODUiLCJleHAiOjE3OTMwNjczMzB9.v21jGULJN1IECjO3uN0WHmpIGcyzaPH7iG4qYzb1LnE
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/J_IrbsJU66NLs7gLfrb_lNnv9es=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399770/06ffdb.png" group-title="Upcoming",Kuwait Major Premier Padel 2026 - Day 2 (16:00 WIB * 26-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -25,15 +25,15 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/7EIRqoLnhxwBrB_tLbqGNkYVJ3U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399463/4d6ce1.jpg" group-title="Upcoming",PERSIJA vs PERSIK Kediri - BRI Super League (18:30 WIB * 26-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/DMxUWxVMg7BqiVBP1nPlJ6eH6rw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399461/d42f50.jpg" group-title="Upcoming",Bhayangkara Presisi Lampung FC vs PSM Makassar - BRI Super League (18:52 WIB * 26-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/PT-HZoPs2mhh4gVihlHe2ch3Siw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399462/c0b080.jpg" group-title="Upcoming",PERSEBAYA Surabaya vs Madura United FC - BRI Super League (18:52 WIB * 26-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/7EIRqoLnhxwBrB_tLbqGNkYVJ3U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399463/4d6ce1.jpg" group-title="Upcoming",PERSIJA vs PERSIK Kediri - BRI Super League (19:00 WIB * 26-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
