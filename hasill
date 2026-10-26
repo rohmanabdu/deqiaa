@@ -5,56 +5,56 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=17875&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkzMTIyMjMyfQ.ffc5Fdcbu102pmB1t7ZV9EG0hF8ebRO9o4C1Wll5DuQ
-https://vidkon.biz.id/post.mpd?id=17875&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkzMTIyMjMyfQ.ffc5Fdcbu102pmB1t7ZV9EG0hF8ebRO9o4C1Wll5DuQ
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=17875&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkzMTIzMTI3fQ.JBG_KrmlQAu7u3cRsTEK3YTDJSorGsy_OFzXuyx50QE
+https://vidkon.biz.id/post.mpd?id=17875&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkzMTIzMTI3fQ.JBG_KrmlQAu7u3cRsTEK3YTDJSorGsy_OFzXuyx50QE
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0cylr4tgZIqg20j_mO5zlV7tL5Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5401036/31b34b.jpg" group-title="LIVE EVENT",Holger Rune vs Quentin Halys - Round 1 | ATP 500: Swiss Indoors Basel 2026 (21:46 WIB * 26-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20884&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkzMTIyMjMyfQ.DvFK_OYfdZ42T0p_aNVVfIcqBGBUeYa6eZUFqPrskEg
-https://vidkon.biz.id/post.mpd?id=20884&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkzMTIyMjMyfQ.DvFK_OYfdZ42T0p_aNVVfIcqBGBUeYa6eZUFqPrskEg
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20884&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkzMTIzMTI3fQ.f3HzITCKn3cYwkCZjcylvt6gCY9KLceDIHVTUSyNAY8
+https://vidkon.biz.id/post.mpd?id=20884&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkzMTIzMTI3fQ.f3HzITCKn3cYwkCZjcylvt6gCY9KLceDIHVTUSyNAY8
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/t2thXrA8kEmCZDlg3fkmVpj0Qbk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399887/977d30.jpg" group-title="LIVE EVENT",Besiktas vs Istanbul Basaksehir - Trendyol Super Lig (22:55 WIB * 26-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6317&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYzMTciLCJleHAiOjE3OTMxMjIyMzJ9.-H8IiCU7IyIrxIptCMgZ-3xNVXJKTYeNAVNu-OIMspY
-https://vidkon.biz.id/post.mpd?id=6317&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYzMTciLCJleHAiOjE3OTMxMjIyMzJ9.-H8IiCU7IyIrxIptCMgZ-3xNVXJKTYeNAVNu-OIMspY
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6317&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYzMTciLCJleHAiOjE3OTMxMjMxMjd9.imwadLCChVpBn8LZagz_ctw4sxGiof1iGNM7okXV8D8
+https://vidkon.biz.id/post.mpd?id=6317&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYzMTciLCJleHAiOjE3OTMxMjMxMjd9.imwadLCChVpBn8LZagz_ctw4sxGiof1iGNM7okXV8D8
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/G2FdOfM4iewD0ie5mxLFs6YiRWc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399890/5c3d43.jpg" group-title="LIVE EVENT",Rizespor vs Trabzonspor - Trendyol Super Lig (22:55 WIB * 26-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6299&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYyOTkiLCJleHAiOjE3OTMxMjIyMzJ9.xUzVxJ0Yt83YloCJoiWapfWgqeBRwJzOi5uwo595-Jo
-https://vidkon.biz.id/post.mpd?id=6299&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYyOTkiLCJleHAiOjE3OTMxMjIyMzJ9.xUzVxJ0Yt83YloCJoiWapfWgqeBRwJzOi5uwo595-Jo
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6299&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYyOTkiLCJleHAiOjE3OTMxMjMxMjd9.ULbgB5Fyw7H5LOudJviFZfIf6XtcSbF923swre2Pknw
+https://vidkon.biz.id/post.mpd?id=6299&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYyOTkiLCJleHAiOjE3OTMxMjMxMjd9.ULbgB5Fyw7H5LOudJviFZfIf6XtcSbF923swre2Pknw
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/dLpGrN2fBxfZgft5PvxVy0Irzqk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5400938/a782e2.png" group-title="LIVE EVENT",Jakub Mensik vs Lukas Neumayer - Round 1 | ATP 500: Erste Bank Open 2026 (23:35 WIB * 26-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20886&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkzMTIyMjMyfQ.5rJJciDNhGlrYD-OvEzimc8rJ0f4yxjDPs5CR_mdCnA
-https://vidkon.biz.id/post.mpd?id=20886&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkzMTIyMjMyfQ.5rJJciDNhGlrYD-OvEzimc8rJ0f4yxjDPs5CR_mdCnA
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20886&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkzMTIzMTI3fQ.Cl1A9hCCP18jJ27AbKSg2FuPhMuevDNhHJ5VzFfVnj8
+https://vidkon.biz.id/post.mpd?id=20886&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkzMTIzMTI3fQ.Cl1A9hCCP18jJ27AbKSg2FuPhMuevDNhHJ5VzFfVnj8
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/wq0AE_MaUvtQam8ROlFwH7cP_OM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5401041/8cd8d6.jpg" group-title="LIVE EVENT",Kevin Krawietz/Tim Puetz vs Jakob Schnaitter/Mark Wallner - Round 1 (IWB Court 1) | ATP 500: Swiss Indoors Basel 2026 (23:52 WIB * 26-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20885&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkzMTIyMjMyfQ.gt8Jn36C0GAdokRtc2bR-8_rMWvNPjJ55iXXBEIRlYg
-https://vidkon.biz.id/post.mpd?id=20885&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkzMTIyMjMyfQ.gt8Jn36C0GAdokRtc2bR-8_rMWvNPjJ55iXXBEIRlYg
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20885&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkzMTIzMTI3fQ.p4-_zO2ucIVqNhuWkiBNUlNroRFspwoYqqv8vAogkv4
+https://vidkon.biz.id/post.mpd?id=20885&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkzMTIzMTI3fQ.p4-_zO2ucIVqNhuWkiBNUlNroRFspwoYqqv8vAogkv4
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/guew0gf4rOWQ1F17uIzekaCzkhE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5400943/4d2a18.png" group-title="LIVE EVENT",Luciano Darderi vs Matteo Arnaldi - Round 1 (Glaubandich Court) | ATP 500: Erste Bank Open 2026 (00:10 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20887&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg3IiwiZXhwIjoxNzkzMTIyMjMyfQ.4sCetXwqbJlgim3ejqBamQAtJ8TkVkiGflWIUQBOMF0
-https://vidkon.biz.id/post.mpd?id=20887&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg3IiwiZXhwIjoxNzkzMTIyMjMyfQ.4sCetXwqbJlgim3ejqBamQAtJ8TkVkiGflWIUQBOMF0
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20887&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg3IiwiZXhwIjoxNzkzMTIzMTI3fQ.ZuaYlO-4E1RZcorNpfmSwYvDq0mikiaua9EZO8d79nQ
+https://vidkon.biz.id/post.mpd?id=20887&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg3IiwiZXhwIjoxNzkzMTIzMTI3fQ.ZuaYlO-4E1RZcorNpfmSwYvDq0mikiaua9EZO8d79nQ
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/aqCsO2khZwugApqlXO4rdSpqMVI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399888/ccb6c8.jpg" group-title="LIVE EVENT",Galatasaray vs Fenerbahce - Trendyol Super Lig (01:25 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
