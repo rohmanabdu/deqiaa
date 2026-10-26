@@ -1,7 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0U1hGJAE9qSPHOjTsj0y0rvVolQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5400270/cf7a74.jpg" group-title="Upcoming",Kansas City Chiefs vs Seattle Seahawks - NFL (07:10 WIB * 26-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0U1hGJAE9qSPHOjTsj0y0rvVolQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5400270/cf7a74.jpg" group-title="Live Now",Kansas City Chiefs vs Seattle Seahawks - NFL (07:10 WIB * 26-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTMwNjAxMjd9.BHy6qwVvPtrAPMf4IC9SGeuM3CIkW_06r79O8HcY7Ns
+https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTMwNjAxMjd9.BHy6qwVvPtrAPMf4IC9SGeuM3CIkW_06r79O8HcY7Ns
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Se_H5aaZdnj7vCAHflpRp_xXqRU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399768/389801.png" group-title="Upcoming",Day 1 - WTA 500: Toray Pan Pacific Open Tennis 2026 (08:30 WIB * 26-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
