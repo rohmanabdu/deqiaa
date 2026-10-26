@@ -5,43 +5,40 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=17875&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkzMTI2NzI4fQ.eRO-pcO4FvWTkq2E3DLhkG79TGm342_gA_I2xqGTrIA
-https://vidkon.biz.id/post.mpd?id=17875&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkzMTI2NzI4fQ.eRO-pcO4FvWTkq2E3DLhkG79TGm342_gA_I2xqGTrIA
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/wq0AE_MaUvtQam8ROlFwH7cP_OM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5401041/8cd8d6.jpg" group-title="LIVE EVENT",Kevin Krawietz/Tim Puetz vs Jakob Schnaitter/Mark Wallner - Round 1 (IWB Court 1) | ATP 500: Swiss Indoors Basel 2026 (23:52 WIB * 26-10-2026) - BG
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20885&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkzMTI2NzI4fQ.FYDGchxl-nUlN0Dru598-SWBTK7h07-KEPl3ls7xbmY
-https://vidkon.biz.id/post.mpd?id=20885&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkzMTI2NzI4fQ.FYDGchxl-nUlN0Dru598-SWBTK7h07-KEPl3ls7xbmY
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=17875&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkzMTI3NjQwfQ.PSGAyRdcxpYl_S-SG3cVsVF5IdSYzNaAusEopFtFi-c
+https://vidkon.biz.id/post.mpd?id=17875&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkzMTI3NjQwfQ.PSGAyRdcxpYl_S-SG3cVsVF5IdSYzNaAusEopFtFi-c
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/guew0gf4rOWQ1F17uIzekaCzkhE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5400943/4d2a18.png" group-title="LIVE EVENT",Luciano Darderi vs Matteo Arnaldi - Round 1 (Glaubandich Court) | ATP 500: Erste Bank Open 2026 (00:10 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20887&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg3IiwiZXhwIjoxNzkzMTI2NzI4fQ.P5pZVl3-rN2V0n6fRy43ZCFtopYOM1C12jxBk8lpWW4
-https://vidkon.biz.id/post.mpd?id=20887&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg3IiwiZXhwIjoxNzkzMTI2NzI4fQ.P5pZVl3-rN2V0n6fRy43ZCFtopYOM1C12jxBk8lpWW4
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20887&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg3IiwiZXhwIjoxNzkzMTI3NjQwfQ.k4j661ZPE0XEd0zM2wcZrUc6TNwnF8Ipz1tpHsa9GnQ
+https://vidkon.biz.id/post.mpd?id=20887&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg3IiwiZXhwIjoxNzkzMTI3NjQwfQ.k4j661ZPE0XEd0zM2wcZrUc6TNwnF8Ipz1tpHsa9GnQ
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/VRTvUwr5R8AXrvdn1_Fums-c0tc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5400939/08d061.png" group-title="LIVE EVENT",Luca Van Assche vs Learner Tien - Round 1 | ATP 500: Erste Bank Open 2026 (01:00 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20886&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkzMTI2NzI4fQ.HhWzVpLTiOat-JqPk6ndhFsRy9mmFPzPBm36dt0dj1M
-https://vidkon.biz.id/post.mpd?id=20886&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkzMTI2NzI4fQ.HhWzVpLTiOat-JqPk6ndhFsRy9mmFPzPBm36dt0dj1M
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20886&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkzMTI3NjQwfQ.oLojSd1jxrMq_p0xaWZrR-QpSL_EJKQgduoJ3hj4K38
+https://vidkon.biz.id/post.mpd?id=20886&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkzMTI3NjQwfQ.oLojSd1jxrMq_p0xaWZrR-QpSL_EJKQgduoJ3hj4K38
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/aqCsO2khZwugApqlXO4rdSpqMVI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399888/ccb6c8.jpg" group-title="LIVE EVENT",Galatasaray vs Fenerbahce - Trendyol Super Lig (01:25 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6317&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYzMTciLCJleHAiOjE3OTMxMjY3Mjh9.6djNdStUiEBfp2f0eqW3NMCsVdh8Qz_YD5AdRYBRcZ4
-https://vidkon.biz.id/post.mpd?id=6317&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYzMTciLCJleHAiOjE3OTMxMjY3Mjh9.6djNdStUiEBfp2f0eqW3NMCsVdh8Qz_YD5AdRYBRcZ4
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/L-j9-ZlYy63fkJOEo0xBPHcPguU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5401037/4fc4cb.jpg" group-title="LIVE EVENT",Dominic Stricker vs Casper Ruud - Round 1 | ATP 500: Swiss Indoors Basel 2026 (02:00 WIB * 27-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6317&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYzMTciLCJleHAiOjE3OTMxMjc2NDB9.diRPe3FBWQ7HRC8mABcRHrRxyfrWKiW1-x2GOmJwp_A
+https://vidkon.biz.id/post.mpd?id=6317&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYzMTciLCJleHAiOjE3OTMxMjc2NDB9.diRPe3FBWQ7HRC8mABcRHrRxyfrWKiW1-x2GOmJwp_A
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/L-j9-ZlYy63fkJOEo0xBPHcPguU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5401037/4fc4cb.jpg" group-title="LIVE EVENT",Dominic Stricker vs Casper Ruud - Round 1 | ATP 500: Swiss Indoors Basel 2026 (02:00 WIB * 27-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20884&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkzMTI3NjQwfQ.P19n9OI5Azes8c1KYdnAQzerXYwLX7t2-CfAuNrNQ3o
+https://vidkon.biz.id/post.mpd?id=20884&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkzMTI3NjQwfQ.P19n9OI5Azes8c1KYdnAQzerXYwLX7t2-CfAuNrNQ3o
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/fF_jMVauu3cnw8aniNDo19x476Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5402186/120e39.jpg" group-title="LIVE EVENT",Paris Saint-Germain vs Olympique Lyonnais - Ligue 1 (02:30 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
