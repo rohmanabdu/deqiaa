@@ -5,8 +5,8 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=17875&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkzMTA0MjM0fQ.OxT8iRD61hxo74SVG1WYI5AJWFE_LOk7XP2Anz4XmVg
-https://vidkon.biz.id/post.mpd?id=17875&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkzMTA0MjM0fQ.OxT8iRD61hxo74SVG1WYI5AJWFE_LOk7XP2Anz4XmVg
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=17875&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkzMTA1MTI1fQ.KM_ZVWJUPF2k73d1N_R432gndQJzJ1h9oVI7-5mxsLo
+https://vidkon.biz.id/post.mpd?id=17875&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkzMTA1MTI1fQ.KM_ZVWJUPF2k73d1N_R432gndQJzJ1h9oVI7-5mxsLo
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/7EIRqoLnhxwBrB_tLbqGNkYVJ3U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399463/4d6ce1.jpg" group-title="Live Now",PERSIJA vs PERSIK Kediri - BRI Super League (18:34 WIB * 26-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -14,17 +14,8 @@ https://vidkon.biz.id/post.mpd?id=17875&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22207&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA3IiwiZXhwIjoxNzkzMTA0MjM0fQ.3sBAg399djQ9M4FKSs0KudEQ9xhcFXZfdjAyilQkcDU
-https://vidkon.biz.id/post.mpd?id=22207&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA3IiwiZXhwIjoxNzkzMTA0MjM0fQ.3sBAg399djQ9M4FKSs0KudEQ9xhcFXZfdjAyilQkcDU
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/fm3qhOXJr8SdzJvAD2Sg0XLTpgk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399461/902ae3.webp" group-title="Live Now",Bhayangkara Lampung FC vs PSM Makassar - BRI Super League (18:52 WIB * 26-10-2026) - BG
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22208&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA4IiwiZXhwIjoxNzkzMTA0MjM0fQ.geYZB5DkzgBmbGXHBdrWsPC6FN1S4idV5nxeNdrZj7k
-https://vidkon.biz.id/post.mpd?id=22208&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA4IiwiZXhwIjoxNzkzMTA0MjM0fQ.geYZB5DkzgBmbGXHBdrWsPC6FN1S4idV5nxeNdrZj7k
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22207&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA3IiwiZXhwIjoxNzkzMTA1MTI1fQ.roQNEUJKNLOvmHnHYcyRA9q3-CGoxv0oIa46r2CPG-M
+https://vidkon.biz.id/post.mpd?id=22207&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA3IiwiZXhwIjoxNzkzMTA1MTI1fQ.roQNEUJKNLOvmHnHYcyRA9q3-CGoxv0oIa46r2CPG-M
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/PT-HZoPs2mhh4gVihlHe2ch3Siw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399462/c0b080.jpg" group-title="Live Now",PERSEBAYA Surabaya vs Madura United FC - BRI Super League (18:52 WIB * 26-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -32,17 +23,26 @@ https://vidkon.biz.id/post.mpd?id=22208&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22206&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA2IiwiZXhwIjoxNzkzMTA0MjM0fQ.RitciH4EZ7MGSnHhqT_2OfPwOlZMoNoL9L2EmltsMRk
-https://vidkon.biz.id/post.mpd?id=22206&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA2IiwiZXhwIjoxNzkzMTA0MjM0fQ.RitciH4EZ7MGSnHhqT_2OfPwOlZMoNoL9L2EmltsMRk
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22206&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA2IiwiZXhwIjoxNzkzMTA1MTI1fQ.1iuA-xFL5fHBZKX8rQaIn8latyDgTEDV4Dir53YPn1k
+https://vidkon.biz.id/post.mpd?id=22206&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA2IiwiZXhwIjoxNzkzMTA1MTI1fQ.1iuA-xFL5fHBZKX8rQaIn8latyDgTEDV4Dir53YPn1k
 
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/aZ5sMC6EFmXTuVR3b_QvUN2TvLY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5401035/f6749c.jpg" group-title="Live Now",Valentin Vacherot vs Mariano Navone - Round 1 | ATP 500: Swiss Indoors Basel 2026 (19:30 WIB * 26-10-2026) - BG
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/fm3qhOXJr8SdzJvAD2Sg0XLTpgk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399461/902ae3.webp" group-title="Live Now",Bhayangkara Lampung FC vs PSM Makassar - BRI Super League (18:52 WIB * 26-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20884&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkzMTA0MjM0fQ.AkqCPOxOOF84SCK3d3oUSTGhMVdFIkpNUnvzOIvXpEU
-https://vidkon.biz.id/post.mpd?id=20884&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkzMTA0MjM0fQ.AkqCPOxOOF84SCK3d3oUSTGhMVdFIkpNUnvzOIvXpEU
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=22208&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA4IiwiZXhwIjoxNzkzMTA1MTI1fQ.jzO5p8z8jwG-4TTKNJyTdwxvgWUeQL28FDLLP17Ohj0
+https://vidkon.biz.id/post.mpd?id=22208&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA4IiwiZXhwIjoxNzkzMTA1MTI1fQ.jzO5p8z8jwG-4TTKNJyTdwxvgWUeQL28FDLLP17Ohj0
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/SmXUvV9OfrN1nqd0ewTNteK_s8g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5401039/12a641.jpg" group-title="Live Now",Mika Brunold vs Nuno Borges - Round 1 (IWB Court 1) | ATP 500: Swiss Indoors Basel 2026 (19:25 WIB * 26-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20885&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkzMTA1MTI1fQ.ROz0PXzqEW32R8s50vrJGNiSh5Ga6rRb25hQ-AQ8JOU
+https://vidkon.biz.id/post.mpd?id=20885&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkzMTA1MTI1fQ.ROz0PXzqEW32R8s50vrJGNiSh5Ga6rRb25hQ-AQ8JOU
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/HrfKEXayug2Mn-pN-hUpMetDins=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5400936/d08579.png" group-title="Live Now",Matteo Berrettini vs Tomas Martin Etcheverry - Round 1 | ATP 500: Erste Bank Open 2026 (19:30 WIB * 26-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -50,12 +50,17 @@ https://vidkon.biz.id/post.mpd?id=20884&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20886&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkzMTA0MjM0fQ.zNsj2WWNxZC3t_sK4Q0LqB7JJMDbtvkWc_vFVirWhgc
-https://vidkon.biz.id/post.mpd?id=20886&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkzMTA0MjM0fQ.zNsj2WWNxZC3t_sK4Q0LqB7JJMDbtvkWc_vFVirWhgc
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20886&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkzMTA1MTI1fQ.W8yPLIje_3wWLV7WMjxgl-cgVEWA77b91vRSyejSicA
+https://vidkon.biz.id/post.mpd?id=20886&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkzMTA1MTI1fQ.W8yPLIje_3wWLV7WMjxgl-cgVEWA77b91vRSyejSicA
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/SmXUvV9OfrN1nqd0ewTNteK_s8g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5401039/12a641.jpg" group-title="Upcoming",Mika Brunold vs Nuno Borges - Round 1 (IWB Court 1) | ATP 500: Swiss Indoors Basel 2026 (21:30 WIB * 26-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/aZ5sMC6EFmXTuVR3b_QvUN2TvLY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5401035/f6749c.jpg" group-title="Live Now",Valentin Vacherot vs Mariano Navone - Round 1 | ATP 500: Swiss Indoors Basel 2026 (19:30 WIB * 26-10-2026) - BG
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20884&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkzMTA1MTI1fQ.24MChg-JJmAn_pLAbwMLqhM5jtnQPl8jmJl1ClNh32o
+https://vidkon.biz.id/post.mpd?id=20884&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkzMTA1MTI1fQ.24MChg-JJmAn_pLAbwMLqhM5jtnQPl8jmJl1ClNh32o
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Nr5ZkYHbxkL3OYTo_q2WGsouN0Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5400937/df1f54.png" group-title="Upcoming",Tomas Machac vs Alex de Minaur - Round 1 | ATP 500: Erste Bank Open 2026 (22:30 WIB * 26-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
