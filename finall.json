@@ -5,8 +5,8 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTMxNTU1MjZ9.etdQvpUhJuXLh5vqBd0E22ccgJLAY-U5vy1ALp3fbew
-https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTMxNTU1MjZ9.etdQvpUhJuXLh5vqBd0E22ccgJLAY-U5vy1ALp3fbew
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTMxNTY0NDJ9.aCY-dzE2DMjh8fZ6D6SOryRstWuE1V5ls7Os7CqKoXc
+https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTMxNTY0NDJ9.aCY-dzE2DMjh8fZ6D6SOryRstWuE1V5ls7Os7CqKoXc
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/9fgZF-oUBUXUAgVWRCh79zDAyG0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5403301/12b55f.png" group-title="Live Now",Day 2 - WTA 500: Toray Pan Pacific Open Tennis 2026 (08:30 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -14,8 +14,8 @@ https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20902&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwOTAyIiwiZXhwIjoxNzkzMTU1NTI2fQ.S6qPvHsExKwHBSXrJgU-oOhppM79txHerIhQI-bC73I
-https://vidkon.biz.id/post.mpd?id=20902&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwOTAyIiwiZXhwIjoxNzkzMTU1NTI2fQ.S6qPvHsExKwHBSXrJgU-oOhppM79txHerIhQI-bC73I
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20902&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwOTAyIiwiZXhwIjoxNzkzMTU2NDQyfQ.eSVBsCXwo8GhR0YV4ZB3zsQnLsKO383hsJ6PxTKnRcg
+https://vidkon.biz.id/post.mpd?id=20902&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwOTAyIiwiZXhwIjoxNzkzMTU2NDQyfQ.eSVBsCXwo8GhR0YV4ZB3zsQnLsKO383hsJ6PxTKnRcg
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/TBzTU6XLWg9Sv52mnBK2Hso87rM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5402127/d32c92.jpg" group-title="Upcoming",Putri: USAKTI vs BLU - Liga Voli Mahasiswa (10:30 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -81,11 +81,11 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/O9Wrr23vhdOkuZ23kCmLFHptvsk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5403335/695481.jpg" group-title="Upcoming",Alejandro Tabilo vs Rafael Jodar - Round 1 | ATP 500: Swiss Indoors Basel 2026 (20:00 WIB * 27-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/OJqsF8LJGy0F-IYjini66LY8xHw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5403303/f2f5c9.jpg" group-title="Upcoming",Jerome Kym vs Arthur Rinderknech - Round 1 (IWB Court 1) | ATP 500: Swiss Indoors Basel 2026 (20:00 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/OJqsF8LJGy0F-IYjini66LY8xHw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5403303/f2f5c9.jpg" group-title="Upcoming",Jerome Kym vs Arthur Rinderknech - Round 1 (IWB Court 1) | ATP 500: Swiss Indoors Basel 2026 (20:00 WIB * 27-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/O9Wrr23vhdOkuZ23kCmLFHptvsk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5403335/695481.jpg" group-title="Upcoming",Alejandro Tabilo vs Rafael Jodar - Round 1 | ATP 500: Swiss Indoors Basel 2026 (20:00 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -157,11 +157,15 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/tG0-zfbzXl61fAi2AaNwC__Y5Ww=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5401962/707f45.jpg" group-title="Upcoming",Roma vs Cagliari - Serie A (02:45 WIB * 28-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/vLOCauf_x-N35n0OGiu8ep5mj4o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5401964/082395.jpg" group-title="Upcoming",Torino vs Como - Serie A (02:45 WIB * 28-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/vLOCauf_x-N35n0OGiu8ep5mj4o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5401964/082395.jpg" group-title="Upcoming",Torino vs Como - Serie A (02:45 WIB * 28-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dUFFyUHA9f-Mx_gPadrhs2ccKOU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/22055/carabao-cup-e817ef.png" group-title="Upcoming",Bradford vs Peterborough United FC - Carabao Cup (02:45 WIB * 28-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/tG0-zfbzXl61fAi2AaNwC__Y5Ww=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5401962/707f45.jpg" group-title="Upcoming",Roma vs Cagliari - Serie A (02:45 WIB * 28-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
