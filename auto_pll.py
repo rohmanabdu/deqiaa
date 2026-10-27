@@ -1,6 +1,6 @@
 import requests
 
-SOURCE = "https://bandeltv.xyz/2026/vid/New.php"
+SOURCE = "https://bandeltv.xyz/2026/vid/Newabah.php"
 VIDEO_CUSTOM = "https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4"
 VIDEO_LAMA = "waitng_event_gemini.mp4"
 
