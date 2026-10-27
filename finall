@@ -5,17 +5,17 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/dijual.php?id=18249&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MjQ5IiwiZXhwIjoxNzkzMTE2ODQ0fQ.CX25OpYVRD37ioS4U-pu3aA9Tcw1GPsnyy6ZcAfaDZ4
-https://vidkon.biz.id/dijual.mpd?id=18249&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MjQ5IiwiZXhwIjoxNzkzMTE2ODQ0fQ.CX25OpYVRD37ioS4U-pu3aA9Tcw1GPsnyy6ZcAfaDZ4
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/dijual.php?id=18249&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MjQ5IiwiZXhwIjoxNzkzMTE3NDgxfQ.QDOXIhudmNRjrqENSv_qX5wAkiRmc3tYSiBfm4QRueQ
+https://vidkon.biz.id/dijual.mpd?id=18249&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MjQ5IiwiZXhwIjoxNzkzMTE3NDgxfQ.QDOXIhudmNRjrqENSv_qX5wAkiRmc3tYSiBfm4QRueQ
 
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/kV2YlCWGHArPQnC-kZZij9HvVX4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5403383/748e6b.png" group-title="Live Now",Joep Strooper/Sterre Bang (NED) vs Alberto Perals/Amaia Torralba (ESP) - Mixed Doubles Qualification Quarterfinal | HYLO Open 2026 (14:30 WIB * 27-10-2026) - BG
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/8jAJpKxAGpEFY4e8osohrtBP_kA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5403384/992171.png" group-title="Live Now",Amalie Cecilie Kudsk/Simona Pilgaard (DEN) vs Bengisu Ercetin/Nazlican Inci (TUR) - Women's Doubles Round of 32 | HYLO Open 2026 (14:30 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 7.0; B860H V5.0 Build/SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/dijual.php?id=18250&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MjUwIiwiZXhwIjoxNzkzMTE2ODQ0fQ.S4QRdVzgGWFyLU19foZbP5Oe8hGbLTzGYrBCzCpxqkU
-https://vidkon.biz.id/dijual.mpd?id=18250&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MjUwIiwiZXhwIjoxNzkzMTE2ODQ0fQ.S4QRdVzgGWFyLU19foZbP5Oe8hGbLTzGYrBCzCpxqkU
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/dijual.php?id=18250&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MjUwIiwiZXhwIjoxNzkzMTE3NDgxfQ.HNL0Lab7fRgcyPYxUCwYZODSrAxcVyQqXI6WxWsTyAs
+https://vidkon.biz.id/dijual.mpd?id=18250&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MjUwIiwiZXhwIjoxNzkzMTE3NDgxfQ.HNL0Lab7fRgcyPYxUCwYZODSrAxcVyQqXI6WxWsTyAs
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/OzSMrw_mR0Qb8D1P1yAWr3sVLPA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5403406/758517.png" group-title="Live Now",William Kryger Boe/Rasmus Espersen (DEN) vs Kristoffer Kolding/Calvin Lundsgaard (DEN) - Men's Doubles Round of 32 | HYLO Open 2026 (14:30 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -23,8 +23,8 @@ https://vidkon.biz.id/dijual.mpd?id=18250&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbG
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/dijual.php?id=18252&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MjUyIiwiZXhwIjoxNzkzMTE2ODQ0fQ.jqv_TXkEX1l2PkErlRYZpZ0ExcAlM7x5p8_jGknKyCs
-https://vidkon.biz.id/dijual.mpd?id=18252&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MjUyIiwiZXhwIjoxNzkzMTE2ODQ0fQ.jqv_TXkEX1l2PkErlRYZpZ0ExcAlM7x5p8_jGknKyCs
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/dijual.php?id=18252&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MjUyIiwiZXhwIjoxNzkzMTE3NDgxfQ.GwN29iK3_r7XyuGreO0BikHPb34HvCGRoG3LRIrQaHc
+https://vidkon.biz.id/dijual.mpd?id=18252&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MjUyIiwiZXhwIjoxNzkzMTE3NDgxfQ.GwN29iK3_r7XyuGreO0BikHPb34HvCGRoG3LRIrQaHc
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/PN7_H2gdYvkD7rOsXz5QmzPAUYY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399771/308b06.png" group-title="Live Now",Kuwait Major Premier Padel 2026 - Day 3 (16:00 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -32,8 +32,8 @@ https://vidkon.biz.id/dijual.mpd?id=18252&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbG
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/dijual.php?id=17875&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkzMTE2ODQ0fQ.mvd9dWrpThtKOd77WqxmopKufVXtxulJDVI9kxNZ6Q0
-https://vidkon.biz.id/dijual.mpd?id=17875&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkzMTE2ODQ0fQ.mvd9dWrpThtKOd77WqxmopKufVXtxulJDVI9kxNZ6Q0
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/dijual.php?id=17875&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkzMTE3NDgxfQ.i2dAdUFu2pYEzML6rGZVaWboz6oVZGmdUU1MM2wFtJU
+https://vidkon.biz.id/dijual.mpd?id=17875&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkzMTE3NDgxfQ.i2dAdUFu2pYEzML6rGZVaWboz6oVZGmdUU1MM2wFtJU
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/1XWuL2cHyWcO8ytdpUMWnW0i7Fc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5401945/6b60ce.jpg" group-title="Live Now",Putri 49 Kg - Grup A (17:55 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -41,8 +41,8 @@ https://vidkon.biz.id/dijual.mpd?id=17875&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbG
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/dijual.php?id=22643&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjQzIiwiZXhwIjoxNzkzMTE2ODQ0fQ.Cjp42H4FOW5I8nHxWUToxhB4waJ38hBlsBdtEK23XjA
-https://vidkon.biz.id/dijual.mpd?id=22643&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjQzIiwiZXhwIjoxNzkzMTE2ODQ0fQ.Cjp42H4FOW5I8nHxWUToxhB4waJ38hBlsBdtEK23XjA
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/dijual.php?id=22643&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjQzIiwiZXhwIjoxNzkzMTE3NDgxfQ.6tUkWak47-DaKdPuDadInOBOArmzKhG2XV3qnMsxXLo
+https://vidkon.biz.id/dijual.mpd?id=22643&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjQzIiwiZXhwIjoxNzkzMTE3NDgxfQ.6tUkWak47-DaKdPuDadInOBOArmzKhG2XV3qnMsxXLo
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/BtyIzQNXYUBcjVeSkHeRZMYARuk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5403302/66dc69.jpg" group-title="Live Now",Hubert Hurkacz vs Zizou Bergs - Round 1 (IWB Court 1) | ATP 500: Swiss Indoors Basel 2026 (18:00 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -50,8 +50,8 @@ https://vidkon.biz.id/dijual.mpd?id=22643&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbG
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/dijual.php?id=20885&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkzMTE2ODQ0fQ.fK7quxlcSZlhLgmGjf_DowC8qU8kPwN_6ScAJPg_7cM
-https://vidkon.biz.id/dijual.mpd?id=20885&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkzMTE2ODQ0fQ.fK7quxlcSZlhLgmGjf_DowC8qU8kPwN_6ScAJPg_7cM
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/dijual.php?id=20885&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkzMTE3NDgxfQ.0ij5nBADPMgTyvytOb9qzT06fw-wkSyByd00ENFw40I
+https://vidkon.biz.id/dijual.mpd?id=20885&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg1IiwiZXhwIjoxNzkzMTE3NDgxfQ.0ij5nBADPMgTyvytOb9qzT06fw-wkSyByd00ENFw40I
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/oZ25PSW3X8umBpnV_hBeC2B9gL4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5403395/477dd2.png" group-title="Upcoming",Tommy Paul vs Andrey Rublev - Round 1 | ATP 500: Erste Bank Open 2026 (19:30 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
