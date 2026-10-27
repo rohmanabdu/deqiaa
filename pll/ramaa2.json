@@ -1,52 +1,4 @@
-#EXTINF:-1 tvg-id="Vision+" group-title="Premier Padel 2026" tvg-logo="https://www.visionplus.id/images/repository/906/828906-SNAPSHOT-m.jpg" ch-number="1",Premier Padel 2026: Kuwait Major - Day 3 [27 Oct 2026 16:00 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=123
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Premier Padel 2026" tvg-logo="https://www.visionplus.id/images/repository/906/828906-SNAPSHOT-m.jpg" ch-number="1",Premier Padel 2026: Kuwait Major - Day 3 [27 Oct 2026 16:00 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=123
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/088/827088-SNAPSHOT-m.jpg" ch-number="1",AFC Champions League Two 2026/27: Al Seeb Club (OMA) vs East Bengal FC (IND) [27 Oct 2026 23:00 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1002
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1002
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/088/827088-SNAPSHOT-m.jpg" ch-number="1",AFC Champions League Two 2026/27: Al Seeb Club (OMA) vs East Bengal FC (IND) [27 Oct 2026 23:00 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1002
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1002
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/133/829133-SNAPSHOT-m.jpg" ch-number="2",AFC Champions League Two 2026/27: PERSIB Bandung (IDN) vs Melbourne Victory FC (AUS) [28 Oct 2026 18:45 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=115
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=115
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/133/829133-SNAPSHOT-m.jpg" ch-number="2",AFC Champions League Two 2026/27: PERSIB Bandung (IDN) vs Melbourne Victory FC (AUS) [28 Oct 2026 18:45 WIB]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=115
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=115
-
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/818/828818-SNAPSHOT-m.jpg" ch-number="1",AFC Champions League Elite 2026/27: Shanghai Port FC (CHN) vs Cong An Ha Noi FC (VIE) [27 Oct 2026 16:55 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="AFC Champions League Elite 2026/27" tvg-logo="https://www.visionplus.id/images/repository/818/828818-SNAPSHOT-m.jpg" ch-number="1",AFC Champions League Elite 2026/27: Shanghai Port FC (CHN) vs Cong An Ha Noi FC (VIE) [27 Oct 2026 16:55 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -54,7 +6,7 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=115
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1012
 
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/818/828818-SNAPSHOT-m.jpg" ch-number="1",AFC Champions League Elite 2026/27: Shanghai Port FC (CHN) vs Cong An Ha Noi FC (VIE) [27 Oct 2026 16:55 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="AFC Champions League Elite 2026/27" tvg-logo="https://www.visionplus.id/images/repository/818/828818-SNAPSHOT-m.jpg" ch-number="1",AFC Champions League Elite 2026/27: Shanghai Port FC (CHN) vs Cong An Ha Noi FC (VIE) [27 Oct 2026 16:55 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -62,7 +14,7 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1012
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1012
 
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/648/828648-SNAPSHOT-m.jpg" ch-number="2",AFC Champions League Elite 2026/27: Johor Darul Ta'zim FC (MAS) vs Port FC (THA) [27 Oct 2026 17:00 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="AFC Champions League Elite 2026/27" tvg-logo="https://www.visionplus.id/images/repository/648/828648-SNAPSHOT-m.jpg" ch-number="2",AFC Champions League Elite 2026/27: Johor Darul Ta'zim FC (MAS) vs Port FC (THA) [27 Oct 2026 17:00 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -70,7 +22,7 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1012
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1002
 
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/648/828648-SNAPSHOT-m.jpg" ch-number="2",AFC Champions League Elite 2026/27: Johor Darul Ta'zim FC (MAS) vs Port FC (THA) [27 Oct 2026 17:00 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="AFC Champions League Elite 2026/27" tvg-logo="https://www.visionplus.id/images/repository/648/828648-SNAPSHOT-m.jpg" ch-number="2",AFC Champions League Elite 2026/27: Johor Darul Ta'zim FC (MAS) vs Port FC (THA) [27 Oct 2026 17:00 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -78,7 +30,7 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1002
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1002
 
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/847/828847-SNAPSHOT-m.jpg" ch-number="3",AFC Champions League Elite 2026/27: Daejeon Hanacitizen (KOR) vs Vissel Kobe (JPN) [27 Oct 2026 17:00 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="AFC Champions League Elite 2026/27" tvg-logo="https://www.visionplus.id/images/repository/847/828847-SNAPSHOT-m.jpg" ch-number="3",AFC Champions League Elite 2026/27: Daejeon Hanacitizen (KOR) vs Vissel Kobe (JPN) [27 Oct 2026 17:00 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -86,7 +38,103 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1002
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1010
 
-#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/847/828847-SNAPSHOT-m.jpg" ch-number="3",AFC Champions League Elite 2026/27: Daejeon Hanacitizen (KOR) vs Vissel Kobe (JPN) [27 Oct 2026 17:00 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="AFC Champions League Elite 2026/27" tvg-logo="https://www.visionplus.id/images/repository/847/828847-SNAPSHOT-m.jpg" ch-number="3",AFC Champions League Elite 2026/27: Daejeon Hanacitizen (KOR) vs Vissel Kobe (JPN) [27 Oct 2026 17:00 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1010
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1010
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Premier Padel 2026" tvg-logo="https://www.visionplus.id/images/repository/906/828906-SNAPSHOT-m.jpg" ch-number="1",Premier Padel 2026: Kuwait Major - Day 3 [27 Oct 2026 16:00 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=123
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Premier Padel 2026" tvg-logo="https://www.visionplus.id/images/repository/906/828906-SNAPSHOT-m.jpg" ch-number="1",Premier Padel 2026: Kuwait Major - Day 3 [27 Oct 2026 16:00 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=123
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/088/827088-SNAPSHOT-m.jpg" ch-number="1",AFC Champions League Two 2026/27: Al Seeb Club (OMA) vs East Bengal FC (IND) [27 Oct 2026 23:00 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1002
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1002
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/088/827088-SNAPSHOT-m.jpg" ch-number="1",AFC Champions League Two 2026/27: Al Seeb Club (OMA) vs East Bengal FC (IND) [27 Oct 2026 23:00 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1002
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1002
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/133/829133-SNAPSHOT-m.jpg" ch-number="2",AFC Champions League Two 2026/27: PERSIB Bandung (IDN) vs Melbourne Victory FC (AUS) [28 Oct 2026 18:45 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=115
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=115
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/133/829133-SNAPSHOT-m.jpg" ch-number="2",AFC Champions League Two 2026/27: PERSIB Bandung (IDN) vs Melbourne Victory FC (AUS) [28 Oct 2026 18:45 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=115
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=115
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/690/830690-SNAPSHOT-m.jpg" ch-number="3",AFC Champions League Two 2026/27: Al Shorta (IRQ) vs Al Hussein (JOR) [28 Oct 2026 01:15 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1010
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1010
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/690/830690-SNAPSHOT-m.jpg" ch-number="3",AFC Champions League Two 2026/27: Al Shorta (IRQ) vs Al Hussein (JOR) [28 Oct 2026 01:15 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1010
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1010
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/702/830702-SNAPSHOT-m.jpg" ch-number="4",AFC Champions League Two 2026/27: The Cong - Viettel FC (VIE) vs FC Seoul (KOR) [28 Oct 2026 19:15 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1002
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1002
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/702/830702-SNAPSHOT-m.jpg" ch-number="4",AFC Champions League Two 2026/27: The Cong - Viettel FC (VIE) vs FC Seoul (KOR) [28 Oct 2026 19:15 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1002
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1002
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/680/830680-SNAPSHOT-m.jpg" ch-number="5",AFC Champions League Two 2026/27: PFC Nasaf (UZB) vs Kuwait SC (KUW) [28 Oct 2026 20:45 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1010
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1010
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/680/830680-SNAPSHOT-m.jpg" ch-number="5",AFC Champions League Two 2026/27: PFC Nasaf (UZB) vs Kuwait SC (KUW) [28 Oct 2026 20:45 WIB]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
