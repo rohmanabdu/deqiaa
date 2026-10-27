@@ -4,7 +4,7 @@ import re
 
 # ================== CONFIG - EDIT DISINI ==================
 SOURCE_URL = "https://liveloveyou.my.id/41c4d6eb/lv.txt"
-OUTPUT_FILE = "pl/rama2"
+OUTPUT_FILE = "pll/rama2"
 
 # Logo baru kamu - GANTI DENGAN LOGO KAMU
 NEW_LOGO_DEFAULT = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10"
