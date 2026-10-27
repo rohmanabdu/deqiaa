@@ -5,8 +5,8 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/dijual.php?id=22207&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA3IiwiZXhwIjoxNzkzMTEwNTE0fQ.0-7iaqf1ZWQyAY29Zs_mQvQD3UXc9Ldc39z5JcBWauk
-https://vidkon.biz.id/dijual.mpd?id=22207&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA3IiwiZXhwIjoxNzkzMTEwNTE0fQ.0-7iaqf1ZWQyAY29Zs_mQvQD3UXc9Ldc39z5JcBWauk
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/dijual.php?id=22207&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA3IiwiZXhwIjoxNzkzMTExMjcwfQ.avKPMJE3CCVndxME_0jCVNvMl-NmS8hO8kv3rCWhO6w
+https://vidkon.biz.id/dijual.mpd?id=22207&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA3IiwiZXhwIjoxNzkzMTExMjcwfQ.avKPMJE3CCVndxME_0jCVNvMl-NmS8hO8kv3rCWhO6w
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/ImsD-NZByBqxn-88YO94jpchMlg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5403348/57dbc5.png" group-title="Live Now",Agnes Korosi (HUN) vs Miranda Wilson (GER) - Women's Singles Qualification Quarterfinal | HYLO Open 2026 (14:30 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -14,8 +14,8 @@ https://vidkon.biz.id/dijual.mpd?id=22207&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbG
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/dijual.php?id=18249&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MjQ5IiwiZXhwIjoxNzkzMTEwNTE0fQ.ojhKnuEPY6Q4r66sC-AKDckAnyin_UFGJyUWZ8BdqvA
-https://vidkon.biz.id/dijual.mpd?id=18249&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MjQ5IiwiZXhwIjoxNzkzMTEwNTE0fQ.ojhKnuEPY6Q4r66sC-AKDckAnyin_UFGJyUWZ8BdqvA
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/dijual.php?id=18249&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MjQ5IiwiZXhwIjoxNzkzMTExMjcwfQ.OYPOSrzvHTKU6Zx4HdMdwhlaF2fqLckQFSqDNmEqIUo
+https://vidkon.biz.id/dijual.mpd?id=18249&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MjQ5IiwiZXhwIjoxNzkzMTExMjcwfQ.OYPOSrzvHTKU6Zx4HdMdwhlaF2fqLckQFSqDNmEqIUo
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/dZQbJpewqPXiftfo17eyYCVVBQY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5403381/bcad4b.png" group-title="Live Now",Clara Lassaux (BEL) vs Rosy Oktavia Pancasari (FRA) - Women's Singles Qualification Quarterfinal | HYLO Open 2026 (14:30 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -23,8 +23,8 @@ https://vidkon.biz.id/dijual.mpd?id=18249&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbG
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/dijual.php?id=18250&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MjUwIiwiZXhwIjoxNzkzMTEwNTE0fQ.LCvxfzBAo42xzoyM205TLMqutDYix_0sQLM5M7rdSqs
-https://vidkon.biz.id/dijual.mpd?id=18250&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MjUwIiwiZXhwIjoxNzkzMTEwNTE0fQ.LCvxfzBAo42xzoyM205TLMqutDYix_0sQLM5M7rdSqs
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/dijual.php?id=18250&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MjUwIiwiZXhwIjoxNzkzMTExMjcwfQ.GZqE9QxyF-XMHvsggLVUvi0UxmiXL2fX9_TIYjvSPJY
+https://vidkon.biz.id/dijual.mpd?id=18250&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MjUwIiwiZXhwIjoxNzkzMTExMjcwfQ.GZqE9QxyF-XMHvsggLVUvi0UxmiXL2fX9_TIYjvSPJY
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/hQONKjyf_0Rji3B_RxYkGO_6Cbs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5403404/890b7c.png" group-title="Live Now",Frederikke Ostergaard (DEN) vs Xu Wei (AUT) - Women's Singles Qualification Quarterfinal | HYLO Open 2026 (14:30 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -32,8 +32,8 @@ https://vidkon.biz.id/dijual.mpd?id=18250&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbG
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/dijual.php?id=18252&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MjUyIiwiZXhwIjoxNzkzMTEwNTE0fQ.VtRnuIQUMBG-Tef1NXOcKBIgyQ89F0826ln0hL8BK_U
-https://vidkon.biz.id/dijual.mpd?id=18252&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MjUyIiwiZXhwIjoxNzkzMTEwNTE0fQ.VtRnuIQUMBG-Tef1NXOcKBIgyQ89F0826ln0hL8BK_U
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/dijual.php?id=18252&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MjUyIiwiZXhwIjoxNzkzMTExMjcwfQ.9qRKl55doLctjRNQEMGNc_ZeaBg_DWzrs2rdmupGvuc
+https://vidkon.biz.id/dijual.mpd?id=18252&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MjUyIiwiZXhwIjoxNzkzMTExMjcwfQ.9qRKl55doLctjRNQEMGNc_ZeaBg_DWzrs2rdmupGvuc
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/PN7_H2gdYvkD7rOsXz5QmzPAUYY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399771/308b06.png" group-title="Live Now",Kuwait Major Premier Padel 2026 - Day 3 (16:00 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -41,8 +41,8 @@ https://vidkon.biz.id/dijual.mpd?id=18252&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbG
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/dijual.php?id=17875&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkzMTEwNTE0fQ.z6W3_YeptoGKVqY-5wcBmD7IX07ReTnRQkhzMIGCErI
-https://vidkon.biz.id/dijual.mpd?id=17875&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkzMTEwNTE0fQ.z6W3_YeptoGKVqY-5wcBmD7IX07ReTnRQkhzMIGCErI
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/dijual.php?id=17875&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkzMTExMjcwfQ.WW8pGika1g2vNbNsHCdOdcdpxBNxfghFprfA3GU4Lys
+https://vidkon.biz.id/dijual.mpd?id=17875&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkzMTExMjcwfQ.WW8pGika1g2vNbNsHCdOdcdpxBNxfghFprfA3GU4Lys
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/FTaiYJ92KpEj5i3QQGdzk1oBP6c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5402130/f521b3.jpg" group-title="Live Now",Putra: BLU vs IPB - Liga Voli Mahasiswa (17:05 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -50,8 +50,8 @@ https://vidkon.biz.id/dijual.mpd?id=17875&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbG
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/dijual.php?id=206&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNiIsImV4cCI6MTc5MzExMDUxNH0.J3P8mYr_TNyTj-YYNUPxSxfW73vk3-DKzHW4N4dJRXc
-https://vidkon.biz.id/dijual.mpd?id=206&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNiIsImV4cCI6MTc5MzExMDUxNH0.J3P8mYr_TNyTj-YYNUPxSxfW73vk3-DKzHW4N4dJRXc
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/dijual.php?id=206&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNiIsImV4cCI6MTc5MzExMTI3MH0.q0HQt6DsSP61ropNSn8SbeA5Fswb5mR1azZmXYIWYvg
+https://vidkon.biz.id/dijual.mpd?id=206&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNiIsImV4cCI6MTc5MzExMTI3MH0.q0HQt6DsSP61ropNSn8SbeA5Fswb5mR1azZmXYIWYvg
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1XWuL2cHyWcO8ytdpUMWnW0i7Fc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5401945/6b60ce.jpg" group-title="Upcoming",Putri 49 Kg - Grup A (17:55 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
