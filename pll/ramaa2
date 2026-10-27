@@ -430,3 +430,51 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/933/829933-SNAPSHOT-m.jpg" ch-number="1",DFB Pokal 2026: Hamburger SV vs Eintrach Frankfurt [27 Oct 2026 23:55 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1012
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1012
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/933/829933-SNAPSHOT-m.jpg" ch-number="1",DFB Pokal 2026: Hamburger SV vs Eintrach Frankfurt [27 Oct 2026 23:55 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1012
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1012
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/802/830802-SNAPSHOT-m.jpg" ch-number="2",DFB Pokal 2026: Borussia Dortmund vs SV Werder Bremen [28 Oct 2026 02:40 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1012
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1012
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/802/830802-SNAPSHOT-m.jpg" ch-number="2",DFB Pokal 2026: Borussia Dortmund vs SV Werder Bremen [28 Oct 2026 02:40 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1012
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1012
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/821/830821-SNAPSHOT-m.jpg" ch-number="3",DFB Pokal 2026: FC Bayern Munchen vs FC Magdeburg [29 Oct 2026 02:40 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1012
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1012
+
+#EXTINF:-1 tvg-id="Vision+" group-title="Upcoming" tvg-logo="https://www.visionplus.id/images/repository/821/830821-SNAPSHOT-m.jpg" ch-number="3",DFB Pokal 2026: FC Bayern Munchen vs FC Magdeburg [29 Oct 2026 02:40 WIB]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/sc1980/2025/Kvision/drm.php?id=1012
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1012
+
