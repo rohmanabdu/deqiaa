@@ -1,0 +1,37 @@
+name: Update Pl eve Otomatis
+on:
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Pull latest first
+        run: git pull --rebase origin main
+
+      - name: Update rama2
+        run: python update.py
+
+      - name: Commit & Push
+        run: |
+          git config --global user.name "auto-bot"
+          git config --global user.email "bot@github.com"
+          git add pll/
+          git add -A
+          git diff --staged --quiet || git commit -m "Auto update pl - $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push origin main
