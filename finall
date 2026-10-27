@@ -5,8 +5,8 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTMxNTI4MzV9.lpwJ-yUlzq6qJkSnZpXBapD4YykvdT3lv50Fwoae6qY
-https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTMxNTI4MzV9.lpwJ-yUlzq6qJkSnZpXBapD4YykvdT3lv50Fwoae6qY
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=6786&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTMxNTM3Mjd9.LyeYLmHpTDGmoB9uK-fe09oRGnjGQpjnoUgH68K-LAo
+https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTMxNTM3Mjd9.LyeYLmHpTDGmoB9uK-fe09oRGnjGQpjnoUgH68K-LAo
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/9fgZF-oUBUXUAgVWRCh79zDAyG0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5403301/12b55f.png" group-title="Live Now",Day 2 - WTA 500: Toray Pan Pacific Open Tennis 2026 (08:30 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -14,8 +14,8 @@ https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20902&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwOTAyIiwiZXhwIjoxNzkzMTUyODM1fQ.NgUQ51R6wAf0Vtqbuxc0R_cPO-74DUZL2kgBs2JXpiE
-https://vidkon.biz.id/post.mpd?id=20902&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwOTAyIiwiZXhwIjoxNzkzMTUyODM1fQ.NgUQ51R6wAf0Vtqbuxc0R_cPO-74DUZL2kgBs2JXpiE
+#KODIPROP:inputstream.adaptive.license_key=https://vidkon.biz.id/post.php?id=20902&type=drm&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwOTAyIiwiZXhwIjoxNzkzMTUzNzI3fQ.EKfwRlRvBLEvw82_9XMrlIhUB0YPfigwLfa9ICy87C4
+https://vidkon.biz.id/post.mpd?id=20902&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwOTAyIiwiZXhwIjoxNzkzMTUzNzI3fQ.EKfwRlRvBLEvw82_9XMrlIhUB0YPfigwLfa9ICy87C4
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/TBzTU6XLWg9Sv52mnBK2Hso87rM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5402127/d32c92.jpg" group-title="Upcoming",Putri: USAKTI vs BLU - Liga Voli Mahasiswa (10:30 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -29,10 +29,6 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/PKxQVze7Nbpw29j_AGjNWOBjC0w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5401956/1cc7f4.png" group-title="Upcoming",HYLO Open 2026 - Qualifiers + R32 (Court 2) (14:00 WIB * 27-10-2026) - BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/_Yw7EZKmbIJM0xAh3YQYgbcJvBg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/hylo-open-2026-qualifiers-r32-court-3-4415e3.png" group-title="Upcoming",HYLO Open 2026 - Qualifiers + R32 (Court 3) (14:00 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
@@ -41,7 +37,7 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/jaH43ny00nUD4RttlZtc2BMGXaM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/hylo-open-2026-qualifiers-r32-court-2-1bbb75.png" group-title="Upcoming",HYLO Open 2026 - Qualifiers + R32 (Court 2) (14:30 WIB * 27-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/jaH43ny00nUD4RttlZtc2BMGXaM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/hylo-open-2026-qualifiers-r32-court-2-1bbb75.png" group-title="Upcoming",Mareike Kelch/Louisa Marburger (GER) vs Sterre Bang/Inger Pothuizen (NED) - Women's Doubles Qualification Quarterfinal | HYLO Open 2026 (14:30 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -77,6 +73,10 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/UfzR_sZF7xHv3KcToyrxXNZfjnM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20886/round-1-atp-500-erste-bank-open-2026-474f74.png" group-title="Upcoming",Tommy Paul vs Andrey Rublev - Round 1 | ATP 500: Erste Bank Open 2026 (19:30 WIB * 27-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/2kC9iwHbCy0gEYt9UPUn2M8vpHQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5403351/f6f0ac.png" group-title="Upcoming",Raymond Indra/Nikolaus Joaquin (INA) vs Jonathan Dresp/Simon Krax (GER) - Men's Doubles Round of 32 | HYLO Open 2026 (19:45 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
@@ -85,11 +85,19 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/OJqsF8LJGy0F-IYjini66LY8xHw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5403303/f2f5c9.jpg" group-title="Upcoming",Jerome Kym vs Arthur Rinderknech - Round 1 (IWB Court 1) | ATP 500: Swiss Indoors Basel 2026 (20:00 WIB * 27-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/O9Wrr23vhdOkuZ23kCmLFHptvsk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5403335/695481.jpg" group-title="Upcoming",Alejandro Tabilo vs Rafael Jodar - Round 1 | ATP 500: Swiss Indoors Basel 2026 (20:00 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/OJqsF8LJGy0F-IYjini66LY8xHw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5403303/f2f5c9.jpg" group-title="Upcoming",Jerome Kym vs Arthur Rinderknech - Round 1 (IWB Court 1) | ATP 500: Swiss Indoors Basel 2026 (20:00 WIB * 27-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/lGSl7aLOToGY4nYJHm5OJxvatsM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20887/round-1-glaubandich-court-atp-500-erste-bank-open-2026-d2702d.png" group-title="Upcoming",Adrian Mannarino vs Ignacio Buse - Round 1 (Glaubandich Court) | ATP 500: Erste Bank Open 2026 (21:00 WIB * 27-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/UfzR_sZF7xHv3KcToyrxXNZfjnM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20886/round-1-atp-500-erste-bank-open-2026-474f74.png" group-title="Upcoming",Karen Khachanov vs Carlos Alcaraz - Round 1 | ATP 500: Erste Bank Open 2026 (21:30 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -105,7 +113,15 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pE5Rkju7zLpd-StgfQblHcBc7Jg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5403337/6bce7f.jpg" group-title="Upcoming",Ben Shelton vs Aleksandar Kovacevic - Round 1 | ATP 500: Swiss Indoors Basel 2026 (00:00 WIB * 28-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/lGSl7aLOToGY4nYJHm5OJxvatsM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20887/round-1-glaubandich-court-atp-500-erste-bank-open-2026-d2702d.png" group-title="Upcoming",Cameron Norrie vs Francisco Cerundolo - Round 1 (Glaubandich Court) | ATP 500: Erste Bank Open 2026 (23:00 WIB * 27-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/UfzR_sZF7xHv3KcToyrxXNZfjnM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20886/round-1-atp-500-erste-bank-open-2026-474f74.png" group-title="Upcoming",Alexander Zverev vs Martin Landaluce - Round 1 | ATP 500: Erste Bank Open 2026 (23:30 WIB * 27-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/e_MP2dZ0aPlr74hq5LM77Vv5ZrI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5403389/8fee4c.png" group-title="Upcoming",Kirsten de Wit/Meerte Loos (NED) vs Amallia Cahaya Pratiwi/Siti Fadia Silva Ramadhanti (INA) - Women's Doubles Round of 32 | HYLO Open 2026 (23:55 WIB * 27-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -113,11 +129,15 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pE5Rkju7zLpd-StgfQblHcBc7Jg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5403337/6bce7f.jpg" group-title="Upcoming",Ben Shelton vs Aleksandar Kovacevic - Round 1 | ATP 500: Swiss Indoors Basel 2026 (00:00 WIB * 28-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/uujcwxuZtRy7ZxgJSYzFoIUGYXQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5401961/ff57b3.jpg" group-title="Upcoming",Sassuolo vs Lazio - Serie A (00:30 WIB * 28-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/wLK_JUsI_bSQqnnqE4WRaFYh-ec=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5403338/8aad1e.jpg" group-title="Upcoming",Stan Wawrinka vs Jiri Lehecka - Round 1 | ATP 500: Swiss Indoors Basel 2026 (02:00 WIB * 28-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/UfzR_sZF7xHv3KcToyrxXNZfjnM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20886/round-1-atp-500-erste-bank-open-2026-474f74.png" group-title="Upcoming",Flavio Cobolli vs Grigor Dimitrov - Round 1 | ATP 500: Erste Bank Open 2026 (01:30 WIB * 28-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -125,7 +145,15 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/wLK_JUsI_bSQqnnqE4WRaFYh-ec=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5403338/8aad1e.jpg" group-title="Upcoming",Stan Wawrinka vs Jiri Lehecka - Round 1 | ATP 500: Swiss Indoors Basel 2026 (02:00 WIB * 28-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9_gFemXYOK2ut-fz_vB6xuO765A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5403359/84ea71.png" group-title="Upcoming",Ali Faathir Rayhan/Devin Artha Wahyudi (INA) vs Jiri Kral/Ondrej Kral (CZE) - Men's Doubles Round of 32 | HYLO Open 2026 (02:25 WIB * 28-10-2026) - BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/tG0-zfbzXl61fAi2AaNwC__Y5Ww=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5401962/707f45.jpg" group-title="Upcoming",Roma vs Cagliari - Serie A (02:45 WIB * 28-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -133,7 +161,7 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/tG0-zfbzXl61fAi2AaNwC__Y5Ww=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5401962/707f45.jpg" group-title="Upcoming",Roma vs Cagliari - Serie A (02:45 WIB * 28-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/BXwn3lRZ4i1j3irWAvrVeStV0eg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5403393/a98627.png" group-title="Upcoming",TBA vs Leo Rolly Carnando/Daniel Marthin (INA) - Men's Doubles Round of 32 | HYLO Open 2026 (03:15 WIB * 28-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
@@ -169,11 +197,11 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9Dg8wOJfT3VVWyj3cGEIfOqfONw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5401965/c0bb53.jpg" group-title="Upcoming",Bayern Munich vs Real Madrid - UEFA Women's Champions League (00:45 WIB * 29-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xRBpRJjbA5NmIne6sYxDUfQtjk0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5401966/643875.jpg" group-title="Upcoming",Chelsea vs Roma - UEFA Women's Champions League (00:45 WIB * 29-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xRBpRJjbA5NmIne6sYxDUfQtjk0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5401966/643875.jpg" group-title="Upcoming",Chelsea vs Roma - UEFA Women's Champions League (00:45 WIB * 29-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9Dg8wOJfT3VVWyj3cGEIfOqfONw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5401965/c0bb53.jpg" group-title="Upcoming",Bayern Munich vs Real Madrid - UEFA Women's Champions League (00:45 WIB * 29-10-2026) - BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 
