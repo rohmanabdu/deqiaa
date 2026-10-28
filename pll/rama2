@@ -11,17 +11,21 @@ https://live2.jorvakstreamcache.com/live/channel6.m3u8?|Referer=https://xlz.doma
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3134/image" group-title="LIVE EVENT",17:00 WIB Kashima Antlers vs Pohang Steelers Football Live 2
 https://www.rtmpcdn.com/live/def63eec-1143-4057-bdd8-24b88a714aa7.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",HYLO Open Badminton 2026 Court 1 HUYA
-http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=032d550f71b8c7f89f845f524985481f&wsTime=6ae33020&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=28517052cb08e4bb271e6a56c0ac9201&wsTime=6ae33279&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",HYLO Open Badminton 2026 Court 2 HUYA
-http://al.flv.huya.com/src/2356-0-0-2479087855022-10057-A-0-1-imgplus.flv?wsSecret=58af44397672d26dc596bfae7df4aa7f&wsTime=6ae33031&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855022-10057-A-0-1-imgplus.flv?wsSecret=b7034f4de9ff6724df01700d57b459b7&wsTime=6ae3326d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",HYLO Open Badminton 2026 Court 3 HUYA
-http://al.flv.huya.com/src/2356-0-0-2479087855024-10057-A-0-1.flv?wsSecret=572f7e4a752a699fa13c7eada089924d&wsTime=6ae33033&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855024-10057-A-0-1.flv?wsSecret=af9985f35486231b40314f869c5fa83e&wsTime=6ae3328a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",HYLO Open XOILACZ
 https://live1.quickscoreboardz.com/live/channel87.m3u8?wsSecret=adf8db42ecf87c1cb094e3abe29666df&wsABSTime=1793213577
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",HYLO Open XOILACZ
 https://live1.quickscoreboardz.com/live/channel88.m3u8?wsSecret=447d223dbded7afbf457f4c7ac8815fe&wsABSTime=1793213638
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",HYLO Open XOILACZ
 https://live1.quickscoreboardz.com/live/channel89.m3u8?wsSecret=7d74452bf743d931c4f8f9462e8e2746&wsABSTime=1793213703
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/uSWbs",[Belum Mulai] 19:15 WIB Persib vs Melbourne Victory
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel2.m3u8
 # ===== SOURCE 3 =====
 #PLAYLIST:Prime Video Free Sports
 #LAST_UPDATE:05:32 PM 28-10-2026
@@ -156,11 +160,11 @@ https://site04.superabbit77hd.skin/es/volleyball/poland-plus-liga-2251067/slepsk
 https://site04.superabbit77hd.skin/es/volleyball/poland-plus-liga-2252004/cuprum-vs-barkom.html?icg=UEU
 # ===== SOURCE 9 =====
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",HYLO Open Badminton 2026 Court 1 HUYA
-http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=8dd69fd6ef0570fe3e1e78d25b761ee6&wsTime=6ae3306c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=9c7e719f5f57aca281b175617c300c03&wsTime=6ae332c6&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",HYLO Open Badminton 2026 Court 2 HUYA
-http://al.flv.huya.com/src/2356-0-0-2479087855022-10057-A-0-1-imgplus.flv?wsSecret=e8852d82ec4327ce7cfbd73fec801e5a&wsTime=6ae3306d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855022-10057-A-0-1-imgplus.flv?wsSecret=bcbf44b466624e3f8769e8abd4c033cd&wsTime=6ae332c9&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10HfFmfXTF/20260730-162547.jpg" group-title="LIVE EVENT",HYLO Open Badminton 2026 Court 3 HUYA
-http://al.flv.huya.com/src/2356-0-0-2479087855024-10057-A-0-1.flv?wsSecret=f7ffd87153ad58bcb2b716eb5ccda78b&wsTime=6ae33073&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855024-10057-A-0-1.flv?wsSecret=52878e22edb89edc28bd3f11f4867529&wsTime=6ae332b1&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 # ===== SOURCE 10 =====
 #EXTINF:-1 tvg-id="badminton_1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" tvg-name="" group-title="LIVE EVENT", HYLO Open XOILACZ
 https://live1.quickscoreboardz.com/live/channel87.m3u8?wsSecret=adf8db42ecf87c1cb094e3abe29666df&wsABSTime=1793213577
