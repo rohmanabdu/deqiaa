@@ -1,23 +1,42 @@
 #EXTM3U
+# ===== SOURCE 2 =====
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",HYLO Open Badminton 2026 Court 1 HUYA
+http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=64aa6600f8c92c87e8f3695a150e4ac9&wsTime=6ae42677&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",HYLO Open Badminton 2026 Court 2 HUYA
+http://al.flv.huya.com/src/2356-0-0-2479087855022-10057-A-0-1-imgplus.flv?wsSecret=0ef231f7a0022b1956f21970109b09a3&wsTime=6ae42679&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",HYLO Open Badminton 2026 Court 3 HUYA
+http://al.flv.huya.com/src/2356-0-0-2479087855024-10057-A-0-1.flv?wsSecret=5ea270b6d6c49ac693e2471fade98e5c&wsTime=6ae4267b&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 # ===== SOURCE 3 =====
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:10:32 AM 29-10-2026
+#LAST_UPDATE:11:02 AM 29-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:3
+#LIVE_COUNT:7
 #UPCOMING_COUNT:0
 #EXTINF:-1 tvg-id="B0HP2BCBN9" tvg-name="Olimpia vs. CartaginÃ©s" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b3157bad-efdf-4df1-b62b-d80ebcb72096/2/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",Olimpia vs. CartaginÃ©s  Prime Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+#EXTINF:-1 tvg-id="B0HL68J823" tvg-name="Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.541c776d-23ee-49bf-aad8-44b8821b574d/4/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",Early Rounds  Prime Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 #EXTINF:-1 tvg-id="B0HJ7RN3LB" tvg-name="Womens Big Bash League 2026 - 1st Match - Melbourne Renegades Women vs Sydney Thunder Women" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.082cdb0e-0139-4caf-9d4f-4e45a74dfa7b/2/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0-0-1920-1080+0-0-1920-1080+1724-885-117-117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",Womens Big Bash League 2026 - 1st Match - Melbourne Renegades Women vs Sydney Thunder Women  Prime Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=81cceef47300d899003a2dd4f80a0ec4:0db92cc3f3a7b1c97af4aaef56d641ef
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/r6vs6zdomz/out/v1/d34a7d179f4f49f2b2f08ec490165d8b/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/r6vs6zdomz/out/v1/d34a7d179f4f49f2b2f08ec490165d8b/cenc.mpd
+#EXTINF:-1 tvg-id="B0HL64MMTC" tvg-name="Cricket-WBBL 2026: Renegades vs Thunder - 1st Match" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2c269d2f-a9e0-4224-b407-545f2a32c551/3/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",Cricket-WBBL 2026: Renegades vs Thunder - 1st Match  Prime Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 # ===== SOURCE 4 =====
 # ===== SOURCE 5 =====
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/187744/image",10:30 WIB Bangladesh vs West Indies Cricket FANCODE - AQ
@@ -34,14 +53,6 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/187744/image",10:30 WIB Bangladesh vs West Indies Cricket TAPMAD HD
 #EXTVLCOPT:http-referrer=https://tapmad.com/
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8|referer=https://tapmad.com/
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/3425/image",09:30 WIB Los Angeles Clippers vs Los Angeles Lakers Basketball HD SERVER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://www.rtmpcdn.com/live/879bf3a0-7558-407c-9c08-86009eb4fc04.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/3425/image",09:30 WIB Los Angeles Clippers vs Los Angeles Lakers Basketball LOW QUALITY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.44/hls/VYYYAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/274887/image",11:40 WIB Melbourne Renegades Women vs Sydney Thunder Women Cricket WILLOW - AQ
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 # ===== SOURCE 6 =====
@@ -60,4 +71,11 @@ https://site04.superabbit77hd.skin/es/volleyball/sv-league-women-2251030/denso-a
 https://site04.superabbit77hd.skin/es/volleyball/poland-plus-liga-2251067/slepsk-suwalki-vs-gks-katowice.html?icg=UEU
 #EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/Iq7dx7zh-480.jpg" group-title="LIVE EVENT",[Belum Mulai] 01:30 WIB Stilon Gorzow VS Jastrzebie Barkom - NEVZA POOL PHASE
 https://site04.superabbit77hd.skin/es/volleyball/poland-plus-liga-2252004/cuprum-vs-barkom.html?icg=UEU
+# ===== SOURCE 9 =====
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",HYLO Open Badminton 2026 Court 1 HUYA
+http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=64aa6600f8c92c87e8f3695a150e4ac9&wsTime=6ae42677&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",HYLO Open Badminton 2026 Court 2 HUYA
+http://al.flv.huya.com/src/2356-0-0-2479087855022-10057-A-0-1-imgplus.flv?wsSecret=0ef231f7a0022b1956f21970109b09a3&wsTime=6ae42679&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",HYLO Open Badminton 2026 Court 3 HUYA
+http://al.flv.huya.com/src/2356-0-0-2479087855024-10057-A-0-1.flv?wsSecret=5ea270b6d6c49ac693e2471fade98e5c&wsTime=6ae4267b&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 # ===== SOURCE 11 =====
