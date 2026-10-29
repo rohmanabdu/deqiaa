@@ -1,19 +1,24 @@
 #EXTM3U
 # ===== SOURCE 2 =====
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2946/image" group-title="LIVE EVENT",14:45 WIB Adelaide United vs Lion City Sailors Football HD SERVER
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel6.m3u8?|Referer=https://xlz.domainkqt.cc/
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/uSWbs",14:45 WIB Adelaide United vs Lion City Sailors
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",HYLO Open Badminton 2026 Court 1 HUYA
-http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=69a50d0afdaff9118b308b92c65abc21&wsTime=6ae44958&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=eeec0c3be76d1749d80703e94003e289&wsTime=6ae44e2e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",HYLO Open Badminton 2026 Court 2 HUYA
+http://al.flv.huya.com/src/2356-0-0-2479087855022-10057-A-0-1-imgplus.flv?wsSecret=cee32d2ac150a49491b5af089e734459&wsTime=6ae44e4a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",HYLO Open Badminton 2026 Court 3 HUYA
-http://al.flv.huya.com/src/2356-0-0-2479087855024-10057-A-0-1.flv?wsSecret=fb05a530f0c8b9f0c3478fd91755e931&wsTime=6ae44961&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855024-10057-A-0-1.flv?wsSecret=1f5cfcd7b761d150ccbeac18936dd6d6&wsTime=6ae44e4b&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",HYLO Open XOILACZ
 https://live1.quickscoreboardz.com/live/channel60.m3u8?wsSecret=b6ae38b46b7009c8d4aa3118e4a8c8b0&wsABSTime=1793300081
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",HYLO Open XOILACZ
 https://live1.quickscoreboardz.com/live/channel61.m3u8?wsSecret=b6ae38b46b7009c8d4aa3118e4a8c8b0&wsABSTime=1793300081
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",HYLO Open XOILACZ
 https://live1.quickscoreboardz.com/live/channel62.m3u8?wsSecret=b6ae38b46b7009c8d4aa3118e4a8c8b0&wsABSTime=1793300081
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/uSWbs",[Belum Mulai] 14:45 WIB Adelaide United vs Lion City Sailors
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 # ===== SOURCE 3 =====
 #PLAYLIST:Prime Video Free Sports
 #LAST_UPDATE:01:02 PM 29-10-2026
@@ -57,11 +62,9 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8|referer=https://tapmad.com/
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&amp;s",13:45 WIB NPL Nepal Premier League Cricket STAR SPORTS - AQ
 https://baila-lentoo.pages.dev/all-sp/373201.m3u8
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&amp;s",13:45 WIB NPL Nepal Premier League Cricket FANCODE - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/2946/image",14:45 WIB Adelaide United vs Lion City Sailors Football HD SERVER
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel6.m3u8?|Referer=https://xlz.domainkqt.cc/
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/274887/image",11:40 WIB Melbourne Renegades Women vs Sydney Thunder Womenn Cricket WILLOW AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -99,9 +102,11 @@ https://site04.superabbit77hd.skin/es/volleyball/poland-plus-liga-2251067/slepsk
 https://site04.superabbit77hd.skin/es/volleyball/poland-plus-liga-2252004/cuprum-vs-barkom.html?icg=UEU
 # ===== SOURCE 9 =====
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",HYLO Open Badminton 2026 Court 1 HUYA
-http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=69a50d0afdaff9118b308b92c65abc21&wsTime=6ae44958&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=eeec0c3be76d1749d80703e94003e289&wsTime=6ae44e2e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",HYLO Open Badminton 2026 Court 2 HUYA
+http://al.flv.huya.com/src/2356-0-0-2479087855022-10057-A-0-1-imgplus.flv?wsSecret=cee32d2ac150a49491b5af089e734459&wsTime=6ae44e4a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",HYLO Open Badminton 2026 Court 3 HUYA
-http://al.flv.huya.com/src/2356-0-0-2479087855024-10057-A-0-1.flv?wsSecret=fb05a530f0c8b9f0c3478fd91755e931&wsTime=6ae44961&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855024-10057-A-0-1.flv?wsSecret=1f5cfcd7b761d150ccbeac18936dd6d6&wsTime=6ae44e4b&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 # ===== SOURCE 10 =====
 #EXTINF:-1 tvg-id="badminton_1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" tvg-name="" group-title="LIVE EVENT", HYLO Open XOILACZ
 https://live1.quickscoreboardz.com/live/channel60.m3u8?wsSecret=b6ae38b46b7009c8d4aa3118e4a8c8b0&wsABSTime=1793300081
