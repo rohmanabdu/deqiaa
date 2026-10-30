@@ -21,7 +21,7 @@ LOGO_TARGETS = [
 ]
 
 # PLAYLIST TAMBAHAN DI AWAL - EDIT DISINI
-TOP_PLAYLIST = '#EXTINF:-1 tvg-id="" tvg-name="Donasi ++" tvg-logo="https://static.vecteezy.com/system/resources/previews/054/224/335/non_2x/charity-icon-colored-outline-icon-style-hand-giving-money-icon-related-to-donation-and-charity-donation-elements-illustration-vector.jpg" group-title="LIVE EVENT",Donasi ++\nhttps://github.com/rohmanabdu/cloudd/raw/refs/heads/main/awal.mp4'
+TOP_PLAYLIST = '#EXTINF:-1 tvg-id="" tvg-name="Donasi ++" tvg-logo="https://static.vecteezy.com/system/resources/previews/054/224/335/non_2x/charity-icon-colored-outline-icon-style-hand-giving-money-icon-related-to-donation-and-charity-donation-elements-illustration-vector.jpg" group-title="LIVE EVENT",Donasi +++\nhttps://github.com/rohmanabdu/cloudd/raw/refs/heads/main/awal.mp4'
 # ==========================================================
 
 def clean_base_url(url):
