@@ -10,12 +10,6 @@ https://github.com/rohmanabdu/cloudd/raw/refs/heads/main/awal.mp4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2530/image" group-title="LIVE EVENT",21:30 WIB FC Schalke 04 vs RB Leipzig Football CazÃ©TV - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/25/image" group-title="LIVE EVENT",22:00 WIB Millwall vs Derby County Football beIN ENGLISH - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -170,10 +164,8 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvy
 #KODIPROP:inputstream.adaptive.license_key=055e7d596817187feb6148156f166cd4:d2f924558033464139e9367ffe346149
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/iq4ucnnylo/out/v1/589f94d67d424d2fa5792f43af15a45f/cenc.mpd
 # ===== SOURCE 4 =====
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026195/1791810253859132_KHC_promo_landscape_thumb_simulcast.jpg" group-title="LIVE EVENT", MAR Kon Honaar Crorepati Sony Liv
-https://sonymtmnew.akamaized.net/hls/live/2022315/KHC_E18_3110/MAR/std_lrh-800300010.m3u8?hdnea=exp=1793495418~acl=/*~id=af30a945ade97ece2ce911b0fc8cd61d-1793452202999~hmac=f6fbe4afa547ad2e27301ad8b4366955fce214445293aca61a509cc22aacbb8c|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=caca7d6b80536944f3b6b983b3135cc0-1793464204802
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024210/178982077723193_FFH_Red_Creative_Promo_landscape_thumb_simulcast.jpg" group-title="LIVE EVENT", Family Full House With Rohit Sharma Sony Liv
-https://sonymtmnew.akamaized.net/hls/live/2022318/geclive3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793495418~acl=/*~id=af30a945ade97ece2ce911b0fc8cd61d-1793452202999~hmac=f6fbe4afa547ad2e27301ad8b4366955fce214445293aca61a509cc22aacbb8c|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=caca7d6b80536944f3b6b983b3135cc0-1793464204802
+https://sonymtmnew.akamaized.net/hls/live/2022318/geclive3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793495418~acl=/*~id=af30a945ade97ece2ce911b0fc8cd61d-1793452202999~hmac=f6fbe4afa547ad2e27301ad8b4366955fce214445293aca61a509cc22aacbb8c|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=195cf3d5d964a8542beb3570ba7dca54-1793465404964
 # ===== SOURCE 5 =====
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/187754/image",15:00 WIB Pakistan vs Sri Lanka Cricket WILLOW - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -189,12 +181,6 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 https://live.msnetworks.net/ptv-sports/master.m3u8
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/187754/image",15:00 WIB Pakistan vs Sri Lanka Cricket CRICBUZZ HD
 https://baila-lentoo.pages.dev/all-sp/809382.m3u8
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/2530/image",21:30 WIB FC Schalke 04 vs RB Leipzig Football CazÃ©TV - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/2818/image",22:15 WIB Rayo Vallecano vs Celta Vigo Football FANCODE - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
