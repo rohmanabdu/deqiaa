@@ -2,6 +2,20 @@
 #EXTINF:-1 tvg-id="" tvg-name="Donasi ++" tvg-logo="https://static.vecteezy.com/system/resources/previews/054/224/335/non_2x/charity-icon-colored-outline-icon-style-hand-giving-money-icon-related-to-donation-and-charity-donation-elements-illustration-vector.jpg" group-title="LIVE EVENT",Donasi +++
 https://github.com/rohmanabdu/cloudd/raw/refs/heads/main/awal.mp4
 # ===== SOURCE 2 =====
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2822/image" group-title="LIVE EVENT",20:00 WIB CD Tenerife vs FC Andorra Football LaLiga Hypermotion
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a
+https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/34310/image" group-title="LIVE EVENT",20:45 WIB Pakhtakor Tashkent vs Al-Nassr Football beIN SPORTS - AQ
+#EXTVLCOPT:http-referrer=https://www.arena-koora.online/
+https://live-cdn.ryazanslah3.space/hls/bein2.m3u8?|Referer=https://www.arena-koora.online/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/34310/image" group-title="LIVE EVENT",20:45 WIB Pakhtakor Tashkent vs Al-Nassr Football Live 2
+#EXTVLCOPT:http-referrer=https://player.on8on8.com/
+https://live.vivo155.com/live/hd-en-1-4621440.m3u8?txSecret=ad78bb536e23461cba3cffb7faa5cc15&txTime=6AE8A562|Referer=https://player.on8on8.com/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/34310/image" group-title="LIVE EVENT",20:45 WIB Pakhtakor Tashkent vs Al-Nassr Football HD SERVER
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel1.m3u8?|Referer=https://xlz.domainkqt.cc/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",è®¸æ2-0ææï¼æºè¿å³èµ 2026HYLO Open Badminton HUYA CN
 http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=74e97e5c87dbd819391f4569676b3e29&wsTime=6ae975d5&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",æµ®å£«å¾·u002Fåäºå°2-0æ¬Â·è±æ©u002Fæè¿ªï¼æ¿ä¸å å  2026HYLO Open Badminton HUYA CN
@@ -44,6 +58,15 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a
 https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/34310/image",20:45 WIB Pakhtakor Tashkent vs Al-Nassr Football beIN SPORTS - AQ
+#EXTVLCOPT:http-referrer=https://www.arena-koora.online/
+https://live-cdn.ryazanslah3.space/hls/bein2.m3u8?|Referer=https://www.arena-koora.online/
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/34310/image",20:45 WIB Pakhtakor Tashkent vs Al-Nassr Football Live 2
+#EXTVLCOPT:http-referrer=https://player.on8on8.com/
+https://live.vivo155.com/live/hd-en-1-4621440.m3u8?txSecret=ad78bb536e23461cba3cffb7faa5cc15&txTime=6AE8A562|Referer=https://player.on8on8.com/
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/34310/image",20:45 WIB Pakhtakor Tashkent vs Al-Nassr Football HD SERVER
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel1.m3u8?|Referer=https://xlz.domainkqt.cc/
 # ===== SOURCE 6 =====
 #PLAYLIST:Willow Cricket Event Info
 #LAST_UPDATE:03:32 PM 16-10-2026
