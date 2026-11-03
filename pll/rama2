@@ -2,10 +2,20 @@
 #EXTINF:-1 tvg-id="" tvg-name="Donasi ++" tvg-logo="https://static.vecteezy.com/system/resources/previews/054/224/335/non_2x/charity-icon-colored-outline-icon-style-hand-giving-money-icon-related-to-donation-and-charity-donation-elements-illustration-vector.jpg" group-title="LIVE EVENT",Donasi +++
 https://github.com/rohmanabdu/cloudd/raw/refs/heads/main/awal.mp4
 # ===== SOURCE 2 =====
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/K2yDg",[Belum Mulai] 00:45 WIB Galatasaray vs Stuttgart
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/K2yDg",[Belum Mulai] 00:45 WIB Shakhtar Donetsk vs Sporting CP
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",çè°¢éè½¬æçº§ï¼æ¢è¡éæ¾æ·æ±° 2026é©å½Open Badminton HUYA CN
-http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=42763c4b9b533d5d345a4e61658b1abb&wsTime=6aeb6675&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=296dc00f14ec7e0299a47edfbcfce0e4&wsTime=6aeb672c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",å¾æå©§é©èé©å½éæçº§  2026é©å½Open Badminton HUYA CN
-http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1.flv?wsSecret=f7eb99476123428d1a2890060da949db&wsTime=6aeb6677&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1.flv?wsSecret=c56a4c561111f75d4f57ceca4b20a26b&wsTime=6aeb672d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/117204/image" group-title="LIVE EVENT",23:00 WIB Al-Hussein Irbid vs Al-Shorta Football HD SERVER
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel6.m3u8?|Referer=https://xlz.domainkqt.cc/
