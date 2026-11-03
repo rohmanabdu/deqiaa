@@ -2,14 +2,6 @@
 #EXTINF:-1 tvg-id="" tvg-name="Donasi ++" tvg-logo="https://static.vecteezy.com/system/resources/previews/054/224/335/non_2x/charity-icon-colored-outline-icon-style-hand-giving-money-icon-related-to-donation-and-charity-donation-elements-illustration-vector.jpg" group-title="LIVE EVENT",Donasi +++
 https://github.com/rohmanabdu/cloudd/raw/refs/heads/main/awal.mp4
 # ===== SOURCE 2 =====
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",Korea Open Badminton 2026 Court 1 CCTV
-http://seep.eu.org/https://mobilelive-test.ysp.cctv.cn/ysp/2050856001_hd.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",Korea Open Badminton 2026 Court 2 CCTV
-http://seep.eu.org/https://mobilelive-test.ysp.cctv.cn/ysp/2050856101_hd.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",Korea Open Badminton 2026 Court 3 CCTV
-http://seep.eu.org/https://mobilelive-test.ysp.cctv.cn/ysp/2050856201_hd.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",Korea Open Badminton 2026 Court 4 CCTV
-http://seep.eu.org/https://mobilelive-test.ysp.cctv.cn/ysp/2050856301.m3u8
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/yDHTs",17:00 WIB Kepco vs Woori
 https://ex-nlive-streaming.navercdn.com/chzzk/lip2_kr/cflexnmss2u0009/kaohqgo7orykd1y46zuabh6uo6fg4h6s9qkj/xby0oflpf2dqcur3vxs9vyz6fg4h6s9nnd_hls_playlist.m3u8?hdnts=st=1793699194~exp=1793760404~acl=*/kaohqgo7orykd1y46zuabh6uo6fg4h6s9qkj/*~hmac=9643a5295be2224ca3e92f9437f128be93de07b12cd324874bd3a2e899dd1637
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/yDHTs",17:00 WIB IBK W vs Hyundai E&C Hillstate W
@@ -21,6 +13,8 @@ https://raket.moviepire.co/api/sp/x5rvUDSaKqjmYHqASe5A7xu5ni1Fs0HTboeWC9yDX9crCJ
 https://live2.jorvakstreamcache.com/live/channel4.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKcgcdoEf1_jLDvHAt2ZBjVhcGwrXZEVo7ArKoUpwFBw&s=10" group-title="LIVE EVENT",19:00 WIB Kendal Tornado FC VS Persebaya Surabaya i-League Cup XOILACZ
 https://live2.jorvakstreamcache.com/live/channel24.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKcgcdoEf1_jLDvHAt2ZBjVhcGwrXZEVo7ArKoUpwFBw&s=10" group-title="LIVE EVENT",19:00 WIB Dewa United VS Persita Tangerang i-League Cup XOILACZ
+https://live2.jorvakstreamcache.com/live/channel19.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKcgcdoEf1_jLDvHAt2ZBjVhcGwrXZEVo7ArKoUpwFBw&s=10" group-title="LIVE EVENT",19:01 WIB Kendal Tornado FC VS Persebaya Surabaya i-League Cup Jala
 https://play.heyangstream.com/live/5007696_F5hd01.m3u8?expire=1793719690&sign=249e9754e0b81babcf8b9f268182d9e0
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKcgcdoEf1_jLDvHAt2ZBjVhcGwrXZEVo7ArKoUpwFBw&s=10" group-title="LIVE EVENT",19:01 WIB Persela Lamongan VS Persijap Jepara i-League Cup Jala
@@ -36,9 +30,9 @@ https://live2.jorvakstreamcache.com/live/channel2.m3u8?|Referer=https://xlz.doma
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel16.m3u8?|Referer=https://xlz.domainkqt.cc/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",çè°¢éè½¬æçº§ï¼æ¢è¡éæ¾æ·æ±° 2026é©å½Open Badminton HUYA CN
-http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=51c70f13e2b1442654f6f655973e8cb7&wsTime=6aeb263e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=11dc3decf132e657566f8c403f5e79e6&wsTime=6aeb2986&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",å¾æå©§é©èé©å½éæçº§  2026é©å½Open Badminton HUYA CN
-http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1.flv?wsSecret=19f673053fc98d9e2d0cf95ae9849937&wsTime=6aeb2640&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1.flv?wsSecret=450c12b2527172f6d36259725991a41d&wsTime=6aeb2987&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 # ===== SOURCE 3 =====
 #PLAYLIST:Prime Video Free Sports
 #LAST_UPDATE:06:32 PM 03-11-2026
