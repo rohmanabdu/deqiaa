@@ -8,9 +8,19 @@ https://github.com/rohmanabdu/cloudd/raw/refs/heads/main/awal.mp4
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",ç¨é©°ç¢¾åå¼æçº§ï¼èçºéè½¬æçº§   2026é©å½Open Badminton HUYA CN
-http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=eae8361e76164f93c61e9d9a0fc48119&wsTime=6aecb68d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=04dff52b9b07b1f58eac092f983dc064&wsTime=6aecba4d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",è¡å²å®ååJapanæçº§ï¼è£å¤©å°§æè´¥æ·æ±°  2026é©å½Open Badminton HUYA CN
-http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1.flv?wsSecret=ee940919ee17e098628e165a09cbe4d4&wsTime=6aecb68f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1.flv?wsSecret=e2a7b5ffeb8a9974dbef7f115b9617c1&wsTime=6aecba4f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/K2yDg",[Belum Mulai] 00:45 WIB Crystal Palace vs Hoffenheim
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/K2yDg",[Belum Mulai] 00:45 WIB AEK Athens vs Real Madrid
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1658/image" group-title="LIVE EVENT",22:30 WIB Stade Rennais vs Olympiacos FC Football PARAMOUNT+ - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -71,10 +81,12 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/flrfyrqb
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 # ===== SOURCE 4 =====
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954447868378_UCL26_MD4_AEK_Athens_vs_Real_Madrid_landscape_thumb.jpg" group-title="LIVE EVENT", AEK Athens vs Real Madrid UEFA Champions League 2026-27 Sony Liv
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120305/Footlive0411/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bc9979e108e3dced000de5864f70ecef-1793812202066
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792953990078378_UCL26_MD4_Fenerbahce_vs_Liverpool_landscape_thumb.jpg" group-title="LIVE EVENT", FenerbahÃ§e vs Liverpool UEFA Champions League 2026-27 Sony Liv
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022316/Footlive0411/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bc9979e108e3dced000de5864f70ecef-1793812202066
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027332/1792958081045483_UEL26_MD4_Stade_RennaisFC_vs_OlympiacosFC_landscape_thumb.jpg" group-title="LIVE EVENT", Stade Rennais FC vs Olympiacos FC UEFA Europa League 2026-27 Sony Liv
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120299/footlive0411/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c802a7747d09d88200a5ea831cd0d808-1793811001873
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027304/1792891167048359_UYL26_MD4_Dortmund_vs_Real_Betis_landscape_thumb.jpg" group-title="LIVE EVENT", Dortmund vs Real Betis UEFA Youth League 2026-27 Sony Liv
-https://sonymtmnew-akamaized.pages.dev/hls/live/2018458/footlive0411/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c802a7747d09d88200a5ea831cd0d808-1793811001873
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120299/footlive0411/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bc9979e108e3dced000de5864f70ecef-1793812202066
 # ===== SOURCE 5 =====
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/1658/image",22:30 WIB Stade Rennais vs Olympiacos FC Football PARAMOUNT+ - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
