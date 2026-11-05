@@ -83,11 +83,19 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/aqysg9efuv/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7ed87c718ce47b65761f77720bf08eb:4c46fd4f60010a4dc00fd0f3e5639058
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/irsm7kfc9k/out/v1/d7683dec68ba4f86bfa5ddf4bd842020/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/664/image" group-title="LIVE EVENT",00:45 WIB Lillestrm SK vs FC Viktoria Plzen Football HD SERVER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://www.rtmpcdn.com/live/7fbfb024-aa53-420d-9626-7b9853bf3911.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/664/image" group-title="LIVE EVENT",00:45 WIB Lillestrm SK vs FC Viktoria Plzen Football LOW QUALITY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.59/hls/RLLLAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2962/image" group-title="LIVE EVENT",00:45 WIB NEC Nijmegen vs Omonia Nicosia Football PARAMOUNT+ - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5f3ce660a6b9af7df9f03512663ba248:5a84f1c0aaa2e558beaeda705d318a02
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oqj2ywlm68/out/v1/532aca7bd8d64091a4ef8d1889445f77/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=57b6ec4ffdd737b2f111ac97625a4bd3:dbc3cefb959b1852928073e744cd72a9
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0pqs035nvf/out/v1/f3e189909e254030b64e12e9d8fd7c6d/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2962/image" group-title="LIVE EVENT",00:45 WIB NEC Nijmegen vs Omonia Nicosia Football VIX SPANISH - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -143,6 +151,10 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8q0yrixama/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc611f9ec57e408fc71417bba8789b14:563e846942218398f60e843629a1f546
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yf7vjelijs/out/v1/593517bf2cb344cc903c51ee2dc43588/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1291/image" group-title="LIVE EVENT",00:45 WIB AGF vs Sporting Braga Football LOW QUALITY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/KUUU.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2686/image" group-title="LIVE EVENT",00:45 WIB Atalanta vs FC Kairat Almaty Football PARAMOUNT+ - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -222,8 +234,8 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/o1ph5fi1hn/out/v1
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3051/image" group-title="LIVE EVENT",00:45 WIB Trabzonspor vs SC Freiburg Football PARAMOUNT+ - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=06050120989b4c3d1502f6fd7509a405:c968ad7ed5be43a1e0dc0e32986f89f1
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xfueirxvtf/out/v1/8ea33ebd12a745339a2b65f8c25fcfec/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=a42da0c585eaffcef9e15e384efcbcb4:1b04c5c2c61466177378579de4ad938b
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/psmowl00wi/out/v1/d757908ecf624e588a43a308790e470c/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3051/image" group-title="LIVE EVENT",00:45 WIB Trabzonspor vs SC Freiburg Football VIX SPANISH - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -274,11 +286,11 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://pulse1.sanseny001.shop/puk4/usergendx3j2x4tqrnd.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",Korea Open Badminton 2026 Court 1 HUYA
-http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=f879f2af5f9bc6dc12fe157f145e81d6&wsTime=6aee19a1&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=6e6ce83080d33d13652e12991c56cceb&wsTime=6aee1bfc&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",é¦ä¸«ååJapanå¼ºå¿æçº§ï¼çè°¢éè½¬æçº§  2026é©å½Open Badminton HUYA CN
-http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=146cd6d26deb50fad1d8a353a643e103&wsTime=6aee19a1&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=2e29dbb642f3f9d8011ad26f3b60737c&wsTime=6aee1bfa&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",è¡å²å®æè´¥æ·æ±°ï¼é©åç¦§ä¸ææ­¢æ­¥åå­å¼º  2026é©å½Open Badminton HUYA CN
-http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1.flv?wsSecret=31d32ac878baf7aa4eac18027f3d82c1&wsTime=6aee19a7&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1.flv?wsSecret=6ea8670cd7e2ed93efc3cde770fa1286&wsTime=6aee1bfc&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 # ===== SOURCE 3 =====
 #PLAYLIST:Prime Video Free Sports
 #LAST_UPDATE:12:02 AM 06-11-2026
@@ -415,11 +427,19 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/aqysg9efuv/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7ed87c718ce47b65761f77720bf08eb:4c46fd4f60010a4dc00fd0f3e5639058
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/irsm7kfc9k/out/v1/d7683dec68ba4f86bfa5ddf4bd842020/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/664/image",00:45 WIB Lillestrm SK vs FC Viktoria Plzen Football HD SERVER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://www.rtmpcdn.com/live/7fbfb024-aa53-420d-9626-7b9853bf3911.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/664/image",00:45 WIB Lillestrm SK vs FC Viktoria Plzen Football LOW QUALITY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.59/hls/RLLLAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/2962/image",00:45 WIB NEC Nijmegen vs Omonia Nicosia Football PARAMOUNT+ - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5f3ce660a6b9af7df9f03512663ba248:5a84f1c0aaa2e558beaeda705d318a02
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oqj2ywlm68/out/v1/532aca7bd8d64091a4ef8d1889445f77/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=57b6ec4ffdd737b2f111ac97625a4bd3:dbc3cefb959b1852928073e744cd72a9
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0pqs035nvf/out/v1/f3e189909e254030b64e12e9d8fd7c6d/cenc.mpd
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/2962/image",00:45 WIB NEC Nijmegen vs Omonia Nicosia Football VIX SPANISH - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -475,6 +495,10 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8q0yrixama/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc611f9ec57e408fc71417bba8789b14:563e846942218398f60e843629a1f546
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yf7vjelijs/out/v1/593517bf2cb344cc903c51ee2dc43588/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/1291/image",00:45 WIB AGF vs Sporting Braga Football LOW QUALITY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/KUUU.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/2686/image",00:45 WIB Atalanta vs FC Kairat Almaty Football PARAMOUNT+ - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -554,8 +578,8 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/o1ph5fi1hn/out/v1
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/3051/image",00:45 WIB Trabzonspor vs SC Freiburg Football PARAMOUNT+ - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=06050120989b4c3d1502f6fd7509a405:c968ad7ed5be43a1e0dc0e32986f89f1
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xfueirxvtf/out/v1/8ea33ebd12a745339a2b65f8c25fcfec/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=a42da0c585eaffcef9e15e384efcbcb4:1b04c5c2c61466177378579de4ad938b
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/psmowl00wi/out/v1/d757908ecf624e588a43a308790e470c/cenc.mpd
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/3051/image",00:45 WIB Trabzonspor vs SC Freiburg Football VIX SPANISH - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -587,5 +611,5 @@ https://site04.superabbit77hd.skin/es/volleyball/poland-plus-liga-2251067/slepsk
 https://site04.superabbit77hd.skin/es/volleyball/poland-plus-liga-2252004/cuprum-vs-barkom.html?icg=UEU
 # ===== SOURCE 9 =====
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",Korea Open Badminton 2026 Court 1 HUYA
-http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=f778e7030f9a2ce3f18dfe030ee4d160&wsTime=6aee19da&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=26a673ca4b679d99b62b21ca2050ad2f&wsTime=6aee1c81&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 # ===== SOURCE 11 =====
