@@ -2,20 +2,6 @@
 #EXTINF:-1 tvg-id="" tvg-name="Donasi ++" tvg-logo="https://static.vecteezy.com/system/resources/previews/054/224/335/non_2x/charity-icon-colored-outline-icon-style-hand-giving-money-icon-related-to-donation-and-charity-donation-elements-illustration-vector.jpg" group-title="LIVE EVENT",Donasi +++
 https://github.com/rohmanabdu/cloudd/raw/refs/heads/main/awal.mp4
 # ===== SOURCE 2 =====
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/6081/image" group-title="LIVE EVENT",16:30 WIB Pakistan vs India Football MYCO - AQ
-#EXTVLCOPT:http-referrer=https://myco.io/
-https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8|referer=https://myco.io/
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/6081/image" group-title="LIVE EVENT",16:30 WIB Pakistan vs India Football HD SERVER
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1793874752-0-0-5ff06f528414dfefb16363bff6b7e3fe
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/42199/image" group-title="LIVE EVENT",17:00 WIB Kitchee SC vs Phnom Penh Crown Football HD SERVER
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel11.m3u8?|Referer=https://xlz.domainkqt.cc/
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/3041/image" group-title="LIVE EVENT",17:00 WIB Lion City Sailors vs Adelaide United Football HD SERVER
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel5.m3u8?|Referer=https://xlz.domainkqt.cc/
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/44409/image" group-title="LIVE EVENT",17:00 WIB Machida Zelvia vs Shanghai Shenhua Football HD SERVER
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel15.m3u8?|Referer=https://xlz.domainkqt.cc/
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/uSWbs",17:00 WIB Lion City Sailors vs Adelaide United
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
@@ -25,17 +11,15 @@ https://nvelop-livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0002/fxftjakfqoltr
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/yDHTs",17:00 WIB AI Peppers W vs Expressway Co W
 https://nvelop-livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0010/mgu6plxyszyewsb3hj7wkawvqfvwwv9yvf9j/6xkcscnhayweqzwg0dujcgxfvwwv9yvbct_hls_playlist.m3u8?hdnts=st=1793872311~exp=1793933521~acl=*/mgu6plxyszyewsb3hj7wkawvqfvwwv9yvf9j/*~hmac=b883bf20dbd46e4ed0a6f1616c22fdc24b4727c7e50072e062c89b144937c084
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",Korea Open Badminton 2026 Court 1 HUYA
-http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1.flv?wsSecret=f8da63ec2d3c728c3b0a93fe9526b969&wsTime=6aeda95e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1.flv?wsSecret=2308a91555cdff7979e2deb502001d38&wsTime=6aedaa04&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",Korea Open Badminton 2026 Court 2 HUYA
-http://al.flv.huya.com/src/2356-0-0-2479087855022-10057-A-0-1-imgplus.flv?wsSecret=ec6648eab306a142799ea6b2f9c676ad&wsTime=6aeda960&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855022-10057-A-0-1-imgplus.flv?wsSecret=4ba01041c333b36daa66971b1dc83483&wsTime=6aedaa0f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",Korea Open Badminton 2026 Court 3 HUYA
-http://al.flv.huya.com/src/2356-0-0-2479087855024-10057-A-0-1-imgplus.flv?wsSecret=28811425dd0fb3be27acf8fc4f7d2ae5&wsTime=6aeda951&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
-#EXTINF:-1 tvg-logo="https://cdn.esports.id/media/article/488220220630094344.jpg" group-title="LIVE EVENT",MPL INDONESIA SEASON 18 PLAYOFFS Streaming mobile legends: bang bang.
-http://gvisiontv2.channell.my.id/ch/tch/tch.php/.m3u8?id=navimlbbofficial
+http://al.flv.huya.com/src/2356-0-0-2479087855024-10057-A-0-1-imgplus.flv?wsSecret=8a564221d429f8093e6cdd6fb78707d7&wsTime=6aedaa12&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",æ ¼éå¡å°è¾¾u002Fæ¸æ°´æVSå²©æ°¸éu002Fä¸­è¥¿è´µæ   2026é©å½Open Badminton HUYA CN
-http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=0e6e5a69d0f84ec2f2ea33320f5707a0&wsTime=6aeda95e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=61f92bcaeaac49d5f56213c1a89d0ebe&wsTime=6aedaa12&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",ææ¡å©§u002Fçæ¼ªæµVSéæ¨é³åu002Få±±åå¥ç»ª  2026é©å½Open Badminton HUYA CN
-http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1.flv?wsSecret=9792aba3ca36263bab270ea30617b2f5&wsTime=6aeda95f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1.flv?wsSecret=19610ad8dcbb7dc545848ed14f8cf568&wsTime=6aedaa14&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 # ===== SOURCE 3 =====
 #PLAYLIST:Prime Video Free Sports
 #LAST_UPDATE:04:02 PM 05-11-2026
@@ -188,11 +172,11 @@ https://site04.superabbit77hd.skin/es/volleyball/poland-plus-liga-2251067/slepsk
 https://site04.superabbit77hd.skin/es/volleyball/poland-plus-liga-2252004/cuprum-vs-barkom.html?icg=UEU
 # ===== SOURCE 9 =====
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",Korea Open Badminton 2026 Court 1 HUYA
-http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1.flv?wsSecret=dc54e2e2d59c3822604546bee0a9965c&wsTime=6aeda998&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1.flv?wsSecret=578b7fe78a4fdf62ffc856e7623ee41b&wsTime=6aedabef&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",Korea Open Badminton 2026 Court 2 HUYA
-http://al.flv.huya.com/src/2356-0-0-2479087855022-10057-A-0-1-imgplus.flv?wsSecret=447e53e29bb98b33ebb7e098a51501f0&wsTime=6aeda999&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855022-10057-A-0-1-imgplus.flv?wsSecret=c0862d0418d4f51450ecc1a3f666c87a&wsTime=6aedabdc&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",Korea Open Badminton 2026 Court 3 HUYA
-http://al.flv.huya.com/src/2356-0-0-2479087855024-10057-A-0-1-imgplus.flv?wsSecret=6d6999cd2465120821068ff6e5bb6aea&wsTime=6aeda989&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855024-10057-A-0-1-imgplus.flv?wsSecret=0b563fe70090dfa1d08f58d70916b13f&wsTime=6aedabd6&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 # ===== SOURCE 11 =====
 # ===== SOURCE 13 =====
 #EXTINF:-1 tvg-logo="https://cdn.esports.id/media/article/488220220630094344.jpg" group-title="LIVE EVENT", MPL INDONESIA SEASON 18 PLAYOFFS Streaming mobile legends: bang bang.
