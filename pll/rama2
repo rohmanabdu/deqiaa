@@ -31,6 +31,11 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2677/image" group-title="LIVE EVENT",00:30 WIB VfB Stuttgart vs SV Werder Bremen Football DAZN SPORTS - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=54e8a56d27a4ed414bb48e96e08387e1:c7faec0ba61a58a7b35ddb653448fe08
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bqghxjqpds/out/v1/9df0796aa49940fa98b492bef10378d0/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2677/image" group-title="LIVE EVENT",00:30 WIB VfB Stuttgart vs SV Werder Bremen Football PEACOCK ES - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -157,6 +162,11 @@ https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1791804090_s~35174
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/axtvmoxwxq/out/v1/7763c905a97d486ea1e9c36deb017e25/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1646/image" group-title="LIVE EVENT",01:00 WIB AJ Auxerre vs Paris FC Football DAZN SPORTS - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ed745d3e3e141e6dbf5ecca6af23e24:772dab362b4f01d919642267c0c16ac1
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hmfuehvuzy/out/v1/93c30fd294c2413e897a5474e21f20b1/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1646/image" group-title="LIVE EVENT",01:00 WIB AJ Auxerre vs Paris FC Football beIN ENGLISH - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -164,9 +174,9 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/axtvmoxwxq/out/v1
 #KODIPROP:inputstream.adaptive.license_key=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",èçºï¼éç½æ­¢æ­¥åå³èµ  2026é©å½Open Badminton HUYA CN
-http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=b0e8b0b484d17546a24e7b173164c14f&wsTime=6af0c154&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=f832d4b2a138f82eba1eeea2e1505794&wsTime=6af0c3a8&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",é¦ä¸«æ¨ªæ«ååæçº§å³èµ   2026é©å½Open Badminton HUYA CN
-http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1.flv?wsSecret=a3802ea33890d021c9fa4e449a053fcd&wsTime=6af0c155&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1.flv?wsSecret=d14a6a23456ae706b83bee81faa327cb&wsTime=6af0c3a9&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.1e0ce565-3b83-47a7-8254-3bf685bfdd13/2/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",Northern Series: Wales v Japan  Prime Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -299,6 +309,11 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1118d83348830358060d408a72f56f29:648378946f2f70f43af47ff9bf3e329b
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1791804090_s~35174801-9c9a-4ac6-8180-bcceaba6c98a_u~fe3b84cbbdf5bc565dd1012e5306ba8dc943c4ee57b1c5b2555a972552c5c85df5468f3aaf797d103da27a492f48c64a_l~70_x~743ee2be13010752947f25f2eda5b1b044b9c8690dcbb5f1493a82650dd39ca2/nowitlin2/Content/CMAF_CTR_H1/Live/channel(GmNkZkEhHwZyLEqoafQKOFLW)/master_2hr-all.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/2677/image",00:30 WIB VfB Stuttgart vs SV Werder Bremen Football DAZN SPORTS - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=54e8a56d27a4ed414bb48e96e08387e1:c7faec0ba61a58a7b35ddb653448fe08
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bqghxjqpds/out/v1/9df0796aa49940fa98b492bef10378d0/cenc.mpd
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/2677/image",00:30 WIB VfB Stuttgart vs SV Werder Bremen Football PEACOCK ES - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -386,6 +401,11 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/axtvmoxwxq/out/v1/7763c905a97d486ea1e9c36deb017e25/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/1646/image",01:00 WIB AJ Auxerre vs Paris FC Football DAZN SPORTS - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ed745d3e3e141e6dbf5ecca6af23e24:772dab362b4f01d919642267c0c16ac1
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hmfuehvuzy/out/v1/93c30fd294c2413e897a5474e21f20b1/cenc.mpd
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/1646/image",01:00 WIB AJ Auxerre vs Paris FC Football beIN ENGLISH - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
