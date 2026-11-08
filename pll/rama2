@@ -1,24 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Donasi ++" tvg-logo="https://static.vecteezy.com/system/resources/previews/054/224/335/non_2x/charity-icon-colored-outline-icon-style-hand-giving-money-icon-related-to-donation-and-charity-donation-elements-illustration-vector.jpg" group-title="LIVE EVENT",Donasi +++
 https://github.com/rohmanabdu/cloudd/raw/refs/heads/main/awal.mp4
-# ===== SOURCE 1 =====
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgEplpQQVqoiEPs2_7l6jRQ1TwJBCm6ucbQ0y5A074Ww&s=10" group-title="LIVE EVENT",22:15 WIB MotoGP Race: Qatar Airways Grand Prix of Qatar - MotoGP 2026 Round 20 TNT SPORTS 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgEplpQQVqoiEPs2_7l6jRQ1TwJBCm6ucbQ0y5A074Ww&s=10" group-title="LIVE EVENT",22:15 WIB MotoGP Race: Qatar Airways Grand Prix of Qatar - MotoGP 2026 Round 20 Fancode
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgEplpQQVqoiEPs2_7l6jRQ1TwJBCm6ucbQ0y5A074Ww&s=10" group-title="LIVE EVENT",22:15 WIB MotoGP Race: Qatar Airways Grand Prix of Qatar - MotoGP 2026 Round 20 Nonton GP
-#EXTVLCOPT:http-referrer=https://esp32.nontonx.com/
-http://master3.s3stream.top/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgEplpQQVqoiEPs2_7l6jRQ1TwJBCm6ucbQ0y5A074Ww&s=10" group-title="LIVE EVENT",22:15 WIB MotoGP Race: Qatar Airways Grand Prix of Qatar - MotoGP 2026 Round 20 MOTOGP TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 # ===== SOURCE 2 =====
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg",21:30 WIB KÃ¶ln vs Bayer Leverkusen
 https://www.rtmpcdn.com/live/be3d7e2d-95ae-4b01-b745-dfc853dfae96.m3u8
@@ -89,9 +71,9 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",éåæµ©u002Få¾æ¿å®°2-1ä¿æ¨åæu002Få°æä¼å¾ï¼å¤ºå¾å å  2026é©å½Open Badminton HUYA CN
-http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=6f079d3b03111313272952ce8238c7ee&wsTime=6af20010&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=d1ecc04732ecfd710d5aca4e9447a050&wsTime=6af20235&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",èé­2-0é«å´ä¸è·¯è¿å³æ©å°ï¼æåå¤ºå    2026é©å½Open Badminton HUYA CN
-http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1.flv?wsSecret=89dbd49d1cb52e1902c264332f5ff48b&wsTime=6af20011&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1.flv?wsSecret=962a117feaa8ad9605cf7b82c6b9c139&wsTime=6af20237&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://iili.io/FtSMHX9.jpg",[Belum Mulai] 00:30 WIB Villarreal vs Getafe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
