@@ -14,12 +14,6 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgEplpQQVqoiEPs2_7l6jRQ1TwJBCm6ucbQ0y5A074Ww&s=10" group-title="LIVE EVENT",22:15 WIB MotoGP Race: Qatar Airways Grand Prix of Qatar - MotoGP 2026 Round 20 Nonton GP
 #EXTVLCOPT:http-referrer=https://esp32.nontonx.com/
 http://master3.s3stream.top/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Mono 29.th" tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="LIVE EVENT",20:15 WIB à¸à¹à¸²à¸¢à¸à¸­à¸à¸ªà¸ PREMIER LEAGUE 2026/2027 / à¸à¹à¸²à¸§à¹à¸à¸à¸£à¸°à¸£à¸²à¸à¸ªà¸³à¸à¸±à¸ MONO29
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgEplpQQVqoiEPs2_7l6jRQ1TwJBCm6ucbQ0y5A074Ww&s=10" group-title="LIVE EVENT",22:15 WIB MotoGP Race: Qatar Airways Grand Prix of Qatar - MotoGP 2026 Round 20 MOTOGP TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -127,10 +121,52 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1684/image" group-title="LIVE EVENT",23:15 WIB Angers vs OGC Nice Football DAZN SPORTS - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5bb1aaadb36e94b379f6e6e045fc64a8:731ecbfab5d73fa2880b69ee1bda944d
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yigatghesv/out/v1/4d33e812c03c4e2999880ff0c49d7632/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1684/image" group-title="LIVE EVENT",23:15 WIB Angers vs OGC Nice Football beIN SPORTS - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6fb0ddc7e384e78dea1868457c21fc7d:88f26e97ed7f41070644f8519fd4d2ae
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/widvcbyhyu/out/v1/f2b6e6971f8842418e19cba76875c208/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1715/image" group-title="LIVE EVENT",23:15 WIB Stade Brestois vs Olympique Lyonnais Football DAZN SPORTS - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad1daab78c871461fe1cef91c1fae578:00754db8e34d78f514f44841bf49d4a7
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2wufinkf4s/out/v1/bf08e7ed62f64e3a99013194722a263b/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1715/image" group-title="LIVE EVENT",23:15 WIB Stade Brestois vs Olympique Lyonnais Football beIN SPORTS - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1662/image" group-title="LIVE EVENT",23:15 WIB Le Havre vs Lorient Football DAZN SPORTS - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c504219cda4cf4b01b7d4361b94ce057:ec3d999f9df5060e7c2e575ea91fbfe6
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mirynqxkqr/out/v1/39913cbc6d0a4ecab53230efc9c68358/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1662/image" group-title="LIVE EVENT",23:15 WIB Le Havre vs Lorient Football beIN SPORTS - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b17f5cd91d6b9dde66cf11dac2c7805:ffc6dd5e62c688c5f8e131649df94a2d
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/penehwquxc/out/v1/e01e96068c20482280b810b34aa66a6e/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1672/image" group-title="LIVE EVENT",23:15 WIB Le Mans vs AS Monaco Football DAZN SPORTS - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6112e236eac4d6fcc05cbbc7fa0db5cd:305845d2010cec3540b6ec67377c002b
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/36bhzcuctb/out/v1/ede8b395b0c8406aab754e2a119b0080/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1672/image" group-title="LIVE EVENT",23:15 WIB Le Mans vs AS Monaco Football beIN SPORTS - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",éåæµ©u002Få¾æ¿å®°2-1ä¿æ¨åæu002Få°æä¼å¾ï¼å¤ºå¾å å  2026é©å½Open Badminton HUYA CN
-http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=2d01457cccfca03d558d265311ef4be2&wsTime=6af1f23d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=eeb9a5fcb218b3549a812a55734dc06f&wsTime=6af1f455&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",èé­2-0é«å´ä¸è·¯è¿å³æ©å°ï¼æåå¤ºå    2026é©å½Open Badminton HUYA CN
-http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1.flv?wsSecret=a3a250534b45fe53c1c55bd6790a1d89&wsTime=6af1f242&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1.flv?wsSecret=921f113cc7bb1a60c5577b36f32f15df&wsTime=6af1f459&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.069d3bc2-7798-43ab-9f74-57b150d8a20e/2/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",London City Lionesses vs. Birmingham City  Prime Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -308,6 +344,48 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ba6aca5a550163c38d06646bb50f04e7:516c3b471fce48a5b7a2e5ee7dd505f2
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/1684/image",23:15 WIB Angers vs OGC Nice Football DAZN SPORTS - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5bb1aaadb36e94b379f6e6e045fc64a8:731ecbfab5d73fa2880b69ee1bda944d
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yigatghesv/out/v1/4d33e812c03c4e2999880ff0c49d7632/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/1684/image",23:15 WIB Angers vs OGC Nice Football beIN SPORTS - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6fb0ddc7e384e78dea1868457c21fc7d:88f26e97ed7f41070644f8519fd4d2ae
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/widvcbyhyu/out/v1/f2b6e6971f8842418e19cba76875c208/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/1715/image",23:15 WIB Stade Brestois vs Olympique Lyonnais Football DAZN SPORTS - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad1daab78c871461fe1cef91c1fae578:00754db8e34d78f514f44841bf49d4a7
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2wufinkf4s/out/v1/bf08e7ed62f64e3a99013194722a263b/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/1715/image",23:15 WIB Stade Brestois vs Olympique Lyonnais Football beIN SPORTS - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/1662/image",23:15 WIB Le Havre vs Lorient Football DAZN SPORTS - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c504219cda4cf4b01b7d4361b94ce057:ec3d999f9df5060e7c2e575ea91fbfe6
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mirynqxkqr/out/v1/39913cbc6d0a4ecab53230efc9c68358/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/1662/image",23:15 WIB Le Havre vs Lorient Football beIN SPORTS - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b17f5cd91d6b9dde66cf11dac2c7805:ffc6dd5e62c688c5f8e131649df94a2d
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/penehwquxc/out/v1/e01e96068c20482280b810b34aa66a6e/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/1672/image",23:15 WIB Le Mans vs AS Monaco Football DAZN SPORTS - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6112e236eac4d6fcc05cbbc7fa0db5cd:305845d2010cec3540b6ec67377c002b
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/36bhzcuctb/out/v1/ede8b395b0c8406aab754e2a119b0080/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/1672/image",23:15 WIB Le Mans vs AS Monaco Football beIN SPORTS - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/2970/image",22:45 WIB SC Cambuur vs PSV Eindhoven Football SportDigital Fussball
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
