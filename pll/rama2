@@ -116,6 +116,20 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 https://www.rtmpcdn.com/live/82aee5e2-d39f-48e0-9a27-c76cb83fea3e.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/32/image" group-title="LIVE EVENT",21:00 WIB Ipswich Town vs Bournemouth Football PEACOCK ENG - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a744ae1196026646c33e5a96894c81eb:66bf0de18f4f42ebb891bdd301be34ff
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/t0zwjh8duv/out/v1/152ff1e739c94c87aaa4068dd6213fe6/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/32/image" group-title="LIVE EVENT",21:00 WIB Ipswich Town vs Bournemouth Football SKY SPORT PL - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09d34ac8d64803c1f8b1bddada99d638:752ab3efc7eb3601c8d3c6b5a89ffa39
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yd0huk04ob/out/v1/bc2ed690e3134c4c82a7c51b7174b5ae/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/32/image" group-title="LIVE EVENT",21:00 WIB Ipswich Town vs Bournemouth Football HD SERVER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://www.rtmpcdn.com/live/b04f0f05-426c-44c3-a941-67517aa7201d.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/41/image" group-title="LIVE EVENT",21:00 WIB Sunderland vs Chelsea Football SKY SPORT MIX - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -192,31 +206,42 @@ https://www.rtmpcdn.com/live/f482508f-e51b-477a-83c7-0f7927b2794c.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2671/image" group-title="LIVE EVENT",21:30 WIB 1. FC Koln vs Bayer 04 Leverkusen Football DAZN SPORTS - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4f80bd1af6f690babee33ca904a6963:1c266b79d9282476ee6cd7bffa209571
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z4yk0bhh36/out/v1/2a23af58f77247849688edac3ce07022/cenc.mpd
 #EXTINF:-1 tvg-logo="https://cdn.esports.id/media/article/488220220630094344.jpg" group-title="LIVE EVENT",MPL INDONESIA SEASON 18 PLAYOFFS Streaming mobile legends: bang bang.
 http://gvisiontv2.channell.my.id/ch/tch/tch.php/.m3u8?id=navimlbbofficial
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",éåæµ©u002Få¾æ¿å®°2-1ä¿æ¨åæu002Få°æä¼å¾ï¼å¤ºå¾å å  2026é©å½Open Badminton HUYA CN
-http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=6eba883ee1a695c55e3e9390cb101988&wsTime=6af1d7fd&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=cfb1d8b9bce28fc7e7cfc7a067a2f559&wsTime=6af1dace&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",èé­2-0é«å´ä¸è·¯è¿å³æ©å°ï¼æåå¤ºå    2026é©å½Open Badminton HUYA CN
-http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1.flv?wsSecret=ba180acd141f99889013db77340bf243&wsTime=6af1d7ff&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1.flv?wsSecret=1b094b3f2297a9f8e14f21b17627d51a&wsTime=6af1dacf&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.069d3bc2-7798-43ab-9f74-57b150d8a20e/2/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",London City Lionesses vs. Birmingham City  Prime Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 # ===== SOURCE 3 =====
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:08:02 PM 08-11-2026
+#LAST_UPDATE:08:32 PM 08-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:7
 #UPCOMING_COUNT:0
+#EXTINF:-1 tvg-id="B0HM7N447W" tvg-name="Bassmaster Redfish Cup at Port Aransas" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.e7dfd46d-5b94-4fa8-91f0-0bf32de6a7da/3/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",Bassmaster Redfish Cup at Port Aransas  Prime Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad6e7091d1d36a16d5475bdb2d900888:8c67e6b1e4bcf1ee1f12167526ef2503
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qy6usrjqzw/out/v1/48d0ffdc0c354fc8bf9b565c245d0f07/cenc.mpd
 #EXTINF:-1 tvg-id="B0HP7N94GD" tvg-name="Qatar Airways Grand Prix of Qatar" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.a773e190-97b9-46b9-aa51-f41243073f3f/6/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",Qatar Airways Grand Prix of Qatar  Prime Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 https://ABBISGVAAAAAAAAMAAAH7IVG43ZKN.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprBCRRBhpq8F3RA2pjbG91ZGZyb250AngoZmlkOjAxYTFiYWVlLTdjMmMtNzc2Yy05ZTlkLTVhZWRjOTA1ZjhmMxkBOKEFoQJ4My9kMmh6c284d2g5L291dC92MS8zMGYzYWQ5YmEyYzM0MDczOWVhMjk0M2YyOWQ0NGIzMlggjAxUJtVlusbA-gnuRcQyPe6difHE-o4im5W6qKf5I4A/PDX/709b3c4313a9405ab5e8634864c7cc3b/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/d2hzso8wh9/out/v1/30f3ad9ba2c340739ea2943f29d44b32/94538be2-fb87-4655-bd42-260f9a065a33-cenc.mpd?aws.sessionId=58bda48c-1da9-4fb6-825d-a3dcc3ab40e7
-#EXTINF:-1 tvg-id="B0HM7N447W" tvg-name="Bassmaster Redfish Cup at Port Aransas" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.e7dfd46d-5b94-4fa8-91f0-0bf32de6a7da/3/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",Bassmaster Redfish Cup at Port Aransas  Prime Sports
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad6e7091d1d36a16d5475bdb2d900888:8c67e6b1e4bcf1ee1f12167526ef2503
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qy6usrjqzw/out/v1/48d0ffdc0c354fc8bf9b565c245d0f07/cenc.mpd
 #EXTINF:-1 tvg-id="B0HFDNX2NF" tvg-name="Triton Poker ONE Series Cyprus-$3K One-W Championship" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.2b65c2cc-9120-4a80-b792-559163353e78/5/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",Triton Poker ONE Series Cyprus-$3K One-W Championship  Prime Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -228,19 +253,19 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vh
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 #EXTINF:-1 tvg-id="B0HMJRXGWM" tvg-name="Abu Dhabi T10 League 2026 - 5th Match - United Tigers vs UAE Bulls" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.6cc61be3-5fd9-4a37-9e74-d4fe0dc4b75e/1/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0-0-1920-1080+0-0-1920-1080+1724-885-117-117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",Abu Dhabi T10 League 2026 - 5th Match - United Tigers vs UAE Bulls  Prime Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b107afb9c4f0fc911437a899bcccaf7c:56fb9ff0fd62018a100332cd35bdd207
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rktm56g5mu/out/v1/1f82e1df15384125a660c3ac49a6ad79/cenc.mpd
-#EXTINF:-1 tvg-id="B0HNK1J47K" tvg-name="Abu Dhabi T10 League 2026 - 4th Match - Yas Lions vs Emirates Eagles" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.4a4e0c59-8d9a-4c9d-94bf-e2d66fbc4a31/2/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0-0-1920-1080+0-0-1920-1080+1724-885-117-117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",Abu Dhabi T10 League 2026 - 4th Match - Yas Lions vs Emirates Eagles  Prime Sports
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rktm56g5mu/out/v1/1f82e1df15384125a660c3ac49a6ad79/cenc.mpd
+#EXTINF:-1 tvg-id="B0HMNRQW3Z" tvg-name="London City Lionesses vs. Birmingham City" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.069d3bc2-7798-43ab-9f74-57b150d8a20e/2/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",London City Lionesses vs. Birmingham City  Prime Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bf29a35e375da99d9ee225515621294e:41c2975121d22fd57ef0d436fa6d5971
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/rpefporlb5/out/v1/e6bb4ef3929e41e7a893cf20d8ea7c0b/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 # ===== SOURCE 4 =====
 # ===== SOURCE 5 =====
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHudrhyphenhyphenOGNuEpCmd8k8vfTaJ7hTqEb6GemloDedieYFrvM5MJz639vioDvQnlHGBhvxsNBHSLg2ICSGot7LWGA2PDZqoc3W_A3Yu002I5JGUeQgTCG_UFhDRPSJr2E1blnBokZvTYkB6B2nJVeeUy6s28sW-XHRZzCW_J6SOGpaoXx0LB-CH-9iTf1ebc/s1600/1000009837.jpg",19:00 WIB Motogp Motorsport TNT SPORTS - AQ
@@ -288,6 +313,11 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tt7bt6wnxg/out/v1
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tt7bt6wnxg/out/v1/865dd41533dc426eb8cd944c1454c6e7/cenc.mpd
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",20:45 WIB Abu Dhabi T10 League Cricket A SPORTS HD
 https://live.msnetworks.net/a-sports/master.m3u8
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/2671/image",21:30 WIB 1. FC Koln vs Bayer 04 Leverkusen Football DAZN SPORTS - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4f80bd1af6f690babee33ca904a6963:1c266b79d9282476ee6cd7bffa209571
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z4yk0bhh36/out/v1/2a23af58f77247849688edac3ce07022/cenc.mpd
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/30/image",21:00 WIB Brighton Hove Albion vs Brentford Football PEACOCK ENG - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -313,6 +343,20 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 https://www.rtmpcdn.com/live/82aee5e2-d39f-48e0-9a27-c76cb83fea3e.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/32/image",21:00 WIB Ipswich Town vs Bournemouth Football PEACOCK ENG - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a744ae1196026646c33e5a96894c81eb:66bf0de18f4f42ebb891bdd301be34ff
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/t0zwjh8duv/out/v1/152ff1e739c94c87aaa4068dd6213fe6/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/32/image",21:00 WIB Ipswich Town vs Bournemouth Football SKY SPORT PL - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09d34ac8d64803c1f8b1bddada99d638:752ab3efc7eb3601c8d3c6b5a89ffa39
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yd0huk04ob/out/v1/bc2ed690e3134c4c82a7c51b7174b5ae/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/32/image",21:00 WIB Ipswich Town vs Bournemouth Football HD SERVER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://www.rtmpcdn.com/live/b04f0f05-426c-44c3-a941-67517aa7201d.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/41/image",21:00 WIB Sunderland vs Chelsea Football SKY SPORT MIX - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -416,6 +460,17 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 https://www.rtmpcdn.com/live/972872e4-b4ca-4468-b26f-9cc6dc4ba209.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/4393/image",21:30 WIB Atlanta Falcons vs Cincinnati Bengals American football PARAMOUNT+ - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42a3946f97dd9304eccf00b769261c8e:947067e7d5f233542225a236a10f422d
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jq7xtmrld4/out/v1/95dfdfa733784f1fb1800a060fad4e96/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/4393/image",21:30 WIB Atlanta Falcons vs Cincinnati Bengals American football SporTV BR - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 # ===== SOURCE 6 =====
 #PLAYLIST:Willow Cricket Event Info
 #LAST_UPDATE:03:32 PM 16-10-2026
