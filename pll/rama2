@@ -3,9 +3,9 @@
 https://github.com/rohmanabdu/cloudd/raw/refs/heads/main/awal.mp4
 # ===== SOURCE 2 =====
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",èé­2-0æçº§ï¼è¡æ¢ä¸ææ­¢æ­¥åå­å¼º    2026JapanMasters Badminton HUYA CN
-http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=0fa7e8e5a6284509c418aca6fbc207bd&wsTime=6af6e3a0&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=5bc93b19c05533245fa1b3a1cf94e948&wsTime=6af6e63f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",éé¨è²2-0æçº§ï¼è£å¤©å°§éæ¾æ·æ±°  2026JapanMasters Badminton HUYA CN
-http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1.flv?wsSecret=4d97eeedce61a7a9e616e1e99b34e690&wsTime=6af6e3a2&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1.flv?wsSecret=ec5f9f73b093a258ad59b85c78652fe8&wsTime=6af6e641&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 # ===== SOURCE 3 =====
 #PLAYLIST:Prime Video Free Sports
 #LAST_UPDATE:04:02 PM 12-11-2026
@@ -71,6 +71,33 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 https://live.msnetworks.net/ptv-sports/master.m3u8
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/187754/image",11:30 WIB Pakistan vs Sri Lanka Cricket TAPMAD HD
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/213103/image",12:00 WIB Afghanistan Under-19 vs India Under-19 Cricket WILLOW - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69b4f7d5d85ff47192fce27c107246f7:8993f991655c84eb324bad2c1c551cc1
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ezawp6dxef/out/v1/89f7935bf21246fb971d93c016044f01/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/213103/image",12:00 WIB Afghanistan Under-19 vs India Under-19 Cricket PRIME VIDEO - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=558ca0dbe07bf76ecee0c2570cec8f90:bffef63168d2229b6fe946a65cd6e0aa
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vfhi45qzel/out/v1/ab0216dbe96d408ea761a7856b61e404/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/213103/image",12:00 WIB Afghanistan Under-19 vs India Under-19 Cricket WILLOW - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69b4f7d5d85ff47192fce27c107246f7:8993f991655c84eb324bad2c1c551cc1
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ezawp6dxef/out/v1/89f7935bf21246fb971d93c016044f01/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/213103/image",12:00 WIB Afghanistan Under-19 vs India Under-19 Cricket SonyLiv - ENG
+https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_1211/ENG/master.m3u8?hdnea=exp=1794503282~acl=/*~id=81695270016034678762187000759167~hmac=1417d19f52cbee10bc0fc7d896121dfcd09d21439cc4bb591d305c055e5e5188
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/213103/image",12:00 WIB Afghanistan Under-19 vs India Under-19 Cricket SonyLiv - HIN
+https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_1211/HIN/master.m3u8?hdnea=exp=1794503282~acl=/*~id=81695270016034678762187000759167~hmac=1417d19f52cbee10bc0fc7d896121dfcd09d21439cc4bb591d305c055e5e5188
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/213103/image",12:00 WIB Afghanistan Under-19 vs India Under-19 Cricket SonyLiv - TAM
+https://liveakmt-p-md.slivcdn.com/hls/live/2119951/cricodi_1211/TAM/master.m3u8?hdnea=exp=1794503282~acl=/*~id=81695270016034678762187000759167~hmac=1417d19f52cbee10bc0fc7d896121dfcd09d21439cc4bb591d305c055e5e5188
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/213103/image",12:00 WIB Afghanistan Under-19 vs India Under-19 Cricket SonyLiv - TEL
+https://liveakmt-p-md.slivcdn.com/hls/live/2119941/cricodi_1211/TEL/master.m3u8?hdnea=exp=1794503282~acl=/*~id=81695270016034678762187000759167~hmac=1417d19f52cbee10bc0fc7d896121dfcd09d21439cc4bb591d305c055e5e5188
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/213103/image",12:00 WIB Afghanistan Under-19 vs India Under-19 Cricket SonyLiv - KAN
+https://liveakmt-p-md.slivcdn.com/hls/live/2119782/cricodi_1211/KAN/master.m3u8?hdnea=exp=1794503282~acl=/*~id=81695270016034678762187000759167~hmac=1417d19f52cbee10bc0fc7d896121dfcd09d21439cc4bb591d305c055e5e5188
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/213103/image",12:00 WIB Afghanistan Under-19 vs India Under-19 Cricket TEN SPORTS HD
+https://app.uckingcrazy1.workers.dev/api/play/Ten%20Cricket.m3u8
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",15:10 WIB WBBL Women Big Bash League Cricket WILLOW - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
