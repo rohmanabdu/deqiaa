@@ -73,7 +73,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4707/image" group-title="LIVE EVENT",02:45 WIB Italy vs France Football SPORT 1 CZ - AQ
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4707/image" group-title="LIVE EVENT",02:45 WIB Italy vs France Football SPORT 2 CZ - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -82,6 +82,8 @@ https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd|user-agent=Mozilla
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4707/image" group-title="LIVE EVENT",02:45 WIB Italy vs France Football SonyLiv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; sdk_gphone_x86_64 Build/TE1A.220922.033) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.71 Mobile Safari/537.36
 https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794554959~acl=/*~id=09933563448685875209432911659816~hmac=2b90f27117ccdd8654ff06c7de4eb30b0cd4e71a01e5e9db074151e78bebc014|User-Agent=Mozilla/5.0 (Linux; Android 13; sdk_gphone_x86_64 Build/TE1A.220922.033) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.71 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4707/image" group-title="LIVE EVENT",02:45 WIB Italy vs France Football HD SERVER
+https://live01-cn-ali.xqnbu.com/live/99429832_tsc.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4690/image" group-title="LIVE EVENT",02:45 WIB Albania vs Finland Football FUBO NETWORK FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -126,9 +128,9 @@ https://pulse1.sanseny001.shop/puk5/usergen0grnd8l2y6gw.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://iron1.xn--x2rw19a.space/puk2/usergenrnd0clv03fyt.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",èé­2-0æçº§ï¼è¡æ¢ä¸ææ­¢æ­¥åå­å¼º    2026JapanMasters Badminton HUYA CN
-http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=3ed22aadbc38e75d5305abe56bdd2284&wsTime=6af76e2a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=d6e15d0924e89fc34ed3f13585e62a67&wsTime=6af77049&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",éé¨è²2-0æçº§ï¼è£å¤©å°§éæ¾æ·æ±°  2026JapanMasters Badminton HUYA CN
-http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1.flv?wsSecret=0d4cb025ef3e9f1b6206e9ca1bdf0136&wsTime=6af76e2c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1.flv?wsSecret=bd3aeb9fa83f5eedf03036e8cf2d205b&wsTime=6af77050&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 # ===== SOURCE 3 =====
 #PLAYLIST:Prime Video Free Sports
 #LAST_UPDATE:02:02 AM 13-11-2026
@@ -212,7 +214,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/4707/image",02:45 WIB Italy vs France Football SPORT 1 CZ - AQ
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/4707/image",02:45 WIB Italy vs France Football SPORT 2 CZ - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -221,6 +223,8 @@ https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd|user-agent=Mozilla
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/4707/image",02:45 WIB Italy vs France Football SonyLiv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; sdk_gphone_x86_64 Build/TE1A.220922.033) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.71 Mobile Safari/537.36
 https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794554959~acl=/*~id=09933563448685875209432911659816~hmac=2b90f27117ccdd8654ff06c7de4eb30b0cd4e71a01e5e9db074151e78bebc014|User-Agent=Mozilla/5.0 (Linux; Android 13; sdk_gphone_x86_64 Build/TE1A.220922.033) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.71 Mobile Safari/537.36
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/4707/image",02:45 WIB Italy vs France Football HD SERVER
+https://live01-cn-ali.xqnbu.com/live/99429832_tsc.m3u8
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/4690/image",02:45 WIB Albania vs Finland Football FUBO NETWORK FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
