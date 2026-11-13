@@ -46,6 +46,73 @@ https://sonymtmnew-akamaized.pages.dev/out/v1/mpchgp431f/mpch0b37/cricodi_1211-e
 https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/Golf_DPW1311/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=f2ee22a217181185592d034b1d0b0a8b-1794557404521
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027302/1792887693162295_ASIANTOUR2026_Philippine_Open_Day2_landscape_thumb.jpg" group-title="LIVE EVENT", Philippine Open - Day 2 Asian Tour 2026 Sony Liv
 https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/Golf_Phi1311/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=f2ee22a217181185592d034b1d0b0a8b-1794557404521
+# ===== SOURCE 5 =====
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/187575/image",12:00 WIB Afghanistan vs Zimbabwe Cricket WILLOW - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b21487d48dba161df1dbcb2709e78ac5:495d4dfd655791c39933461c3751bde3
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/j7kojz9zjq/out/v1/364b343c25d549ebade260951e5ae871/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/187575/image",12:00 WIB Afghanistan vs Zimbabwe Cricket WILLOW - ALT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b21487d48dba161df1dbcb2709e78ac5:495d4dfd655791c39933461c3751bde3
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/j7kojz9zjq/out/v1/364b343c25d549ebade260951e5ae871/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/187575/image",12:00 WIB Afghanistan vs Zimbabwe Cricket A SPORTS HD
+https://live.msnetworks.net/a-sports/master.m3u8
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&amp;s",13:45 WIB NPL Nepal Premier League Cricket FANCODE - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&amp;s",13:45 WIB NPL Nepal Premier League Cricket STAR SPORTS HD
+http://line.tivi-ott.net/play/live.php?mac=00:1B:79:F9:2A:14&stream=373201&extension=m3u8
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/187754/image",11:30 WIB Pakistan vs Sri Lanka Cricket WILLOW - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e8ebd9181946fbaa6e3dbf57be1e08c:7ac65a50bd9833f40eb8d383a5bf2beb
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mg8j8enrjm/out/v1/709854ce369042edb21bbc912f26c2e3/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/187754/image",11:30 WIB Pakistan vs Sri Lanka Cricket WILLOW - ALT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e8ebd9181946fbaa6e3dbf57be1e08c:7ac65a50bd9833f40eb8d383a5bf2beb
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mg8j8enrjm/out/v1/709854ce369042edb21bbc912f26c2e3/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/187754/image",11:30 WIB Pakistan vs Sri Lanka Cricket PTV SPORTS HD
+https://live.msnetworks.net/ptv-sports/master.m3u8
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/187754/image",11:30 WIB Pakistan vs Sri Lanka Cricket TAPMAD HD
+https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/417062/image",16:15 WIB Zimbabwe Women vs Bangladesh Women Cricket ICC TV - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1794589384~acl=*%2fchannel(vcg-01-ch-hd-07)%2f*~id=df636eee-0529-4299-91da-e8ce8c8790f0~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=6e9b89ed3891607678596995263356104ae07d9b14fb763adbcfd44a98763925/manifest.mpd?vcfilter=64cee3c3-d133-4603-8993-f9108a5f90cb|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/417062/image",16:15 WIB Zimbabwe Women vs Bangladesh Women Cricket ICC TV - ALT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1794589384~acl=*%2fchannel(vcg-01-ch-hd-07)%2f*~id=df636eee-0529-4299-91da-e8ce8c8790f0~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=6e9b89ed3891607678596995263356104ae07d9b14fb763adbcfd44a98763925/manifest.mpd?vcfilter=64cee3c3-d133-4603-8993-f9108a5f90cb|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/417062/image",16:15 WIB Zimbabwe Women vs Bangladesh Women Cricket MyCO - AQ
+#EXTVLCOPT:http-referrer=https://myco.io/
+https://ml-pull-rtmp-pk1.myco.io/Feed2/hls/index.m3u8|referer=https://myco.io/
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/446070/image",16:15 WIB Thailand Women vs Pakistan Women Cricket ICC TV - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1794589451~acl=*%2fchannel(vcg-01-ch-hd-06)%2f*~id=df636eee-0529-4299-91da-e8ce8c8790f0~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=57a51c091cbec36963af2eb166712d9178c81abbbb7f6d1af9f5d7c044562088/manifest.mpd?vcfilter=1b53d98b-6b74-4ebf-aab9-b5a80542c7ae|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/446070/image",16:15 WIB Thailand Women vs Pakistan Women Cricket ICC TV - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1794589451~acl=*%2fchannel(vcg-01-ch-hd-06)%2f*~id=df636eee-0529-4299-91da-e8ce8c8790f0~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=57a51c091cbec36963af2eb166712d9178c81abbbb7f6d1af9f5d7c044562088/manifest.mpd?vcfilter=1b53d98b-6b74-4ebf-aab9-b5a80542c7ae|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/446070/image",16:15 WIB Thailand Women vs Pakistan Women Cricket MyCO - AQ
+#EXTVLCOPT:http-referrer=https://myco.io/
+https://ml-pull-rtmp-pk1.myco.io/Feed1/hls/index.m3u8|referer=https://myco.io/
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/446070/image",16:15 WIB Thailand Women vs Pakistan Women Cricket TAMASHA - AQ
+https://cdn01lhr-n.tamashaweb.com:8087/appcast/ICC-women-NT2026-svod-B-abr/playlist.m3u8
 # ===== SOURCE 6 =====
 #PLAYLIST:Willow Cricket Event Info
 #LAST_UPDATE:03:32 PM 16-10-2026
@@ -64,5 +131,5 @@ https://site04.superabbit77hd.skin/es/volleyball/poland-plus-liga-2251067/slepsk
 https://site04.superabbit77hd.skin/es/volleyball/poland-plus-liga-2252004/cuprum-vs-barkom.html?icg=UEU
 # ===== SOURCE 9 =====
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",JapanMasters Badminton 2026 Court 1 HUYA
-http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1.flv?wsSecret=785beb741b07b77f3306433e96759fa6&wsTime=6af830e9&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1.flv?wsSecret=0bdc58bb63c568415d6677306bac8409&wsTime=6af8328e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 # ===== SOURCE 11 =====
