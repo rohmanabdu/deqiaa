@@ -145,6 +145,11 @@ https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive1411/ENG/std_lrh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 https://www.rtmpcdn.com/live/p-0e9196792b97416bb74cc911cf1e9e85.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/24360/image",22:15 WIB Real Sociedad B vs Sporting Gijon Football LaLiga Hypermotion
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a
+https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
 # ===== SOURCE 6 =====
 #PLAYLIST:Willow Cricket Event Info
 #LAST_UPDATE:03:32 PM 16-10-2026
