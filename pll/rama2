@@ -88,18 +88,6 @@ https://sonymtmnew-akamaized.pages.dev/out/v1/mpchgp431f/mpchc857/cricodi_1411-e
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398873589427_DP_World_Tour_Championship_Dubai_day3_landscape_thumb.jpg" group-title="LIVE EVENT", DP World Tour Championship Dubai - Day 3 DP World Tour Sony Liv
 https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/Golf_DPW1411/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6001a8d3f64a73637717fca269b7b106-1794645000448
 # ===== SOURCE 5 =====
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/187575/image",13:00 WIB Afghanistan vs Zimbabwe Cricket WILLOW - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9373c3f08c6578544e0ea1999e95418b:10a7f6e8177486dfca9bb5696779dd02
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x8iyqzo7wh/out/v1/8c628f2f334e46a683092f62d2659733/cenc.mpd
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/187575/image",13:00 WIB Afghanistan vs Zimbabwe Cricket WILLOW - ALT
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9373c3f08c6578544e0ea1999e95418b:10a7f6e8177486dfca9bb5696779dd02
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x8iyqzo7wh/out/v1/8c628f2f334e46a683092f62d2659733/cenc.mpd
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/187575/image",13:00 WIB Afghanistan vs Zimbabwe Cricket A SPORTS HD
-https://live.msnetworks.net/a-sports/master.m3u8
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&amp;s",18:15 WIB NPL Nepal Premier League Cricket FANCODE - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
