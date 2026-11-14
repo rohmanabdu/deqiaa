@@ -207,6 +207,11 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zpvxatoc2m/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/4704/image",02:45 WIB Portugal vs Denmark Football VIX SPANISH - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2dedfcde92d45b2e842c0ad6e232da99:6f6dde86cfc7b38536f63a9cb8ec4fb4
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ihi0mufrnr/out/v1/aef31af53940433bb1b5a1d1eaa6ed5d/cenc.mpd
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/4704/image",02:45 WIB Portugal vs Denmark Football beIN ENGLISH - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -277,6 +282,11 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sl7p3h7xfr/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14f9adfd027763080b3895dc4c8763a5:11b6a84ba7ff8269d7b2938f573dc147
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tryvdw6bar/out/v1/92a1ecd872634f30ab2f1cf7710d5108/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/4477/image",02:45 WIB Romania vs Poland Football VIX SPANISH - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eecbc3e625a89d65f8631f13821aca10:ed8bc669eb49b29dd072f39ad45e2f4e
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/skjmkvw3ut/out/v1/4df741b740c1401a93dd7f933bdde012/cenc.mpd
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/4477/image",02:45 WIB Romania vs Poland Football SonyLiv
 https://dai.google.com/linear/hls/event/N8hV26xoRFe_xYegH2wLGA/master.m3u8
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/4477/image",02:45 WIB Romania vs Poland Football HD SERVER
@@ -293,6 +303,11 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4vrizaujol/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3455d3cf988d7b42a58f9bcc27a0cfc8:8813dd97264d6dcc855973fe329c3394
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u6b0x5vjtk/out/v1/9cbd94546b9e412db4890325de040e9d/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/4688/image",02:45 WIB Sweden vs Bosnia Herzegovina Football VIX SPANISH - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=da59a1c79bab88136d6f932f82a37083:54c9b659302a67fd07cf6694c8604283
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c0sod0bue5/out/v1/b853456a96d8434cb6cea6ade4feddd3/cenc.mpd
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/4688/image",02:45 WIB Sweden vs Bosnia Herzegovina Football beIN ENGLISH - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
